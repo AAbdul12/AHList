@@ -25,6 +25,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 172072570	2021-04-21	15-29-state-circle-deakin-canberra	$480 per week
 172693700	2021-04-21	19-marcus-clarke-street-city-canberra	$650 per week
 173455572	2021-01-01	no-street-name-provided-chifley-canberra	$120 per week
+174249055	2021-10-12	no-street-name-provided-dickson-canberra	$899 per week
 175330447	2021-01-08	no-street-name-provided-belconnen-canberra	$500 per week
 175372485	2021-01-27	30-1-gungahlin-place-gungahlin-canberra	$380 per week
 175468931	2021-03-13	118-osburn-drive-macgregor-canberra	$650-$750 per week
@@ -38,6 +39,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 176350975	2021-01-08	no-street-name-provided-griffith-canberra	$700 per week
 176350975	2021-01-18	no-street-name-provided-griffith-canberra	$650 per week
 176350975	2021-01-21	no-street-name-provided-griffith-canberra	$650 per week
+176433226	2021-10-12	no-street-name-provided-casey-canberra	$600 per week
 177086945	2021-01-08	73-217-northbourn-avenue-turner-canberra	$825 per week
 177632476	2021-01-27	95-oodgeroo-avenue-franklin-canberra	$800 per week
 177654549	2021-03-18	no-street-name-provided-page-canberra	By Negotiation
@@ -576,6 +578,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 179578017	2021-07-14	1612-240-bunda-street-city-canberra	$1,450 per week
 179578017	2021-07-23	1612-240-bunda-street-city-canberra	$1,400 per week
 179578364	2021-07-23	3-27-stockdale-street-dickson-canberra	$750 per week
+179580328	2021-10-12	no-street-name-provided-kaleen-canberra	$650 per week
 179580460	2021-06-21	78-77-northbourne-avenue-turner-canberra	$600 - $650
 179580518	2021-07-14	no-street-name-provided-gungahlin-canberra	$450 per week
 179583497	2021-06-21	30-gymea-street-narrabundah-canberra	$580 per week
@@ -693,21 +696,18 @@ ListingId	UpdateOnDate	Address	NewPrice
 179725662	2021-07-31	80-43-eastlake-parade-kingston-canberra	$820 per week
 179732289	2021-07-31	2-12-wongoola-close-o-connor-canberra	$700 per week
 179736869	2021-09-03	41-frome-street-griffith-canberra	$700 per week
-179769434	2021-09-03	g50-44-marie-little-crescent-denman-prospect-canberra	$550 pw
-179781084	2021-09-03	54-19-fawkner-street-braddon-canberra	$475 per week
-179781361	2021-09-03	12-eildon-place-duffy-canberra	$950 per week
-179803284	2021-09-03	57-9-braybrooke-street-bruce-canberra	$650 - $680 per week
-179810389	2021-09-03	116-43-currong-street-north-braddon-canberra	$675.00 per week
-179826108	2021-09-03	52-18-captain-cook-crescent-griffith-canberra	$485 per week
-174249055	2021-10-12	no-street-name-provided-dickson-canberra	$899 per week
-176433226	2021-10-12	no-street-name-provided-casey-canberra	$600 per week
-179580328	2021-10-12	no-street-name-provided-kaleen-canberra	$650 per week
 179743471	2021-10-12	14-18-austin-street-griffith-canberra	$550 per week
 179744228	2021-10-12	208-1-elourea-street-braddon-canberra	$600 per week
 179752399	2021-10-12	10-mccoll-street-ainslie-canberra	$800 per week
+179769434	2021-09-03	g50-44-marie-little-crescent-denman-prospect-canberra	$550 pw
+179781084	2021-09-03	54-19-fawkner-street-braddon-canberra	$475 per week
+179781361	2021-09-03	12-eildon-place-duffy-canberra	$950 per week
 179789292	2021-10-12	115-32-blackall-street-barton-canberra	$500 per week
 179791859	2021-10-12	426-2-anzac-parade-campbell-canberra	$680 - $730 per week
+179803284	2021-09-03	57-9-braybrooke-street-bruce-canberra	$650 - $680 per week
+179810389	2021-09-03	116-43-currong-street-north-braddon-canberra	$675.00 per week
 179812242	2021-10-12	15-2-blamey-place-campbell-canberra	$1,050 per week
+179826108	2021-09-03	52-18-captain-cook-crescent-griffith-canberra	$485 per week
 179836226	2021-10-12	510-2-batman-street-braddon-canberra	$580 per week
 179862381	2021-10-12	522-1-elouera-street-braddon-canberra	$560 per week
 179866860	2021-10-12	518-74-northbourne-avenue-braddon-canberra	$530 per week
@@ -734,3 +734,30 @@ ListingId	UpdateOnDate	Address	NewPrice
 179933714	2021-10-12	11-bromham-street-forde-canberra	$900 per week
 179943559	2021-10-12	1606-161-emu-bank-belconnen-canberra	$660 per week
 179946189	2021-10-12	802-161-emu-bank-belconnen-canberra	FIRST WEEK FREE! $670 per week
+176433226	2021-10-15	23-rockwood-street-casey-canberra	$580 per week
+179580328	2021-10-15	no-street-name-provided-kaleen-canberra	$650 per week
+179752399	2021-10-15	10-mccoll-street-ainslie-canberra	$800 per week
+179800587	2021-10-15	408-107-canberra-avenue-griffith-canberra	$540 per week
+179812242	2021-10-15	15-2-blamey-place-campbell-canberra	$1,050 per week
+179836226	2021-10-15	510-2-batman-street-braddon-canberra	$580 per week
+179856877	2021-10-15	26-hann-street-griffith-canberra	$800 per week
+179866860	2021-10-15	518-74-northbourne-avenue-braddon-canberra	$530 per week
+179884746	2021-10-15	221-92-northbourne-avenue-braddon-canberra	$670-700
+179895605	2021-10-15	206-47-currong-street-braddon-canberra	$620 per week
+179904025	2021-10-15	18-7-sydney-avenue-barton-canberra	$595 per week
+179907436	2021-10-15	15-irving-street-phillip-canberra	$795 per week
+179913383	2021-10-15	4-werribee-crescent-farrer-canberra	$820 per week
+179916350	2021-10-15	215-8-cape-street-dickson-canberra	$580.00 per week
+179918568	2021-10-15	24b-dalrymple-street-red-hill-canberra	$700 per week
+179920194	2021-10-15	69-115-canberra-avenue-griffith-canberra	$620 per week
+179923535	2021-10-15	73-5-burnie-street-lyons-canberra	$620 per week
+179924883	2021-10-15	4-40-mort-street-braddon-canberra	$500 per week
+179924962	2021-10-15	64-74-leichhardt-street-griffith-canberra	$530 per week
+179927370	2021-10-15	12-18-austin-street-griffith-canberra	$750 per week
+179928178	2021-10-15	17-davenport-street-ainslie-canberra	$650 pw
+179931136	2021-10-15	402-161-emu-bank-belconnen-canberra	$599-$650 per week
+179934305	2021-10-15	602-161-emu-bank-belconnen-canberra	$595 per week
+179941690	2021-10-15	1508-15-bowes-street-phillip-canberra	$760 per week
+179943559	2021-10-15	1606-161-emu-bank-belconnen-canberra	$660 per week
+179946189	2021-10-15	802-161-emu-bank-belconnen-canberra	FIRST WEEK FREE! $670 per week
+179959072	2021-10-15	19-217-northbourne-avenue-turner-canberra	$650 pw
