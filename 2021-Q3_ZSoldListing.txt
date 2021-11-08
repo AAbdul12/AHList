@@ -167,7 +167,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 45864	House	2021-08-05	$1.65M	2021-10-11	$1,600,000	3	2	1		594.0	Bella Coastal Property	4-northaven-avenue-bawley-point-nsw-2539
 45884	Land	2021-08-05	$499,000	2021-09-07	$485,000	0	0	0		723.0	Sails Real Estate	1-elizabeth-parade-tura-beach-nsw-2548
 45886	House	2021-08-05	Auction	2021-10-14	Undisclosed	5	3	5	4.5	2041.0	Blackshaw Manuka	8-akame-circuit-omalley-act-2606
-45887	Apartment	2021-08-06	$470,000+	2021-11-02	Undisclosed	2	1	1	6.0		Luton Weston Creek & Molonglo Valley	15-60-callam-street-phillip-act-2606
+45887	Apartment	2021-08-06	$470,000+	2021-11-02	Undisclosed	2	1	1	6.00		Luton Weston Creek & Molonglo Valley	15-60-callam-street-phillip-act-2606
 45891	Townhouse	2021-08-06	Price On Request	2021-09-29	Undisclosed	4	4	2	3.0	1160.0	Bastion Property Group	5-15-dalman-crescent-omalley-act-2606
 45892	House	2021-08-06	Price On Request	2021-09-20	Undisclosed	4	1	2	0.5	807.0	Bastion Property Group	18-knaggs-crescent-page-act-2614
 45898	House	2021-08-06	$879,000+	2021-09-29	$976,000	3	1	2	1.0	784.0	LJ Hooker Gungahlin	107-onkaparinga-crescent-kaleen-act-2617
@@ -190,7 +190,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 45977	House	2021-08-09	By Negotiation	2021-09-22	$1,270,000	5	4	3	6.0	0.0	Confidence Real Estate	2-rachel-makinson-street-strathnairn-act-2615
 45985	House	2021-08-09	AUCTION Online Sat 11 Sept 3.30pm	2021-09-13	$738,000	3	1	1	6.0	0.0	Upside	7-maclurcan-street-franklin-act-2913
 45987	Townhouse	2021-08-09	Offers over $599,000	2021-10-07	$660,000	3	1	2	1.0		Luton Manuka	24-8-jondol-place-isabella-plains-act-2905
-45993	House	2021-08-09	$720,000	2021-11-04	$670,000	3	1	2		4277.0	LJ Hooker Tuross Head	26-princes-highway-bodalla-nsw-2545
+45993	House	2021-08-09	$720,000	2021-11-04	$670,000	3	1	2		4277.00	LJ Hooker Tuross Head	26-princes-highway-bodalla-nsw-2545
 45997	Unit	2021-08-09	$825,000	2021-11-05	$818,000	3	2	2			Henley Property - Jindabyne	12-36-clyde-street-jindabyne-nsw-2627
 45998	House	2021-08-09	Price Guide $800,000 - $840,000	2021-09-22	$835,000	4	2	2		601.0	Sails Real Estate	54-pambula-beach-road-pambula-beach-nsw-2549
 46009	House	2021-08-10	Sold at auction $1,180,000.00	2021-09-04	$1,180,000	3	2	6	3.5	0.0	McGrath Canberra	7-eaton-place-monash-act-2904
@@ -323,7 +323,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 46368	House	2021-08-23	Auction	2021-09-04	$705,000	3	1	1	5.5	240.0	Luton Dickson	9-maclurcan-street-franklin-act-2913
 46370	Alpine	2021-08-23	Auction	2021-09-23	Undisclosed	3	3	0			Henley Property - Jindabyne	11-mountain-drive-thredbo-nsw-2625
 46371	House	2021-08-23	Auction	2021-09-07	$600,000	4	1	3			Ray White Goulburn	11-marsden-street-goulburn-nsw-2580
-46372	Land	2021-08-23	$399,000	2021-11-05	$380,000	0	0	0		1339.00	LJ Hooker Batemans Bay	7b-palana-street-surfside-nsw-2536
+46372	Land	2021-08-23	$399,000	2021-11-05	$380,000	0	0	0		1339.0	LJ Hooker Batemans Bay	7b-palana-street-surfside-nsw-2536
 46376	Unit	2021-08-23	Forthcoming Auction	2021-09-22	$250,000	1	1	0	3.51	0.0	Wright Dunn Real Estate	3-127-madigan-street-hackett-act-2602
 46379	House	2021-08-23		2021-10-05	Undisclosed	4	2	2		1734.0	Tathra Beach Real Estate	30-thompson-drive-tathra-nsw-2550
 46380	Apartment	2021-08-23	AUCTION	2021-09-22	$472,500	1	1	1			Henley Property - Jindabyne	7-3-kurrajong-street-jindabyne-nsw-2627
@@ -654,7 +654,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 47270	House	2021-09-21	$699,000	2021-09-29	$699,000	3	2	2			LJ Hooker Malua Bay	24b-sylvan-street-malua-bay-nsw-2536
 47274	Townhouse	2021-09-21	$430,000	2021-10-12	$420,000	2	1	1			Ray White Queanbeyan | Jerrabomberra	9-47-booth-street-queanbeyan-nsw-2620
 47278	Lifestyle	2021-09-21	Auction	2021-10-05	$912,000	3	1	5		20.22	Raine & Horne Goulburn	311-forest-siding-road-middle-arm-nsw-2580
-47279	Land	2021-09-21	Auction	2021-11-02	$80,000	0	0	0		4047.0	Raine & Horne Goulburn	1-3-lachlan-street-bigga-via-crookwell-nsw-2583
+47279	Land	2021-09-21	Auction	2021-11-02	$80,000	0	0	0		4047.00	Raine & Horne Goulburn	1-3-lachlan-street-bigga-via-crookwell-nsw-2583
 47281	House	2021-09-21	AUCTION	2021-10-01	$1,500,000	4	3	6	0.5		Michael Potter Real Estate	10-steinwedel-street-farrer-act-2607
 47282	Townhouse	2021-09-21	AUCTION	2021-10-09	Undisclosed	3	1	2	6.0		Michael Potter Real Estate	6-9-tasman-place-lyons-act-2606
 47284	House	2021-09-21	Auction	2021-09-28	$950,000	3	2	1	1.0	1001.0	Michael Potter Real Estate	5-annear-place-fadden-act-2904
@@ -766,7 +766,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 47517	Land	2021-09-28	Auction	2021-10-20	$405,000	0	0	0		861.0	Henley Property - Jindabyne	3-lantana-drive-kalkite-nsw-2627
 47518	Land	2021-09-28	Auction	2021-10-20	$1,415,000	0	0	0		1638.0	Henley Property - Jindabyne	25-echidna-place-east-jindabyne-nsw-2627
 47519	House	2021-09-28	Sold prior to auction	2021-10-09	$975,000	4	2	2	3.5	555.0	Morrissey Property	90-burdekin-avenue-amaroo-act-2914
-47522	House	2021-09-28	Auction	2021-11-03	$1,215,000	3	1	1		1015.0	Henley Property - Jindabyne	4-power-place-jindabyne-nsw-2627
+47522	House	2021-09-28	Auction	2021-11-03	$1,215,000	3	1	1		1015.00	Henley Property - Jindabyne	4-power-place-jindabyne-nsw-2627
 47526	House	2021-09-28	VIRTUAL AUCTION	2021-10-18	$880,000	3	2	3	3.0	0.0	McIntyre Property	53-carslake-loop-gordon-act-2906
 47527	Townhouse	2021-09-28	VIRTUAL AUCTION	2021-10-18	$685,000	3	1	1	3.0	0.0	McIntyre Property	7-17-maddock-place-gordon-act-2906
 47530	Townhouse	2021-09-28	Auction 23rd October at 3.30pm	2021-10-23	$703,000	3	1	2	5.0	362.0	LJ Hooker Tuggeranong	50-30-ebenezer-street-bonython-act-2905
