@@ -92,7 +92,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 45509	House	2021-07-29	$859,000 - $899,000	2021-09-01	Undisclosed	4	2	2	4.0		LJ Hooker Manuka	19-withnell-circuit-kambah-act-2902
 45510	House	2021-07-29	Auction 25/09/2021	2021-09-25	$915,000	4	2	2	3.0	0.0	PURNELL	38-carslake-loop-gordon-act-2906
 45512	House	2021-07-29	$1,375,000	2021-09-09	Undisclosed	5	2	2	5.0	604.0	VERV Property	40-cazneaux-crescent-weston-act-2611
-45515	Apartment	2021-07-29	$649,000 - $699,000	2021-12-22	$653,500	2	2	2	6.00		LJ Hooker Manuka	25-1-gordon-street-city-act-2601
+45515	Apartment	2021-07-29	$649,000 - $699,000	2021-12-22	$653,500	2	2	2	6.0		LJ Hooker Manuka	25-1-gordon-street-city-act-2601
 45520	House	2021-07-29	$850,000+	2021-09-21	Undisclosed	4	2	1	3.0		One Agency Sandy Morris	9-werriwa-crescent-isabella-plains-act-2905
 45526	Apartment	2021-07-29	$445,000	2021-09-01	$445,000	1	1	1	6.0		home.by holly	508-45-furzer-street-phillip-act-2606
 45528	House	2021-07-29	Price On Request	2021-11-21	Undisclosed	4	3	1	4.0	640.0	Bastion Property Group	44-piddington-street-watson-act-2602
@@ -296,16 +296,17 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 46192	House	2021-08-14	Price Guide $659,000 - $669,000	2021-09-23	$650,000	3	2	1			Ray White Batemans Bay	2-10-peninsula-drive-north-batemans-bay-nsw-2536
 46194	Townhouse	2021-08-14	$630,000	2021-09-01	$649,800	3	2	2	0.0	0.0	BRADYS Real Estate	10-50-52-ellendon-street-bungendore-nsw-2621
 46198	House	2021-08-14	On-Line Auction	2021-09-08	$475,000	2	1	0		677.0	Ray White Rural Canberra | Yass	47-lead-st-yass-nsw-2582
-46201	House	2021-08-15	Price Guide $690,000 - $720,000	2021-12-22	$710,000	2	1	3		680.00	Ray White Batemans Bay	8a-ridge-street-catalina-nsw-2536
+46201	House	2021-08-15	Price Guide $690,000 - $720,000	2021-12-22	$710,000	2	1	3		680.0	Ray White Batemans Bay	8a-ridge-street-catalina-nsw-2536
 46202	House	2021-08-15	ONLINE AUCTION	2021-09-17	$867,000	3	1	2	1.5		Maria Selleck Properties	11a-cahalan-place-evatt-act-2617
 46203	Townhouse	2021-08-15	AUCTION	2021-09-16	$1,132,000	3	3	2			Henley Property - Jindabyne	2-123-gippsland-street-jindabyne-nsw-2627
 46204	Townhouse	2021-08-16	Auction	2021-09-04	Undisclosed	2	2	1	6.0	0.0	Luton Weston Creek & Molonglo Valley	11-3-felstead-vista-denman-prospect-act-2611
 46205	Townhouse	2021-08-16	Auction	2021-10-09	Undisclosed	3	2	2	6.0	0.0	Luton Weston Creek & Molonglo Valley	19-18-sellbach-street-weston-act-2611
 46206	House	2021-08-16	Auction	2021-09-17	$795,000	3	2	1		62.5	Ray White Goulburn	355-covan-creek-road-goulburn-nsw-2580
-46208	House	2021-08-16	$1,399,000	2021-12-22	$1,399,000	4	3	3		996.00	Hallmark Real Estate Advisors	217-hector-mcwilliam-drive-tuross-head-nsw-2537
+46208	House	2021-08-16	$1,399,000	2021-12-22	$1,399,000	4	3	3		996.0	Hallmark Real Estate Advisors	217-hector-mcwilliam-drive-tuross-head-nsw-2537
 46211	AcreageSemi-rural	2021-08-16	1,350,000	2021-10-30	$1,300,000	3	2	2		25.0	Fraser-Gray Real Estate	588-larrys-mountain-road-moruya-nsw-2537
 46212	House	2021-08-16	$630,000	2021-09-20	$630,000	5	3	6		961.0	Fraser-Gray Real Estate	5-gundary-street-moruya-nsw-2537
 46216	House	2021-08-16	$765,000	2021-09-27	$785,000	3	1	2		909.0	Fraser-Gray Real Estate	4-broulee-road-broulee-nsw-2537
+46217	House	2021-08-16	$665,000	2022-01-14	$655,000	2	1	2		601.00	Fraser-Gray Real Estate	6-manly-street-tuross-head-nsw-2537
 46218	House	2021-08-16	$1,300,000	2021-11-26	$1,200,000	4	2	6		3244.0	Fraser-Gray Real Estate	283-north-head-drive-moruya-nsw-2537
 46219	House	2021-08-16	$826,000	2021-09-18	$826,000	5	2	4		604.0	My Agent Christine Ewin	14-peter-crescent-batehaven-nsw-2536
 46220	House	2021-08-16	$699,000	2021-09-30	$675,000	4	2	1		847.0	LJ Hooker Batemans Bay	8-sunset-street-surfside-nsw-2536
@@ -468,7 +469,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 46725	House	2021-09-03	Price Guide $1,130,000 to $1,195,000	2021-11-11	$1,120,000	4	3	3		830.0	Ray White Batemans Bay	1-batman-place-sunshine-bay-nsw-2536
 46726	Townhouse	2021-09-03	Auction	2021-09-22	$753,000	2	1	1	1.0	282.0	Michael Potter Real Estate	29-mcnamara-street-pearce-act-2607
 46727	Land	2021-09-04	$265,000	2021-10-26	$265,000	0	0	0		1480.0	McCann Properties	lot-219-green-avenue-gunning-nsw-2581
-46728	Townhouse	2021-09-04	$1,190,000	2021-12-23	$1,190,000	3	2	2		312.00	Sails Real Estate	29-1-elizabeth-street-merimbula-nsw-2548
+46728	Townhouse	2021-09-04	$1,190,000	2021-12-23	$1,190,000	3	2	2		312.0	Sails Real Estate	29-1-elizabeth-street-merimbula-nsw-2548
 46729	Land	2021-09-04	$279,000	2021-10-26	$279,000	0	0	0		1036.0	McCann Properties	lot-225-green-avenue-gunning-nsw-2581
 46730	Land	2021-09-04	$245,000	2021-10-27	$245,000	0	0	0		1008.0	McCann Properties	lot-216-green-avenue-gunning-nsw-2581
 46731	House	2021-09-04	Auction	2021-09-10	$1,100,000	4	2	2	4.5	455.0	Luton Gungahlin	23-brumby-street-harrison-act-2914
