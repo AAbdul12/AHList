@@ -530,7 +530,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 49014	House	2021-10-27	Sold - $1,200,000	2021-11-15	$1,200,000	4	2	3	5.0	738.0	Stone Gungahlin	15-mchenry-street-amaroo-act-2914
 49017	House	2021-10-27	$1,199,000+	2021-12-07	$1,210,000	4	2	2	4.5		McGrath Canberra	bruce-2617-act
 49019	Apartment	2021-10-27	$285,000+	2021-11-30	$325,500	2	1	1	2.5		Ray White Canberra	12-30-chappell-street-lyons-act-2606
-49020	Apartment	2021-10-27	Sold - Contact Agent	2022-03-16	Undisclosed	1	1	1	6.00	4181.00	New Door Properties	1023-240-bunda-street-city-act-2601
+49020	Apartment	2021-10-27	Sold - Contact Agent	2022-03-16	Undisclosed	1	1	1	6.0	4181.0	New Door Properties	1023-240-bunda-street-city-act-2601
 49021	House	2021-10-27	AUCTION	2021-11-20	Undisclosed	5	2	3		1202.0	VERV Property	10-larmer-street-bungendore-nsw-2621
 49031	House	2021-10-27	Auction	2021-11-05	$565,000	2	1	1	6.0		LJ Hooker Dickson	64-tay-street-watson-act-2602
 49033	Townhouse	2021-10-27	Contact Agent	2021-11-10	Undisclosed	3	2	2	6.0		Blackshaw Belconnen	1-34-hollingsworth-street-gungahlin-act-2912
@@ -1413,7 +1413,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 50844	House	2021-11-26	Price Range from $679,000 to $729,000	2021-12-20	$700,000	4	2	0			Ray White Batemans Bay	22-wallarah-street-surfside-nsw-2536
 50849	Unit	2021-11-26	$410,000+	2022-01-20	$412,500	1	1	1	6.0	0.0	LJ Hooker Dickson	7-65-torrens-street-braddon-act-2612
 50853	House	2021-11-26	Sold Prior Auction $1,180,000	2021-12-14	$1,180,000	4	3	2	6.0	488.0	New Door Properties	14-crone-terrace-taylor-act-2913
-50854	Apartment	2021-11-26	By Negotiation	2022-03-15	Undisclosed	1	1	1	6.00	0.00	Ray White Canberra	721-240-bunda-street-city-act-2601
+50854	Apartment	2021-11-26	By Negotiation	2022-03-15	Undisclosed	1	1	1	6.0	0.0	Ray White Canberra	721-240-bunda-street-city-act-2601
 50860	House	2021-11-26	$460,000	2022-01-12	Undisclosed	3	1	2		1012.0	Raine & Horne Young	50-wombat-street-young-nsw-2594
 50862	Apartment	2021-11-26	$500,000	2021-12-17	$500,000	1	1	1	6.0		home.by holly	705-53-mort-street-braddon-act-2612
 50864	House	2021-11-26	Auction 16/12/2021	2021-12-16	$765,000	3	2	1	1.0	851.0	Ray White Canberra	64-pennefather-street-higgins-act-2615
@@ -1611,7 +1611,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 51414	House	2021-12-09	Contact Agent	2022-02-23	$880,000	3	1	1		765.0	Bella Coastal Property	122-south-street-ulladulla-nsw-2539
 51415	House	2021-12-09	Contact Agent	2022-01-17	$822,000	4	2	3		668.0	Ian McNamee & Partners - Queanbeyan	4-naylor-close-crestwood-nsw-2620
 51417	House	2021-12-09	$740,000	2022-01-13	$770,000	3	2	2	6.0	247.0	The Real Estate Shop	100-mabo-boulevard-bonner-act-2914
-51419	House	2021-12-09	$1,725,000	2022-03-11	Undisclosed	4	3	3	3.00	1379.00	One Agency Sandy Morris	25-apperly-close-kambah-act-2902
+51419	House	2021-12-09	$1,725,000	2022-03-11	Undisclosed	4	3	3	3.0	1379.0	One Agency Sandy Morris	25-apperly-close-kambah-act-2902
 51424	Apartment	2021-12-09	$375,000 Plus	2022-01-25	$390,000	2	1	1	5.5		Maloney's Property	1-54-chaseling-street-phillip-act-2606
 51425	House	2021-12-09	Auction 29/01/2022	2022-01-18	Undisclosed	4	2	2	4.0	580.0	LJ Hooker Dickson	6b-alt-crescent-ainslie-act-2602
 51428	House	2021-12-09	Forthcoming Auction	2022-01-10	$815,000	4	2	3		601.0	Ian McNamee & Partners - Queanbeyan	81-pindari-crescent-karabar-nsw-2620
@@ -1756,7 +1756,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 51872	Unit	2021-12-21	By Negotiation	2022-01-21	$422,000	2	2	2	6.0		LJ Hooker Kippax	99-68-hardwick-crescent-holt-act-2615
 51879	House	2021-12-21	Auction, On-Site, 22/01/2022 at 1:30pm	2022-01-22	Undisclosed	4	2	2	4.0	405.0	Impact Properties	59-madgwick-street-coombs-act-2611
 51880	House	2021-12-22	Sold off Market - $1,450,000	2021-12-21	$1,430,000	5	3	2			McGrath Canberra	69-westbury-circuit-nicholls-act-2913
-51881	Apartment	2021-12-22	$726,000	2022-03-10	$726,000	3	2	2	6.00		Maloney's Property	13-2-hopegood-place-garran-act-2605
+51881	Apartment	2021-12-22	$726,000	2022-03-10	$726,000	3	2	2	6.0		Maloney's Property	13-2-hopegood-place-garran-act-2605
 51882	House	2021-12-22	Auction 28/01/2022	2022-01-28	Undisclosed	6	3	2	4.0	907.0	Ray White Canberra	8-slavin-place-gordon-act-2906
 51883	House	2021-12-22	$920,000+	2022-02-22	Undisclosed	4	2	2	4.0	780.0	Ray White Canberra	7-flegg-crescent-gordon-act-2906
 51885	Unit	2021-12-22	$521,500	2022-01-20	$521,500	2	2	2	6.0		McGrath Canberra	120-20-federal-highway-watson-act-2602
