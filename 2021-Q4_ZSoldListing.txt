@@ -671,7 +671,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 49277	Land	2021-11-01	Auction	2021-12-04	$400,000	0	0	0		1055.1	Ray White Batemans Bay	lot-610-freycinet-drive-sunshine-bay-nsw-2536
 49278	Land	2021-11-01	$360,000	2022-02-11	$360,000	0	0	0		630.8	Ray White Batemans Bay	lot-614-freycinet-drive-sunshine-bay-nsw-2536
 49279	Land	2021-11-01	$360,000	2022-01-19	$360,000	0	0	0		630.9	Ray White Batemans Bay	lot-613-freycinet-drive-sunshine-bay-nsw-2536
-49280	Land	2021-11-01	$380,000	2022-03-18	$370,000	0	0	0		761.7	Ray White Batemans Bay	lot-611-freycinet-drive-sunshine-bay-nsw-2536
+49280	Land	2021-11-01	$380,000	2022-03-18	$370,000	0	0	0		761.70	Ray White Batemans Bay	lot-611-freycinet-drive-sunshine-bay-nsw-2536
 49281	Land	2021-11-01	Auction	2021-12-04	$355,000	0	0	0		685.1	Ray White Batemans Bay	lot-615-freycinet-drive-sunshine-bay-nsw-2536
 49284	Unit	2021-11-01	$195,000	2021-11-16	$195,000	1	1	1			LJ Hooker Queanbeyan – Jerrabomberra – Googong	15-124-henderson-road-crestwood-nsw-2620
 49285	House	2021-11-01	$630,000 - $680,000	2021-11-18	$805,000	3	2	2		968.0	My Agent Christine Ewin	42-long-beach-road-long-beach-nsw-2536
@@ -1038,7 +1038,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 50027	Townhouse	2021-11-12	Auction 02/12/2021	2021-12-02	Undisclosed	4	2	2	4.0		Ray White Canberra	10-23-kinloch-circuit-bruce-act-2617
 50029	DuplexSemi-detached	2021-11-12	$885,000	2021-11-29	Undisclosed	4	2	2		556.0	Whale Coast Realty	53-tatiara-street-dalmeny-nsw-2546
 50031	House	2021-11-06	$950,000	2022-02-21	$950,000	3	1	1		1284.0	Clearwater Real Estate Narooma	90-murrah-st-bermagui-nsw-2546
-50032	House	2021-11-13	UNDER CONTRACT	2022-03-15	$1,300,000	4	3	0		1150.0	Clearwater Real Estate Narooma	3-corunna-st-narooma-nsw-2546
+50032	House	2021-11-13	UNDER CONTRACT	2022-03-15	$1,300,000	4	3	0		1150.00	Clearwater Real Estate Narooma	3-corunna-st-narooma-nsw-2546
 50036	Apartment	2021-11-13	Auction	2021-12-21	$775,000	2	2	2	6.0		Burgess Rawson Residential	605-32-mort-street-braddon-act-2612
 50037	House	2021-11-14	Price Withheld- SOLD PRIOR TO AUCTION	2021-12-08	Undisclosed	4	2	2	5.0	536.0	One Agency Gungahlin	1-laffan-street-coombs-act-2611
 50039	Unit	2021-11-14	$650,000	2021-11-14	$650,000	2	1	1			Sails Real Estate	1-10-marine-parade-merimbula-nsw-2548
@@ -1416,7 +1416,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 50844	House	2021-11-26	Price Range from $679,000 to $729,000	2021-12-20	$700,000	4	2	0			Ray White Batemans Bay	22-wallarah-street-surfside-nsw-2536
 50849	Unit	2021-11-26	$410,000+	2022-01-20	$412,500	1	1	1	6.0	0.0	LJ Hooker Dickson	7-65-torrens-street-braddon-act-2612
 50853	House	2021-11-26	Sold Prior Auction $1,180,000	2021-12-14	$1,180,000	4	3	2	6.0	488.0	New Door Properties	14-crone-terrace-taylor-act-2913
-50854	Apartment	2021-11-26	By Negotiation	2022-03-15	Undisclosed	1	1	1	6.0	0.0	Ray White Canberra	721-240-bunda-street-city-act-2601
+50854	Apartment	2021-11-26	By Negotiation	2022-03-15	Undisclosed	1	1	1	6.00	0.00	Ray White Canberra	721-240-bunda-street-city-act-2601
 50860	House	2021-11-26	$460,000	2022-01-12	Undisclosed	3	1	2		1012.0	Raine & Horne Young	50-wombat-street-young-nsw-2594
 50862	Apartment	2021-11-26	$500,000	2021-12-17	$500,000	1	1	1	6.0		home.by holly	705-53-mort-street-braddon-act-2612
 50864	House	2021-11-26	Auction 16/12/2021	2021-12-16	$765,000	3	2	1	1.0	851.0	Ray White Canberra	64-pennefather-street-higgins-act-2615
@@ -1615,6 +1615,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 51415	House	2021-12-09	Contact Agent	2022-01-17	$822,000	4	2	3		668.0	Ian McNamee & Partners - Queanbeyan	4-naylor-close-crestwood-nsw-2620
 51417	House	2021-12-09	$740,000	2022-01-13	$770,000	3	2	2	6.0	247.0	The Real Estate Shop	100-mabo-boulevard-bonner-act-2914
 51419	House	2021-12-09	$1,725,000	2022-03-11	Undisclosed	4	3	3	3.0	1379.0	One Agency Sandy Morris	25-apperly-close-kambah-act-2902
+51421	House	2021-12-09	Auction	2022-03-18	Undisclosed	4	2	1	2.00	887.00	One Agency Sandy Morris	23-attiwell-circuit-kambah-act-2902
 51424	Apartment	2021-12-09	$375,000 Plus	2022-01-25	$390,000	2	1	1	5.5		Maloney's Property	1-54-chaseling-street-phillip-act-2606
 51425	House	2021-12-09	Auction 29/01/2022	2022-01-18	Undisclosed	4	2	2	4.0	580.0	LJ Hooker Dickson	6b-alt-crescent-ainslie-act-2602
 51428	House	2021-12-09	Forthcoming Auction	2022-01-10	$815,000	4	2	3		601.0	Ian McNamee & Partners - Queanbeyan	81-pindari-crescent-karabar-nsw-2620
