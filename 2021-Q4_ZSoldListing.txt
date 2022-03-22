@@ -1,5 +1,5 @@
 id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	Agency.Name	Slug
-44376	House	2021-12-09	By Negotiation	2022-03-18	$1,601,000	8	3	4		5503.00	Elders Real Estate Batemans Bay	3-9-wharf-street-nelligen-nsw-2536
+44376	House	2021-12-09	By Negotiation	2022-03-18	$1,601,000	8	3	4		5503.0	Elders Real Estate Batemans Bay	3-9-wharf-street-nelligen-nsw-2536
 47100	Apartment	2021-12-21	$669,000+	2022-02-01	$673,500	3	2	2	5.5	0.0	Impact Properties	41-1-limburg-way-greenway-act-2900
 47692	House	2021-10-01	Price Range: $1.05million - $1.15million	2021-11-30	$1,000,000	4	2	2		768.0	LJ Hooker Batemans Bay	12-seaview-way-long-beach-nsw-2536
 47693	House	2021-10-01	Auction 16/10/21 @ 12pm - If not sold prior	2021-10-14	$1,360,000	5	3	3		777.0	Ian McNamee & Partners - Queanbeyan	8-winter-place-jerrabomberra-nsw-2619
@@ -1316,7 +1316,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 50626	Townhouse	2021-11-24	Auction 11-12-21	2021-12-11	$785,000	3	2	2	4.0		Independent Gungahlin	5-12-lomax-street-forde-act-2914
 50630	Unit	2021-11-24	$318,000	2021-12-22	$318,000	2	1	1			LJ Hooker Queanbeyan – Jerrabomberra – Googong	2-17-campbell-street-queanbeyan-nsw-2620
 50631	House	2021-11-24	Contact Agent	2021-12-08	Undisclosed	3	1	1	1.5	599.0	McGrath Canberra	25-macintyre-place-charnwood-act-2615
-50632	AcreageSemi-rural	2021-11-24	Contact Agent!	2022-03-17	Undisclosed	4	2	5		20.50	Raine & Horne Young	1370-geegullalong-road-murringo-nsw-2586
+50632	AcreageSemi-rural	2021-11-24	Contact Agent!	2022-03-17	Undisclosed	4	2	5		20.5	Raine & Horne Young	1370-geegullalong-road-murringo-nsw-2586
 50635	House	2021-11-24		2022-02-10	Undisclosed	3	1	2		600.0	Hallmark Real Estate Advisors	24-hector-mcwilliam-drive-tuross-head-nsw-2537
 50636	Townhouse	2021-11-24	Auction	2021-12-11	$772,000	3	2	2	5.0		LJ Hooker Belconnen	110a-mcmichael-terrace-denman-prospect-act-2611
 50637	House	2021-11-24	Auction	2021-12-11	$932,000	3	2	2	3.5	746.0	LJ Hooker Belconnen	40-herschell-circuit-flynn-act-2615
@@ -1519,7 +1519,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 51087	Apartment	2021-12-02	$339,000+	2022-01-12	Undisclosed	1	1	1	6.0		Ray White Canberra	88-148-flemington-road-harrison-act-2914
 51088	House	2021-12-02	SOLD AT AUCTION-$950,000	2021-12-18	$950,000	3	1	2	2.0	960.0	McGrath Canberra	6-wanaga-place-giralang-act-2617
 51089	House	2021-12-02	Auction	2022-01-14	$785,000	3	1	3	1.5	734.0	Luton Tuggeranong	36-freda-gibson-circuit-theodore-act-2905
-51092	House	2021-12-02	Offers over $1,195,000	2022-03-22	$1,220,000	4	2	2	2.00	806.00	Crowthers	16-gorman-crescent-nicholls-act-2913
+51092	House	2021-12-02	Offers over $1,195,000	2022-03-22	$1,220,000	4	2	2	2.0	806.0	Crowthers	16-gorman-crescent-nicholls-act-2913
 51093	House	2021-12-02	Auction	2021-12-18	$1,050,000	3	2	2	0.5	800.0	LJ Hooker Tuggeranong	6-valli-place-chapman-act-2611
 51094	House	2021-12-02	$1,360,000+	2021-12-21	Undisclosed	4	2	2	1.0		Michael Potter Real Estate	15-laseron-place-mawson-act-2607
 51095	House	2021-12-02	By Negotiation	2022-01-21	$730,000	3	1	0		740.0	Ray White Queanbeyan | Jerrabomberra	43-uriarra-road-crestwood-nsw-2620
@@ -1748,6 +1748,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 51814	Alpine	2021-12-18	Guide $785,000-$805,000	2022-02-02	Undisclosed	4	2	2			Henley Property - Jindabyne	17-13-15-kirwan-close-jindabyne-nsw-2627
 51816	House	2021-12-20	$900,000-$950,000	2022-01-17	$961,500	3	2	2		906.0	Sails Real Estate	112-pacific-way-tura-beach-nsw-2548
 51820	House	2021-12-20	By Negotiation	2022-02-14	$850,000	3	1	2		696.0	Ray White Batemans Bay	648-congo-road-congo-nsw-2537
+51821	Land	2021-12-20	$260,000 - $280,000	2022-03-22	$270,000	0	0	0		2.61	One Agency Craig Schofield	2502-shannons-flat-road-shannons-flat-nsw-2630
 51828	House	2021-12-20	Auction, Sat 15th Jan at 10:00am	2022-01-15	$655,000	2	1	1	5.0	270.0	LJ Hooker Gungahlin	35-bamir-square-ngunnawal-act-2913
 51831	Townhouse	2021-12-20	$875,000	2022-01-12	Undisclosed	3	2	2	5.0		McIntyre Property	2-37-nott-street-fraser-act-2615
 51835	Apartment	2021-12-20	$288,000+	2022-01-28	Undisclosed	1	1	1	6.0		McGrath Canberra	2-26-frencham-street-downer-act-2602
