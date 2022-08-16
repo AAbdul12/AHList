@@ -584,7 +584,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 58118	Apartment	2022-05-17	By Negotiation	2022-07-22	Undisclosed	2	2	2	6.0		Impact Properties	94-77-gozzard-street-gungahlin-act-2912
 58119	AcreageSemi-rural	2022-05-17	Auction	2022-06-02	$1,490,000	3	2	5	0.0	8996.0	Agent Residential	48-mcdonnell-drive-bungendore-nsw-2621
 58120	Townhouse	2022-05-17	Auction Sat, 11th June at 1:00pm	2022-06-11	$710,000	3	2	2	2.5	0.0	LJ Hooker Gungahlin	2-42-kenyon-circuit-monash-act-2904
-58121	Townhouse	2022-05-17	$659,000+	2022-08-15	$670,000	3	2	1	5.00	228.00	LJ Hooker Gungahlin	8-14-len-waters-street-ngunnawal-act-2913
+58121	Townhouse	2022-05-17	$659,000+	2022-08-15	$670,000	3	2	1	5.0	228.0	LJ Hooker Gungahlin	8-14-len-waters-street-ngunnawal-act-2913
 58124	House	2022-05-17	$980,000+	2022-07-04	$997,000	3	2	2	6.0		Confidence Real Estate	8-jelinek-street-taylor-act-2913
 58126	Apartment	2022-05-17	$345,000	2022-06-02	$355,000	1	1	1	6.0		Luton Belconnen	39-6-gungahlin-place-gungahlin-act-2912
 58132	Apartment	2022-05-17	$419,950+	2022-07-26	$415,000	1	1	1	6.0		LJ Hooker Gungahlin	110-100-swain-street-gungahlin-act-2912
@@ -616,7 +616,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 58205	House	2022-05-18	$1,100,000	2022-07-06	Undisclosed	5	2	2		645.0	Whale Coast Realty	18-hillside-crescent-kianga-nsw-2546
 58208	Apartment	2022-05-18	$349,000+	2022-06-07	$350,000	2	1	1	6.0		Independent Gungahlin	24-21-wiseman-street-macquarie-act-2614
 58216	Apartment	2022-05-18	$482,500	2022-06-23	$482,500	1	1	1	6.0		home.by holly	86-29-dawes-street-kingston-act-2604
-58219	House	2022-05-19	$820,000+	2022-08-12	$815,000	3	2	3	1.50	744.00	Solely Properties	9-rose-scott-circuit-chisholm-act-2905
+58219	House	2022-05-19	$820,000+	2022-08-12	$815,000	3	2	3	1.5	744.0	Solely Properties	9-rose-scott-circuit-chisholm-act-2905
 58220	Apartment	2022-05-19	$375,000+	2022-06-22	$407,000	1	1	1	6.0		LJ Hooker Dickson	81-57-benjamin-way-belconnen-act-2617
 58223	Unit	2022-05-19	$430,000	2022-07-08	$430,000	1	1	1	6.0	4623.0	home.by holly	91-10-ipima-street-braddon-act-2612
 58224	Apartment	2022-05-19	$1,000,000 - $1,100,000	2022-07-08	$980,000	3	2	2	6.0		LJ Hooker Manuka	117-1-kalma-way-campbell-act-2612
@@ -936,7 +936,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 59258	House	2022-06-09	$1,100,000+	2022-07-26	Undisclosed	5	2	2	5.0	450.0	Ray White Canberra	11-marie-pitt-street-franklin-act-2913
 59259	House	2022-06-09	$965,000+	2022-07-02	$960,500	4	2	2	4.5	464.0	LJ Hooker Gungahlin	13-ayrton-street-gungahlin-act-2912
 59262	House	2022-06-09	Auction 30/06/22	2022-06-30	$720,000	3	1	2	0.5	727.0	Civium Property Group - Residential	57-cuthbert-circuit-wanniassa-act-2903
-59263	House	2022-06-09	$715,000+	2022-08-11	Undisclosed	3	1	2	1.50	874.00	Ray White Canberra	10-laughton-street-chisholm-act-2905
+59263	House	2022-06-09	$715,000+	2022-08-11	Undisclosed	3	1	2	1.5	874.0	Ray White Canberra	10-laughton-street-chisholm-act-2905
 59272	House	2022-06-09	Auction	2022-06-30	$1,090,000	4	2	2	4.5	633.0	Luton Gungahlin	3-paisley-street-nicholls-act-2913
 59286	DuplexSemi-detached	2022-06-09	$725,000	2022-07-25	$690,000	3	1	1		461.0	Ray White Batemans Bay	1-10-sunpatch-parade-tomakin-nsw-2537
 59312	House	2022-06-09	Auction 2nd July 12:00pm	2022-07-01	$787,500	3	1	3	3.5	982.0	LJ Hooker Tuggeranong	45-deamer-crescent-richardson-act-2905
@@ -1000,6 +1000,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 59587	House	2022-06-15	SOLD	2022-07-08	$1,515,000	4	2	2		500.0	Smile Elite	35-kywong-road-berowra-nsw-2081
 59588	House	2022-06-15	Auction - 9-7-2022	2022-07-06	$1,200,000	4	2	2	4.0		Independent Gungahlin	3-pownall-street-franklin-act-2913
 59589	House	2022-06-15	$479,000	2022-07-06	$485,000	2	2	2		455.4	PRD Wagga Wagga	2-61-lingiari-drive-lloyd-nsw-2650
+59599	Apartment	2022-06-15	$490,000+	2022-08-16	$490,000	1	1	1	6.00	0.00	LJ Hooker Dickson	308-32-mort-street-braddon-act-2612
 59603	House	2022-06-15	Offers over $1,020,000	2022-07-27	$1,030,000	4	2	2	5.0	350.0	Independent Gungahlin	37-lorraway-street-holt-act-2615
 59605	House	2022-06-15	SOLD - $1,068,000	2022-07-05	$1,068,000	4	2	2	5.0	581.0	Stone Gungahlin	12-cultivation-street-harrison-act-2914
 59610	House	2022-06-15	Auction	2022-07-08	Undisclosed	4	3	2	1.0	892.0	Michael Potter Real Estate	1-winstanley-street-chapman-act-2611
@@ -1058,6 +1059,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 59845	Unit	2022-06-21	Contact Agent	2022-08-11	$328,000	2	1	1			LJ Hooker Queanbeyan – Jerrabomberra – Googong	14-12-king-street-crestwood-nsw-2620
 59847	House	2022-06-21	$395,000 - $420,000	2022-07-15	Undisclosed	3	1	1		744.0	PRD Wagga Wagga	14-yungana-place-glenfield-park-nsw-2650
 59850	Apartment	2022-06-21	$500,000	2022-06-21	$500,000	2	1	1			Sails Real Estate	7-57-59-ocean-drive-merimbula-nsw-2548
+59853	House	2022-06-21	$925,000+	2022-08-10	Undisclosed	4	2	2	4.50		Bastion Property Group	260a-heagney-crescent-gilmore-act-2905
 59854	Unit	2022-06-21	$500,000 - $550,000	2022-06-21	$540,000	2	1	1			Sails Real Estate	19-1b-golf-circuit-tura-beach-nsw-2548
 59858	House	2022-06-21	$975,000 - $1,030,000	2022-08-16	$955,000	3	1	5		2023.00	LJ Hooker Batemans Bay	43-45-james-street-mogo-nsw-2536
 59864	Apartment	2022-06-21	offers over $2.2million	2022-07-28	$2,000,000	3	3	3	6.0		Maloney's Property	8-67-eyre-street-kingston-act-2604
@@ -1131,7 +1133,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 60158	Land	2022-06-24	Auction Guide $850,000 - $935,000	2022-07-20	$850,000	0	0	0		4384.0	Ray White Bowral	20-hazelton-drive-moss-vale-nsw-2577
 60161	House	2022-06-24	SOLD	2022-06-28	Undisclosed	3	1	1		3893.0	Smile Elite	50-oxley-drive-bowral-nsw-2576
 60164	House	2022-06-24	SOLD	2022-07-15	$1,185,000	5	3	2		249.0	Smile Elite	8-shen-street-schofields-nsw-2762
-60176	House	2022-06-27	Guide: $950,000	2022-08-12	Undisclosed	4	3	5		1122.0	Ray White Goulburn	49-deccan-street-goulburn-nsw-2580
+60176	House	2022-06-27	Guide: $950,000	2022-08-12	Undisclosed	4	3	5		1122.00	Ray White Goulburn	49-deccan-street-goulburn-nsw-2580
 60178	House	2022-06-27	By Negotiation	2022-06-24	$1,620,000	5	2	6		8.0	Ray White Bungendore	46-glendale-lane-bywong-nsw-2621
 60187	Lifestyle	2022-06-27	Auction Guide $1.3 million	2022-08-11	$1,315,000	3	1	10		4.05	Ray White Goulburn	439-windellama-road-goulburn-nsw-2580
 60192	House	2022-06-27	AUCTION	2022-07-22	$825,000	3	2	2		765.0	Ray White Goulburn	5-lorne-street-goulburn-nsw-2580
@@ -1176,9 +1178,10 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 60359	House	2022-06-30	AUCTION	2022-07-16	$1,185,000	3	1	4	2.0	826.0	Michael Potter Real Estate	27-cockburn-street-curtin-act-2605
 60360	Unit	2022-06-30	$595,000+	2022-07-13	$630,000	2	2	2	6.0	0.0	Ward Estate Agents	63-44-jerrabomberra-avenue-narrabundah-act-2604
 60362	House	2022-06-30	Contact Agent	2022-08-02	Undisclosed	4	2	2	3.0	873.0	Michael Potter Real Estate	20-bernacchi-street-mawson-act-2607
+60363	House	2022-06-30	$1,030,000	2022-08-12	Undisclosed	3	2	8	3.50	949.00	Ray White Canberra	61-william-webb-drive-mckellar-act-2617
 60364	House	2022-06-30	Auction	2022-07-23	$1,190,000	4	2	2	1.0	1014.0	Solely Properties	17-mault-place-monash-act-2904
 60365	House	2022-06-30	Price Range: $980,000 - $1.03 million	2022-07-12	$990,000	3	2	2		971.0	LJ Hooker Batemans Bay	14-kurrara-close-malua-bay-nsw-2536
-60369	Townhouse	2022-06-30	$725,000	2022-08-12	$725,000	3	3	2	5.0		McIntyre Property	34-2-clare-burton-crescent-franklin-act-2913
+60369	Townhouse	2022-06-30	$725,000	2022-08-12	$725,000	3	3	2	5.00		McIntyre Property	34-2-clare-burton-crescent-franklin-act-2913
 60370	House	2022-06-30	Auction	2022-07-15	Undisclosed	4	1	2	4.5		Badenoch Real Estate	35-kinkead-street-evatt-act-2617
 60373	Apartment	2022-06-30	Auction	2022-07-27	$436,750	2	1	1	2.0	0.0	LJ Hooker Dickson	13-114-blamey-crescent-campbell-act-2612
 60375	House	2022-06-30	Sold $651,000	2022-07-16	$651,000	3	2	2	4.5		Blackshaw Gungahlin	8-311-flemington-road-franklin-act-2913
