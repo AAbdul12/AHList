@@ -1024,7 +1024,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 63430	House	2022-09-01	Auction	2022-09-24	Undisclosed	4	2	2	2.5	938.0	Luton Weston Creek & Molonglo Valley	39-willoughby-crescent-gilmore-act-2905
 63431	House	2022-09-01	Auction	2022-09-24	Undisclosed	4	2	2	3.0	776.0	Luton Weston Creek & Molonglo Valley	41-williamson-street-holder-act-2611
 63432	Townhouse	2022-09-01	Auction	2022-09-21	$675,000	3	2	2			Luton Weston Creek & Molonglo Valley	4-3-homestead-gardens-jerrabomberra-nsw-2619
-63433	House	2022-09-01	$960,000+	2023-01-12	Undisclosed	4	2	2	2.5	947.0	Solely Properties	9-conlon-crescent-theodore-act-2905
+63433	House	2022-09-01	$960,000+	2023-01-12	Undisclosed	4	2	2	2.50	947.00	Solely Properties	9-conlon-crescent-theodore-act-2905
 63434	Apartment	2022-09-01	$702,000	2022-11-02	$702,000	2	2	2	6.0		home.by holly	69-115-canberra-avenue-griffith-act-2603
 63435	House	2022-09-01	$775,000 - $795,000	2022-09-26	$775,000	3	1	3		778.0	Bella Coastal Property	21-brace-close-kioloa-nsw-2539
 63437	Townhouse	2022-09-01	$699,000	2022-11-08	$699,000	3	2	2	6.0		home.by holly	39-1-hoffmann-street-moncrieff-act-2914
@@ -1080,6 +1080,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 63562	Lifestyle	2022-09-02	Contact Agent	2022-11-03	Undisclosed	4	2	2		7.11	McGoldrick Estate Agents	99-red-cedar-lane-berry-nsw-2535
 63563	House	2022-09-02	Contact Agent	2022-11-15	$825,000	4	2	1		481.0	Smile Elite	7-iluka-road-umina-beach-nsw-2257
 63565	House	2022-09-03		2022-10-13	Undisclosed	3	1	1		988.0	Hallmark Real Estate Advisors	1-monash-avenue-tuross-head-nsw-2537
+63568	House	2022-09-03	n/a	2023-01-13	Undisclosed	3	1	2		556.00	Hallmark Real Estate Advisors	10-lake-street-tuross-head-nsw-2537
 63572	House	2022-09-05	Contact agent	2022-11-15	Undisclosed	3	3	2		441.0	Smile Elite	22a-teak-circuit-suffolk-park-nsw-2481
 63576	House	2022-09-05	$1,200,000 - $1,300,000	2022-09-20	$1,240,000	4	3	3		885.0	My Agent Team	2-caitlin-crescent-broulee-nsw-2537
 63582	House	2022-09-05	$920,000+	2022-10-11	$920,000	4	2	2	2.5	788.0	McIntyre Property	28-preddey-way-gordon-act-2906
@@ -1290,6 +1291,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 66438	House	2022-09-19	Preview	2022-10-19	Undisclosed	4	2	3		1037.0	Kitson Property	23-wooden-street-turvey-park-nsw-2650
 66439	House	2022-09-19	$1,075,000 - $1,130,000	2022-10-20	Undisclosed	4	2	5		2023.0	Ray White Canberra	67-cork-street-gundaroo-nsw-2620
 66441	House	2022-09-19	Preview	2022-10-19	Undisclosed	4	2	3		1037.0	Kitson Property	23-wooden-street-turvey-park-nsw-2650
+66442	Townhouse	2022-09-19	$605,000	2023-01-13	$605,000	3	1	1			LJ Hooker Queanbeyan – Jerrabomberra – Googong	5-1-7-torpy-place-jerrabomberra-nsw-2619
 66445	House	2022-09-19	$915,000	2022-10-10	$915,000	3	1	5		652.0	Smile Elite	8-wilkinson-place-cranebrook-nsw-2749
 66448	House	2022-09-20	$920,000 - $970,000	2022-10-25	$945,000	3	2	2		419.0	Ward Estate Agents	34-helen-circuit-googong-nsw-2620
 66454	House	2022-09-20	$569,000	2022-11-11	$555,000	3	1	2		556.0	Raine & Horne Goulburn	9-audubon-crescent-goulburn-nsw-2580
@@ -1465,7 +1467,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 66954	House	2022-09-30	Auction	2022-10-28	$580,000	3	2	2		1144.0	Ray White Goulburn	2764-braidwood-road-lake-bathurst-nsw-2580
 66957	DuplexSemi-detached	2022-09-30	Auction: Saturday 29th October, On Site at 10:00AM	2022-10-25	Undisclosed	3	2	2	2.5		LJ Hooker Manuka	135-monaro-crescent-red-hill-act-2603
 66958	Apartment	2022-09-30	Contact Agent	2022-09-29	$400,000	1	1	1	6.0		Stone Gungahlin	20-21-majura-avenue-dickson-act-2602
-66961	House	2022-09-30	$989,000	2023-01-11	$940,000	3	2	2	0.0	813.0	First National Real Estate Batemans Bay	26-renee-crescent-moruya-heads-nsw-2537
+66961	House	2022-09-30	$989,000	2023-01-11	$940,000	3	2	2	0.00	813.00	First National Real Estate Batemans Bay	26-renee-crescent-moruya-heads-nsw-2537
 66963	House	2022-09-30	Auction	2022-10-11	$830,000	3	2	2	4.5		LJ Hooker Canberra City	33-stump-jump-crescent-dunlop-act-2615
 66977	Unit	2022-09-30	$215,000	2022-11-16	Undisclosed	2	1	1			Macarthur Real Estate Agency	3-270-fernleigh-road-ashmont-nsw-2650
 66999	House	2022-09-30	By Negotiation	2022-10-07	$2,200,000	5	3	4		110200.0	Ray White Batemans Bay	283-meadows-road-moruya-nsw-2537
