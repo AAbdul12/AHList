@@ -1,6 +1,6 @@
 id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	Agency.Name	Slug
 32689	House	2022-08-31	$9,000,000	2022-10-07	$9,000,000	5	4	6	3.0	0.0	Berkely Residential	82-empire-circuit-deakin-act-2600
-54762	House	2022-08-30	$6,770,000	2023-02-24	$6,770,000	7	4	4	4.50	0.00	Berkely Residential	9-northcote-crescent-deakin-act-2600
+54762	House	2022-08-30	$6,770,000	2023-02-24	$6,770,000	7	4	4	4.5	0.0	Berkely Residential	9-northcote-crescent-deakin-act-2600
 55566	Apartment	2022-08-31	$750,000	2022-09-08	$750,000	2	2	2	6.0	0.0	Berkely Residential	158-46-macquarie-street-barton-act-2600
 59716	Townhouse	2022-08-30	$2,500,000	2022-09-06	$2,500,000	3	3	2	6.0	0.0	Berkely Residential	46-lawley-street-deakin-act-2600
 60438	House	2022-07-01	Contact Agent	2022-07-29	$950,000	4	2	1		484.0	Smile Elite	25-alison-drive-glenmore-park-nsw-2745
@@ -537,7 +537,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 61973	Apartment	2022-08-03	$449,000	2022-09-20	Undisclosed	1	1	1	6.0		Badenoch Real Estate	12-37-chandler-street-belconnen-act-2617
 61974	House	2022-08-03	$819,950	2022-08-27	$808,000	3	1	1	0.5	803.0	LJ Hooker Belconnen	43-macrossan-crescent-latham-act-2615
 61975	House	2022-08-03	$935,000- $965,000	2022-10-10	$920,000	4	2	2		760.0	Ray White Bungendore	15-angus-place-bungendore-nsw-2621
-61981	House	2022-08-03	$275,000 - $295,000	2023-02-24	Undisclosed	3	1	2		809.00	Macarthur Real Estate Agency	19-matthews-street-lockhart-nsw-2656
+61981	House	2022-08-03	$275,000 - $295,000	2023-02-24	Undisclosed	3	1	2		809.0	Macarthur Real Estate Agency	19-matthews-street-lockhart-nsw-2656
 61985	House	2022-08-03	Contact Agent	2022-08-29	$999,999	4	2	3	0.5	1057.0	VERV Property	73-holden-crescent-wanniassa-act-2903
 61988	Apartment	2022-08-03	$435,000	2022-09-07	Undisclosed	2	1	1	2.0		Badenoch Real Estate	52-22-archibald-street-lyneham-act-2602
 61992	House	2022-08-03	$539,000	2022-08-22	$563,500	3	1	2		524.0	PRD Wagga Wagga	56-heath-street-turvey-park-nsw-2650
@@ -751,7 +751,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 62511	House	2022-08-12	SOLD PRICE ON REQUEST	2022-10-14	Undisclosed	3	1	2	1.0	725.0	Belle Property Canberra	119-hannan-crescent-ainslie-act-2602
 62514	Townhouse	2022-08-12	440,000+	2022-09-22	$455,000	1	1	1	6.0	124.0	LJ Hooker Gungahlin	41-15-andersch-street-casey-act-2913
 62516	House	2022-08-12	$965,000	2022-11-03	Undisclosed	4	2	4	5.0	548.0	Ray White Canberra	39-sunshine-loop-dunlop-act-2615
-62521	Land	2022-08-12	$329,000	2023-02-24	$317,000	0	0	0		1750.00	McCann Properties	23-hume-street-gunning-nsw-2581
+62521	Land	2022-08-12	$329,000	2023-02-24	$317,000	0	0	0		1750.0	McCann Properties	23-hume-street-gunning-nsw-2581
 62524	DuplexSemi-detached	2022-08-12	Contact Agent	2022-10-21	$510,000	3	1	1			Smile Elite	1-1-kerrabee-court-goonellabah-nsw-2480
 62526	House	2022-08-12	$565,000	2022-10-28	Undisclosed	4	2	2		749.1	PRD Wagga Wagga	9-womboin-crescent-glenfield-park-nsw-2650
 62534	Villa	2022-08-12	$275,000	2022-10-05	Undisclosed	2	1	1		208.0	Macarthur Real Estate Agency	2-47-karoom-drive-glenfield-park-nsw-2650
@@ -1469,6 +1469,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 66814	House	2022-09-28	Auction 29/10/2022	2022-10-29	$1,350,000	3	1	1	2.0	1011.3	Ray White Canberra	117-scrivener-street-oconnor-act-2602
 66815	House	2022-09-28	AUCTION - 28th October 2022	2022-10-28	$407,500	2	1	1		658.0	Ray White Goulburn	54-bunnaby-street-taralga-nsw-2580
 66817	Apartment	2022-09-28	$360,000 - $390,000	2022-10-04	Undisclosed	2	1	1	5.0		Ray White Canberra	6-7-hyndes-crescent-holder-act-2611
+66818	Apartment	2022-09-28	$490,000	2023-03-01	Undisclosed	1	1	1	6.00		Luton Gungahlin	92-32-blackall-street-barton-act-2600
 66819	Townhouse	2022-09-28	$650,000+	2022-10-26	$662,500	3	2	2	6.0		LJ Hooker Gungahlin	8-57-bellhouse-crescent-moncrieff-act-2914
 66820	Apartment	2022-09-28	360,000+	2022-11-11	$375,000	1	1	1	6.0		LJ Hooker Canberra City	709-74-northbourne-avenue-braddon-act-2612
 66823	Land	2022-09-28	$345,000	2023-01-23	$335,000	0	0	0		697.0	McGrath Batemans Bay & Moruya	10-france-place-long-beach-nsw-2536
