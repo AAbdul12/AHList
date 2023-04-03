@@ -777,7 +777,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 71561	Unit	2022-11-30	$180,000	2023-03-01	$172,500	1	1	0			LJ Hooker Belconnen	13-9-macquoid-street-queanbeyan-east-nsw-2620
 71564	Townhouse	2022-11-30	$770,000	2023-01-20	$770,000	3	2	2	4.5		MARQ Property	12-12-maris-king-street-casey-act-2913
 71566	House	2022-11-30	$739,000	2023-02-24	$725,000	3	1	1	2.0	755.0	Ray White Queanbeyan | Jerrabomberra	62-chauncy-crescent-richardson-act-2905
-71570	House	2022-11-30	$759,000	2023-03-30	Undisclosed	3	1	5	1.0		My Morris	8-kambalda-crescent-fisher-act-2611
+71570	House	2022-11-30	$759,000	2023-03-30	Undisclosed	3	1	5	1.00		My Morris	8-kambalda-crescent-fisher-act-2611
 71571	Apartment	2022-11-30	$570,000	2023-03-24	$570,000	2	2	2	6.0		Hugo. Canberra	805-6-gribble-street-gungahlin-act-2912
 71581	House	2022-11-30	$1,000,000 Price Guide	2023-03-13	Undisclosed	4	2	2		845.0	Sails Real Estate	170-pacific-way-tura-beach-nsw-2548
 71586	Lifestyle	2022-11-30	$625,000	2023-02-01	Undisclosed	3	1	0		924.0	LAWD	32-church-st-yass-nsw-2582
@@ -851,7 +851,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 72042	House	2022-12-08	contact agent	2023-01-27	Undisclosed	4	1	2	1.5		home.by holly	28-madigan-street-hackett-act-2602
 72043	House	2022-12-08	$759,000	2023-03-16	Undisclosed	4	2	2		769.8	LJ Hooker Sussex Inlet	1a-florida-close-sussex-inlet-nsw-2540
 72045	Townhouse	2022-12-08	Auction	2023-01-14	$642,000	2	1	1	5.5		LJ Hooker Dickson	7-54-forbes-street-turner-act-2612
-72048	House	2022-12-08	$989,000	2023-03-27	Undisclosed	5	2	3		859.00	Macarthur Real Estate Agency	6-bonner-street-lloyd-nsw-2650
+72048	House	2022-12-08	$989,000	2023-03-27	Undisclosed	5	2	3		859.0	Macarthur Real Estate Agency	6-bonner-street-lloyd-nsw-2650
 72052	House	2022-12-08	$1,140,000	2023-02-17	$1,140,000	4	3	2		814.0	LJ Hooker Queanbeyan – Jerrabomberra – Googong	11-allambee-street-jerrabomberra-nsw-2619
 72053	House	2022-12-08	$2,725,000	2023-03-23	$2,725,000	5	3	2	3.5		Berkely Residential	51-schlich-street-yarralumla-act-2600
 72056	House	2022-12-08	$850,000 +	2023-02-03	Undisclosed	3	1	2	0.0	832.0	LJ Hooker Woden/Weston	32-grylls-crescent-cook-act-2614
@@ -899,7 +899,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 72329	House	2022-12-15	$780,000+	2023-01-30	$820,000	3	2	2	4.5	600.0	LJ Hooker Kippax	55-macfarlane-burnet-avenue-macgregor-act-2615
 72331	House	2022-12-15	$1,395,000	2023-02-10	$1,340,000	4	1	2		2.72	Ray White Batemans Bay	bingie-2537-nsw
 72339	Townhouse	2022-12-15	$699,000+	2023-02-13	Undisclosed	3	2	1	5.0		Badenoch Real Estate	5-123-wanganeen-avenue-ngunnawal-act-2913
-72344	House	2022-12-15	$850,000- $870,000	2023-03-27	Undisclosed	3	2	4		720.80	Ray White Queanbeyan | Jerrabomberra	2-kobada-close-karabar-nsw-2620
+72344	House	2022-12-15	$850,000- $870,000	2023-03-27	Undisclosed	3	2	4		720.8	Ray White Queanbeyan | Jerrabomberra	2-kobada-close-karabar-nsw-2620
 72347	House	2022-12-15	Auction	2023-01-17	Undisclosed	4	3	3	1.0	848.0	LJ Hooker Kippax	46-clarey-crescent-spence-act-2615
 72349	Unit	2022-12-15	$240,000 - $260,000	2023-01-24	$250,000	1	1	1			Ray White Queanbeyan | Jerrabomberra	56-5-crest-road-crestwood-nsw-2620
 72354	Unit	2022-12-15	$820,000 +	2023-01-23	$840,000	3	2	2	4.0		LJ Hooker Gungahlin	81-121-thynne-street-bruce-act-2617
@@ -935,7 +935,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 72495	House	2022-12-19	$1.150million	2023-02-21	$1,150,000	3	2	2		842.0	LJ Hooker Batemans Bay	14-mary-place-long-beach-nsw-2536
 72496	House	2022-12-19	Auction	2023-02-09	$1,200,000	4	4	6		1.67	Ray White Rural Canberra | Yass	6-marquess-place-murrumbateman-nsw-2582
 72513	House	2022-12-19	565000	2023-02-08	$565,000	3	1	2		668.0	Smile Elite	77-esrom-street-west-bathurst-nsw-2795
-72515	House	2022-12-19	$629,000	2023-03-31	$606,500	3	1	2		638.6	Ray White Queanbeyan | Jerrabomberra	68-crest-road-crestwood-nsw-2620
+72515	House	2022-12-19	$629,000	2023-03-31	$606,500	3	1	2		638.60	Ray White Queanbeyan | Jerrabomberra	68-crest-road-crestwood-nsw-2620
 72519	House	2022-12-19	Auction 28th January at 11.30am	2023-01-20	$880,000	3	2	2	3.5	388.0	LJ Hooker Gungahlin	19-bott-crescent-casey-act-2913
 72524	House	2022-12-19	$370,000	2023-01-20	Undisclosed	2	1	1		635.0	Flemings Property Services	2-fontenoy-street-young-nsw-2594
 72536	Apartment	2022-12-20	$690,000+	2023-01-25	$701,500	2	1	2	5.0		Maloney's Property	19-11-trevillian-quay-kingston-act-2604
