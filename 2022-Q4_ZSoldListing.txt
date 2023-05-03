@@ -468,7 +468,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 69342	House	2022-11-02	Buyers Guide $1,100,000	2022-12-06	$1,100,000	4	2	4		1169.0	Ray White Goulburn	15-angela-place-goulburn-nsw-2580
 69356	Apartment	2022-11-02	$485,000	2023-01-24	$485,000	1	1	1	6.0	57.0	home.by holly	821-81-cooyong-street-reid-act-2612
 69357	House	2022-11-02	Auction	2022-11-26	Undisclosed	4	2	4	4.0	768.0	LJ Hooker Dickson	45-marsden-street-dickson-act-2602
-69359	House	2022-11-02	$880,000	2023-05-01	$880,000	4	2	2		822.0	Ray White Bungendore	57-modbury-street-bungendore-nsw-2621
+69359	House	2022-11-02	$880,000	2023-05-01	$880,000	4	2	2		822.00	Ray White Bungendore	57-modbury-street-bungendore-nsw-2621
 69362	House	2022-11-02	$610,000	2022-11-02	$570,000	3	1	2		767.0	Raine & Horne Goulburn	17-college-street-goulburn-nsw-2580
 69369	Apartment	2022-11-02	$505,000	2022-12-08	$505,000	2	2	1	6.0		MARQ Property	68-75-elizabeth-jolley-crescent-franklin-act-2913
 69372	Townhouse	2022-11-02	$880,000	2022-11-23	$880,000	3	2	2	5.0		home.by holly	58-215-aspinall-street-watson-act-2602
@@ -622,7 +622,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 70043	House	2022-11-11	$960,000	2022-11-24	$960,000	5	2	6		1170.0	LJ Hooker Moruya	16-keightley-street-moruya-nsw-2537
 70045	House	2022-11-11	$699,000	2022-12-06	$662,000	3	1	1		2175.15	Ray White Batemans Bay	7-10-newth-place-surf-beach-nsw-2536
 70059	House	2022-11-11	$599,000	2023-01-16	Undisclosed	3	2	2			Macarthur Real Estate Agency	4-hollows-crescent-lloyd-nsw-2650
-70072	Apartment	2022-11-11	$549,500	2023-04-28	$549,500	2	2	2	6.80	0.00	POD Projects Group	13-2-bamblett-rise-denman-prospect-act-2611
+70072	Apartment	2022-11-11	$549,500	2023-04-28	$549,500	2	2	2	6.8	0.0	POD Projects Group	13-2-bamblett-rise-denman-prospect-act-2611
 70076	Lifestyle	2022-11-11	Contact Agent	2022-11-11	Undisclosed	6	4	4		10.16	McGoldrick Estate Agents	500-woodhill-mountain-road-berry-nsw-2535
 70079	Townhouse	2022-11-11	885000	2023-01-30	$885,000	4	2	1			Smile Elite	53-sciberras-avenue-schofields-nsw-2762
 70082	House	2022-11-12	$625,000	2023-02-03	Undisclosed	2	2	2		619.0	Ben Bate Real Estate	7-hillside-crescent-kianga-nsw-2546
@@ -631,10 +631,11 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 70101	House	2022-11-14	AUCTION Guide $680,000	2023-03-03	$690,000	3	1	0		602.0	Ray White Goulburn	252-cowper-street-goulburn-nsw-2580
 70110	House	2022-11-14	$530,000 - $550,000	2022-12-08	Undisclosed	3	1	2		627.0	Ray White Wagga Wagga	17-malumba-crescent-kooringal-nsw-2650
 70116	Apartment	2022-11-14	$2,100,000+	2023-01-30	Undisclosed	3	3	2	5.0		LJ Hooker Canberra City	81-44-constitution-avenue-campbell-act-2612
+70119	Land	2022-11-14	$385,000 New Price	2023-05-03	$348,000	0	0	0		1103.00	Ray White Goulburn	72-hoskins-street-goulburn-nsw-2580
 70134	House	2022-11-14	$1,550,000 - $1,650,000	2023-01-23	$1,550,000	5	2	2		4040.0	Ray White Bowral	1642-kangaloon-road-kangaloon-nsw-2576
 70139	House	2022-11-14	Offers Invited	2023-02-12	Undisclosed	3	2	1		992.74	LJ Hooker Sussex Inlet	45-dacres-street-vincentia-nsw-2540
 70142	House	2022-11-14	$585,000	2023-01-16	Undisclosed	3	2	2		525.0	Macarthur Real Estate Agency	1-8-kellerman-crescent-boorooma-nsw-2650
-70162	House	2022-11-14	$799,000	2023-05-03	Undisclosed	4	2	2		701.00	PRD Wagga Wagga	70-coppabella-drive-gobbagombalin-nsw-2650
+70162	House	2022-11-14	$799,000	2023-05-03	Undisclosed	4	2	2		701.0	PRD Wagga Wagga	70-coppabella-drive-gobbagombalin-nsw-2650
 70190	Townhouse	2022-11-15	$650,000	2023-01-20	Undisclosed	3	2	2			Ray White Queanbeyan | Jerrabomberra	12-41-carinya-street-queanbeyan-nsw-2620
 70198	House	2022-11-15	Auction: 10th December 12:30pm on site	2022-12-09	Undisclosed	3	1	1		1707.0	Raine & Horne Southern Highlands	21-sierra-street-yerrinbool-nsw-2575
 70209	Apartment	2022-11-15	$419,000	2023-02-03	Undisclosed	1	1	1	6.0		Ray White Canberra	12-38-40-torrens-street-braddon-act-2612
@@ -820,7 +821,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 71599	House	2022-11-30	$740,000+	2023-01-12	$717,500	3	1	1	1.5	759.0	Luton Gungahlin	63-osburn-drive-macgregor-act-2615
 71603	Apartment	2022-11-30	$950,000+	2023-01-25	$970,000	3	2	2	6.0		LJ Hooker Dickson	232-20-anzac-park-campbell-act-2612
 71613	House	2022-11-30	860000	2023-02-03	$860,000	4	1	1		544.0	Smile Elite	93-carrington-street-maitland-nsw-2320
-71615	House	2022-11-30	$749,000 +	2023-04-28	$735,000	3	1	2	2.50	764.00	Aird Property Group	12-rouse-place-charnwood-act-2615
+71615	House	2022-11-30	$749,000 +	2023-04-28	$735,000	3	1	2	2.5	764.0	Aird Property Group	12-rouse-place-charnwood-act-2615
 71617	Townhouse	2022-11-30	Guide $850,000 to $875,000	2023-01-24	$837,700	3	2	2			Henley Property - Jindabyne	3-12-cobbodah-street-jindabyne-nsw-2627
 71629	House	2022-12-01	$840,000+	2023-02-03	$865,000	3	1	3	3.5	804.0	McIntyre Property	3-gaby-place-gowrie-act-2904
 71633	House	2022-12-01	$449,000	2023-01-16	Undisclosed	3	1	3		1012.0	Macarthur Real Estate Agency	15-inglis-street-lake-albert-nsw-2650
@@ -829,7 +830,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 71647	Apartment	2022-12-01	$339,000- $349,000	2023-02-03	$335,000	1	1	1	4.0		LJ Hooker Manuka	23-13-15-sturt-avenue-griffith-act-2603
 71648	Townhouse	2022-12-01	$785,000+	2023-02-01	$790,000	4	3	2	6.0	0.0	Edge Dewi Radyanto	25-11-castan-coombs-act-2611
 71649	House	2022-12-01	$779,000	2023-01-31	Undisclosed	3	1	2		474.0	Ray White Wagga Wagga	66-the-esplanade-wagga-wagga-nsw-2650
-71658	Apartment	2022-12-01	$445,000 - $465,000	2023-05-02	$450,000	1	1	1	6.00		McIntyre Property	120-83-cooyong-street-reid-act-2612
+71658	Apartment	2022-12-01	$445,000 - $465,000	2023-05-02	$450,000	1	1	1	6.0		McIntyre Property	120-83-cooyong-street-reid-act-2612
 71659	House	2022-12-01	$829,000	2023-01-17	$780,000	2	1	2		650.0	Bella Coastal Property	21-myrtle-street-milton-nsw-2538
 71664	House	2022-12-01	$940,000 - $990,000	2023-02-08	Undisclosed	4	2	3		1175.0	Henley Property - Cooma	46-lambie-street-cooma-nsw-2630
 71674	House	2022-12-01	By Negotiation	2023-02-28	Undisclosed	5	4	2	5.5	0.0	Confidence Real Estate	25-iwanoff-street-taylor-act-2913
@@ -873,7 +874,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 71938	Apartment	2022-12-07	$650,000+	2023-02-10	$660,000	2	1	1	6.0		Maloney's Property	11-12-howitt-street-kingston-act-2604
 71963	House	2022-12-07	Auction	2023-01-25	Undisclosed	3	2	1	4.0	119.0	Luton Gungahlin	10-crossman-street-amaroo-act-2914
 71967	Townhouse	2022-12-07	$605,000+	2023-03-15	$600,000	3	1	1	2.0		LJ Hooker Dickson	2-2-aroona-court-ngunnawal-act-2913
-71970	House	2022-12-07	900000	2023-05-02	$900,000	3	2	2		682.00	Smile Elite	7-rosella-avenue-mollymook-beach-nsw-2539
+71970	House	2022-12-07	900000	2023-05-02	$900,000	3	2	2		682.0	Smile Elite	7-rosella-avenue-mollymook-beach-nsw-2539
 71984	Lifestyle	2022-12-07	$250,000	2023-01-24	Undisclosed	0	0	0		6.88	InHouse Real Estate	135-manning-street-towamba-nsw-2550
 71985	House	2022-12-07	650000	2023-03-07	$650,000	4	1	2		588.0	Smile Elite	3-garrard-avenue-mount-warrigal-nsw-2528
 71990	House	2022-12-07	$749,000	2023-01-13	$750,000	3	2	2		1606.0	Henley Property - Cooma	5-bligh-street-cooma-nsw-2630
@@ -904,7 +905,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 72075	House	2022-12-09	550000	2023-01-23	$550,000	4	1	1		2899.0	Smile Elite	2-ostrom-street-south-lismore-nsw-2480
 72080	House	2022-12-09	$1,100,000	2023-01-25	$1,025,000	4	1	1		550.0	Whale Coast Realty	17-myuna-street-dalmeny-nsw-2546
 72084	DuplexSemi-detached	2022-12-09	Auction	2023-01-19	$975,000	3	2	2	6.0	746.0	LJ Hooker Woden/Weston	8a-percival-street-holder-act-2611
-72104	Apartment	2022-12-09	$490,000+	2023-05-03	$485,000	1	1	1	6.00		LJ Hooker Dickson	braddon-2612-act
+72104	Apartment	2022-12-09	$490,000+	2023-05-03	$485,000	1	1	1	6.0		LJ Hooker Dickson	braddon-2612-act
 72110	House	2022-12-09	$1,050,000	2023-01-23	$990,000	3	3	3		817.0	Dwyer Properties Sapphire Coast	118-golf-circuit-tura-beach-nsw-2548
 72111	Apartment	2022-12-09	$455,000	2023-02-21	Undisclosed	2	1	2	4.5		Bastion Property Group	12-16-david-miller-crescent-casey-act-2913
 72112	House	2022-12-09	$695,000	2023-03-24	$671,000	4	2	1		854.0	Henley Property - Jindabyne	14-mary-street-berridale-nsw-2628
@@ -936,6 +937,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 72302	Unit	2022-12-14	$549,000	2023-02-03	$550,000	2	2	1		223.0	Sails Real Estate	2-28-tura-beach-drive-tura-beach-nsw-2548
 72313	House	2022-12-14	$729,000	2023-03-17	Undisclosed	4	2	2		700.0	PRD Wagga Wagga	11-yenda-avenue-gobbagombalin-nsw-2650
 72320	House	2022-12-15	$949,000	2023-03-01	Undisclosed	3	2	3	2.0	848.0	Luton Manuka	20-saville-close-melba-act-2615
+72321	Townhouse	2022-12-15	$1,095,000	2023-05-02	$1,100,000	3	2	2			Henley Property - Jindabyne	2-13-reedys-cutting-road-jindabyne-nsw-2627
 72324	Apartment	2022-12-15	$565,000+	2023-02-21	$565,000	2	2	1	6.0		Impact Properties	16-2-manning-clark-crescent-franklin-act-2913
 72325	House	2022-12-15	$1,350,000	2023-02-21	$1,250,000	5	2	2		855.0	Sails Real Estate	71-monaro-street-merimbula-nsw-2548
 72327	House	2022-12-15	$850,000+	2023-02-10	Undisclosed	4	2	2	4.5	629.0	Ray White Canberra	19-henry-sutton-circuit-dunlop-act-2615
@@ -964,6 +966,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 72402	House	2022-12-16	Offers over $750,000	2023-03-07	$761,000	3	2	2	6.0		Maloney's Property	36-diesendorf-street-wright-act-2611
 72409	House	2022-12-16	$800,000	2023-02-03	$792,500	3	1	2	1.5	766.0	The Real Estate Shop	4-gellatly-place-gilmore-act-2905
 72410	House	2022-12-16	For Sale $479,000	2023-02-01	$467,500	3	2	1			Ray White Goulburn	17-parkside-place-goulburn-nsw-2580
+72420	House	2022-12-16	$1,100,000	2023-05-03	Undisclosed	6	4	4		929.50	Macarthur Real Estate Agency	95-simkin-crescent-kooringal-nsw-2650
 72426	House	2022-12-16	$495,000	2023-01-27	$497,000	3	2	2		814.2	Kitson Property	25-lamilla-street-glenfield-park-nsw-2650
 72428	House	2022-12-16	$659,000	2023-04-26	$645,000	3	1	3		756.0	Henley Property - Cooma	11-church-road-cooma-nsw-2630
 72430	House	2022-12-16	$415,000	2023-04-11	Undisclosed	3	1	1		752.3	Macarthur Real Estate Agency	9-uranquintry-street-uranquinty-nsw-2652
