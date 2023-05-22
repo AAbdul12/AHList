@@ -392,7 +392,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 69027	House	2022-10-27	Auction 16/11/22	2022-11-05	$830,000	3	2	2		595.0	Ian McNamee & Partners - Queanbeyan	55-rosewood-glen-jerrabomberra-nsw-2619
 69029	Unit	2022-10-27	$339,000+	2022-11-09	$385,000	2	1	1	6.0		Michael Potter Real Estate	87-179-melrose-drive-woden-gardens-lyons-act-2606
 69033	Townhouse	2022-10-27	$615,000	2022-12-07	Undisclosed	3	1	1	0.0	498.0	Luton Tuggeranong	21-18-burdett-crescent-theodore-act-2905
-69035	House	2022-10-27	$959,000	2023-05-15	$959,000	3	2	2	1.50	820.00	Luton Dickson	3-darby-street-kaleen-act-2617
+69035	House	2022-10-27	$959,000	2023-05-15	$959,000	3	2	2	1.5	820.0	Luton Dickson	3-darby-street-kaleen-act-2617
 69036	House	2022-10-27	Auction	2022-11-08	Undisclosed	3	2	2	4.5		Luton Gungahlin	16-fidler-court-bruce-act-2617
 69037	Apartment	2022-10-27	$599,000+	2022-11-28	Undisclosed	2	2	2	6.0		Badenoch Real Estate	72-15-bowman-street-macquarie-act-2614
 69040	House	2022-10-27	Price Guide $2,900,000	2023-05-03	Undisclosed	4	2	7		18.42	Raine & Horne Southern Highlands	66-72-grevillea-place-colo-vale-nsw-2575
@@ -715,6 +715,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 70439	House	2022-11-18	$1,000,000-$1,100,000	2023-04-26	Undisclosed	3	2	2		725.0	Sails Real Estate	8-mackillop-court-tura-beach-nsw-2548
 70441	Townhouse	2022-11-18	$675,000 - $695,000	2023-01-27	Undisclosed	3	2	2			Luton Tuggeranong	2-51-erin-street-queanbeyan-nsw-2620
 70449	Apartment	2022-11-18	$190,000+	2023-01-11	Undisclosed	1	1	1	2.5		LJ Hooker Manuka	46-47-mcmillian-crescent-griffith-act-2603
+70458	Townhouse	2022-11-18	$529,000	2023-05-22	Undisclosed	3	2	2			Professionals Batemans Bay	23-16-native-way-moruya-heads-nsw-2537
 70467	House	2022-11-18	Contact Agent	2023-02-21	Undisclosed	4	3	2	6.0	682.0	Maria Selleck Properties	26-rankin-street-campbell-act-2612
 70473	House	2022-11-18	$530,000	2023-02-16	Undisclosed	5	2	1		950.0	Flemings Property Services	89-fontenoy-street-young-nsw-2594
 70482	House	2022-11-18	$714,000	2023-02-22	$682,000	5	2	3		4878.0	McCann Properties	34-collector-road-gunning-nsw-2581
@@ -778,6 +779,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 71161	House	2022-11-24	$800,000+	2023-01-25	Undisclosed	3	1	2	1.0	793.0	LJ Hooker Kippax	17-mcintosh-street-scullin-act-2614
 71164	Retirement	2022-11-24	$625,000	2023-02-03	$625,000	2	1	1			Smile Elite	62-1-norman-street-lake-conjola-nsw-2539
 71167	Apartment	2022-11-24	$449,000+	2023-02-20	$433,000	2	1	1	6.0		McIntyre Property	605-8-gribble-street-gungahlin-act-2912
+71195	Retirement	2022-11-24	$490,000+	2023-05-16	Undisclosed	2	1	1	5.00	0.00	CatholicCare Canberra & Goulburn	5-7-bindel-street-aranda-act-2614
 71198	House	2022-11-24	Contact Agent	2022-12-07	Undisclosed	5	2	2	2.0	1001.0	Luton Manuka	29-gawler-crescent-deakin-act-2600
 71241	Apartment	2022-11-24	$500,000	2023-02-06	$492,000	1	1	1	6.0		LJ Hooker Belconnen	2307-120-eastern-valley-way-belconnen-act-2617
 71243	House	2022-11-24	$875,000 +	2023-02-03	$857,500	3	1	1	1.0	722.4	LJ Hooker Woden/Weston	42-rubbo-crescent-weston-act-2611
@@ -826,7 +828,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 71566	House	2022-11-30	$739,000	2023-02-24	$725,000	3	1	1	2.0	755.0	Ray White Queanbeyan | Jerrabomberra	62-chauncy-crescent-richardson-act-2905
 71570	House	2022-11-30	$759,000	2023-03-30	Undisclosed	3	1	5	1.0		My Morris	8-kambalda-crescent-fisher-act-2611
 71571	Apartment	2022-11-30	$570,000	2023-03-24	$570,000	2	2	2	6.0		Hugo. Canberra	805-6-gribble-street-gungahlin-act-2912
-71573	Apartment	2022-11-30	$650,000+	2023-05-16	$650,500	2	2	2	6.00	9197.00	LJ Hooker Canberra City	110-2-mcmichael-terrace-denman-prospect-act-2611
+71573	Apartment	2022-11-30	$650,000+	2023-05-16	$650,500	2	2	2	6.0	9197.0	LJ Hooker Canberra City	110-2-mcmichael-terrace-denman-prospect-act-2611
 71581	House	2022-11-30	$1,000,000 Price Guide	2023-03-13	Undisclosed	4	2	2		845.0	Sails Real Estate	170-pacific-way-tura-beach-nsw-2548
 71586	Lifestyle	2022-11-30	$625,000	2023-02-01	Undisclosed	3	1	0		924.0	LAWD	32-church-st-yass-nsw-2582
 71588	House	2022-11-30	Offers over $685,000	2023-01-17	$655,000	3	1	2	3.5	417.0	McIntyre Property	2-47-bellchambers-crescent-banks-act-2906
