@@ -361,7 +361,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 78979	House	2023-04-26	$500,000	2023-05-25	Undisclosed	3	2	1		449.8	PRD Wagga Wagga	2-124-mima-street-glenfield-park-nsw-2650
 78985	Apartment	2023-04-27	Auction	2023-05-05	Undisclosed	2	1	1	6.0		Luton Weston Creek & Molonglo Valley	211-15-jardine-street-kingston-act-2604
 78986	House	2023-04-27	$950,000	2023-06-05	$945,000	4	2	1	1.0	797.0	McCann Properties	31-harricks-crescent-monash-act-2904
-78987	Apartment	2023-04-27	$560,000	2023-09-25	$560,000	3	2	2	6.0		MARQ Property	64-235-flemington-road-franklin-act-2913
+78987	Apartment	2023-04-27	$560,000	2023-09-25	$560,000	3	2	2	6.00		MARQ Property	64-235-flemington-road-franklin-act-2913
 78989	House	2023-04-27	Contact Agent	2023-04-26	$670,000	3	1	2			Macarthur Real Estate Agency	2323-millwood-road-coolamon-nsw-2701
 78992	Lifestyle	2023-04-27	$530,000	2023-08-04	$470,000	0	0	0		80.0	One Agency Craig Schofield	peak-view-2630-nsw
 78994	Apartment	2023-04-27	$449,000+	2023-06-07	$450,000	1	1	1	6.0		McIntyre Property	116-15-irving-street-phillip-act-2606
@@ -670,6 +670,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 80220	House	2023-05-18	$995,000	2023-06-05	$995,000	4	2	2	4.5		MARQ Property	8-bendora-crescent-palmerston-act-2913
 80221	Apartment	2023-05-18	$559,000	2023-07-31	$567,492	3	2	2	6.0		Luton Manuka	43b-9-chandler-street-belconnen-act-2617
 80224	House	2023-05-18	$599,000+	2023-06-07	$650,000	3	1	2	2.0	527.0	LJ Hooker Kippax	11-squire-place-charnwood-act-2615
+80225	Apartment	2023-05-18	$330,000+	2023-09-28	$340,000	1	1	0	6.00		LJ Hooker Dickson	319-90-swain-street-gungahlin-act-2912
 80227	House	2023-05-18	Auction	2023-06-17	$1,400,000	4	2	2		1097.0	LJ Hooker Dickson	17-lakeview-gardens-jerrabomberra-nsw-2619
 80230	House	2023-05-18	AUCTION	2023-06-09	Undisclosed	9	6	0	1.5	2137.0	McIntyre Property	2-4-6-stockdale-street-dickson-act-2602
 80238	Apartment	2023-05-18	$505,000	2023-06-28	$490,000	1	1	1	6.0		Luton Gungahlin	2-15-coranderrk-street-city-act-2601
@@ -765,7 +766,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 80624	Land	2023-05-26	$540,000 - $570,000	2023-07-31	$540,000	0	0	0			Smile Elite	143-145-durham-street-bathurst-nsw-2795
 80626	House	2023-05-26	$899,000	2023-06-26	$820,000	3	1	2		6798.0	Dwyer Properties Sapphire Coast	515-oaklands-road-pambula-nsw-2549
 80628	Land	2023-05-26	$742,500	2023-05-26	$742,500	0	0	0		1000.0	LJ Hooker Queanbeyan – Jerrabomberra – Googong	21-chimney-rise-googong-nsw-2620
-80636	Land	2023-05-26	$1,350,000 - $1,450,000	2023-09-22	$1,320,000	0	0	0	0.00	577.00	Ian McNamee & Partners - Queanbeyan	15-walter-hood-lane-red-hill-act-2603
+80636	Land	2023-05-26	$1,350,000 - $1,450,000	2023-09-22	$1,320,000	0	0	0	0.0	577.0	Ian McNamee & Partners - Queanbeyan	15-walter-hood-lane-red-hill-act-2603
 80639	House	2023-05-26	$795,000 - $835,000	2023-09-07	$835,000	4	2	6		971.0	Smile Elite	6-finnegan-crescent-muswellbrook-nsw-2333
 80641	House	2023-05-26	$1,251,000	2023-09-21	$735,000	4	3	2	5.5	455.0	LJ Hooker Gungahlin	13-limb-circuit-moncrieff-act-2914
 80655	House	2023-05-29	$575,000	2023-06-07	$565,000	2	1	1			My Agent Team	1-19-bent-street-batemans-bay-nsw-2536
@@ -894,6 +895,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 81286	House	2023-06-08	Contact Agent	2023-06-20	$1,500,000	4	2	2		358.0	Smile Elite	83-sanctuary-drive-beaumont-hills-nsw-2155
 81289	House	2023-06-08	$785,000+	2023-09-05	$795,000	3	2	2	1.5		Ray White Canberra	1-sullivan-crescent-wanniassa-act-2903
 81290	MixedFarming	2023-06-08	Auction - 06/08/23	2023-08-06	$4,150,000	25	13	0	0.0	0.0	Auction Advantage	173-the-vineyards-road-lake-george-nsw-2581
+81293	Land	2023-06-08	$249,000	2023-09-28	Undisclosed	0	0	0		2023.00	Smile Elite	58a-ebor-street-ebor-nsw-2453
 81298	House	2023-06-08	AUCTION THIS SUNDAY 1:15PM Price Guide $1,080,000	2023-06-26	$1,291,000	4	2	2		362.4	Smile Elite	125-alex-avenue-schofields-nsw-2762
 81300	Apartment	2023-06-08	$385,000+	2023-08-10	$385,000	1	1	1	6.0	9629.0	Capital Partner Real Estate	37-301-flemington-road-franklin-act-2913
 81313	House	2023-06-09	$695,000	2023-09-20	$630,000	3	1	1		673.0	LJ Hooker Batemans Bay	5-otama-close-lilli-pilli-nsw-2536
