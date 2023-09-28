@@ -208,7 +208,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 83328	House	2023-07-19	Contact Agent	2023-08-16	$1,150,000	4	2	2	1.0	875.0	The Real Estate Guy	9-doyle-terrace-chapman-act-2611
 83330	Apartment	2023-07-19	$550,000	2023-09-22	$548,000	1	1	1	6.0		LJ Hooker Dickson	1017-240-bunda-street-city-act-2601
 83335	Apartment	2023-07-19	Auction	2023-08-15	$585,000	2	2	2	6.0		LJ Hooker Belconnen	1-37-chandler-street-belconnen-act-2617
-83336	House	2023-07-19	$495,000	2023-09-27	$450,000	3	1	1		811.00	Henley Property - Cooma	35-baroona-avenue-cooma-nsw-2630
+83336	House	2023-07-19	$495,000	2023-09-27	$450,000	3	1	1		811.0	Henley Property - Cooma	35-baroona-avenue-cooma-nsw-2630
 83341	House	2023-07-19	$429,000	2023-08-17	$429,000	3	1	2		1011.0	Kitson Property	12-mimosa-street-coolamon-nsw-2701
 83343	House	2023-07-19	Guide $2,750,000 - $2,950,000	2023-08-14	$2,750,000	5	3	2		2340.0	Ray White Bowral	42-toongoon-road-burradoo-nsw-2576
 83344	House	2023-07-19	Price Guide $1,100,000	2023-08-31	Undisclosed	5	2	4		1.15	Raine & Horne Southern Highlands	20-lomatia-close-tallong-nsw-2579
@@ -231,7 +231,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 83386	House	2023-07-20	$599,000+	2023-09-08	$605,000	2	1	1	6.0		Ray White Canberra	22-15-howitt-street-kingston-act-2604
 83388	Apartment	2023-07-20	$425000+	2023-09-13	$415,000	1	1	1	6.0		LJ Hooker Dickson	27-28-watson-street-turner-act-2612
 83389	Townhouse	2023-07-20	Auction	2023-08-01	Undisclosed	2	1	1	4.5		Luton Tuggeranong	35-25-pinkerton-circuit-kambah-act-2902
-83390	Townhouse	2023-07-20	$649,000+	2023-09-26	Undisclosed	3	2	2	5.50		Luton Gungahlin	33-54-paul-coe-crescent-ngunnawal-act-2913
+83390	Townhouse	2023-07-20	$649,000+	2023-09-26	Undisclosed	3	2	2	5.5		Luton Gungahlin	33-54-paul-coe-crescent-ngunnawal-act-2913
 83391	Apartment	2023-07-20	$520,000 to $535,000	2023-09-04	$516,000	2	2	2	6.0		Impact Properties	14-77-gozzard-street-gungahlin-act-2912
 83393	House	2023-07-20	$590,000	2023-08-04	$590,000	2	1	1	6.0		home.by holly	101-burrumarra-avenue-ngunnawal-act-2913
 83394	Apartment	2023-07-20	By Negotiation	2023-09-06	Undisclosed	1	1	1	6.0		Luton Gungahlin	23-4-thadoona-street-crace-act-2911
@@ -266,6 +266,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 83516	House	2023-07-22	$620,000	2023-08-09	$620,000	3	1	4		519.0	Raine & Horne Goulburn	28-victoria-street-goulburn-nsw-2580
 83517	Other	2023-07-23	$1,550,000	2023-08-09	$1,500,000	8	5	3		868.0	Tathra Beach Real Estate	30-edna-drive-tathra-nsw-2550
 83520	Townhouse	2023-07-24	Contact agent	2023-07-20	$789,000	2	2	1	6.0		home.by holly	29-frencham-street-downer-act-2602
+83524	House	2023-07-24	$659,000	2023-09-27	Undisclosed	3	1	2		968.00	Ray White Goulburn	109-taralga-road-goulburn-nsw-2580
 83532	Townhouse	2023-07-24	$550,000 - $570,000	2023-09-04	$550,000	2	1	2		0.0	Ward Estate Agents	7-157-159-uriarra-road-queanbeyan-nsw-2620
 83538	Townhouse	2023-07-24	$1,150,000 - $1,200,000 Guide	2023-07-24	$1,050,000	3	2	3		892.0	Sails Real Estate	2-28-lakeview-avenue-merimbula-nsw-2548
 83540	House	2023-07-24	SOLD Prior to Marketing	2023-07-21	$1,085,000	5	2	1	1.5	762.0	LJ Hooker Woden/Weston	5-tompson-street-garran-act-2605
@@ -291,7 +292,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 83679	House	2023-07-26	Contact Agent	2023-08-16	$1,502,000	2	1	2		500.0	Smile Elite	129-lakes-boulevard-wooloweyah-nsw-2464
 83687	House	2023-07-26	Sold for $865,000	2023-08-08	$865,000	3	2	2	6.0	376.0	MARQ Property	65-john-crawford-crescent-casey-act-2913
 83688	House	2023-07-26	$698,000+	2023-08-29	$732,000	3	1	1	6.0	293.0	MARQ Property	81-yumba-avenue-ngunnawal-act-2913
-83689	House	2023-07-26	$549,000	2023-09-25	$500,000	4	3	2		796.7	Macarthur Real Estate Agency	20-willow-street-kooringal-nsw-2650
+83689	House	2023-07-26	$549,000	2023-09-25	$500,000	4	3	2		796.70	Macarthur Real Estate Agency	20-willow-street-kooringal-nsw-2650
 83690	House	2023-07-26	Contact Agent	2023-07-21	$1,350,000	4	2	2		981.0	Ray White Bowral	9-price-street-bowral-nsw-2576
 83692	House	2023-07-26	$730,000	2023-09-21	$715,000	3	1	0	0.0	712.0	Luton Dickson	3-palana-place-giralang-act-2617
 83693	House	2023-07-26	Auction	2023-08-21	$715,000	3	1	2	1.5	869.0	Luton Dickson	3-harland-place-flynn-act-2615
@@ -316,12 +317,14 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 83760	House	2023-07-27	Auction 19/08/2023	2023-08-19	$785,000	3	1	1	6.0		Ray White Canberra	4-elizabeth-jolley-crescent-franklin-act-2913
 83765	House	2023-07-27	$379,000	2023-09-04	Undisclosed	2	1	1		343.0	Ray White Wagga Wagga	4-418-lake-albert-road-kooringal-nsw-2650
 83768	Apartment	2023-07-27	$575,000+	2023-09-07	Undisclosed	2	2	1	6.0		LJ Hooker Woden/Weston	28-2-veryard-lane-belconnen-act-2617
+83770	House	2023-07-27	$930,000+	2023-09-28	$925,000	3	1	2	3.50	336.00	LJ Hooker Kaleen	7-guthrie-street-dickson-act-2602
 83772	House	2023-07-27	Auction	2023-08-18	$1,050,000	4	2	2	5.0	481.0	Luton Gungahlin	29-scholtens-street-casey-act-2913
 83773	House	2023-07-27	Auction Tuesday 5th September at 4pm	2023-09-05	Undisclosed	3	1	3		664.0	McCann Properties	311-dalton-road-gunning-nsw-2581
 83777	Townhouse	2023-07-27	$749,000+	2023-09-15	Undisclosed	4	2	1	2.0	285.0	Ray White Canberra	44-gillespie-street-weetangera-act-2614
 83778	House	2023-07-27	Contact Agent	2023-08-14	$2,060,000	4	3	2		700.0	Smile Elite	13-hamish-court-beaumont-hills-nsw-2155
 83791	House	2023-07-27	$959,000	2023-09-20	Undisclosed	4	2	4		3035.0	McCann Properties	2-wombat-street-gunning-nsw-2581
 83800	House	2023-07-27	$520,000	2023-09-14	$510,000	3	2	3		689.2	Smile Elite	24-cousins-street-muswellbrook-nsw-2333
+83810	Apartment	2023-07-27	$395,000+	2023-09-27	$415,000	1	1	1	6.00	3377.00	LJ Hooker Gungahlin	901-15-bowes-street-phillip-act-2606
 83814	House	2023-07-27	$820,000+	2023-08-15	Undisclosed	4	2	2	1.5	747.0	LJ Hooker Kippax	31-lachlan-street-macquarie-act-2614
 83819	House	2023-07-27	Price Guide $880,000	2023-08-31	$982,000	3	1	1		550.0	Smile Elite	24-gladstone-parade-riverstone-nsw-2765
 83821	House	2023-07-28	$859,000 - 899,000	2023-09-19	$890,000	4	2	2		836.0	One Agency Wagga Wagga	25-turramia-crescent-gobbagombalin-nsw-2650
@@ -382,7 +385,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 84088	House	2023-08-03	contact agent	2023-08-26	Undisclosed	4	2	1	0.0	731.0	home.by holly	83-price-place-downer-act-2602
 84089	House	2023-08-03	Auction 26/08/2023	2023-08-26	$1,502,000	3	1	2	2.5	715.8	LJ Hooker Dickson	25-archer-street-dickson-act-2602
 84091	DuplexSemi-detached	2023-08-03	Auction 30/08/2023	2023-08-30	$1,175,000	3	1	2	6.0	619.0	LJ Hooker Dickson	4-dooring-street-braddon-act-2612
-84095	House	2023-08-03	$785,000	2023-09-22	$775,000	3	2	1	4.0	362.0	Luton Tuggeranong	34-corringle-close-amaroo-act-2914
+84095	House	2023-08-03	$785,000	2023-09-22	$775,000	3	2	1	4.00	362.00	Luton Tuggeranong	34-corringle-close-amaroo-act-2914
 84099	House	2023-08-03	$1,250,000+	2023-08-29	$1,250,000	4	2	2	3.0	806.0	LJ Hooker Tuggeranong	49-olive-pink-crescent-banks-act-2906
 84100	House	2023-08-03	Auction 24/08/2023	2023-08-12	$751,000	3	1	1	2.0	439.0	Ray White Canberra	39-morrison-street-kambah-act-2902
 84102	Apartment	2023-08-03	$1,185,000+	2023-09-08	Undisclosed	2	2	2	6.0		VERV Property	53-7-state-circle-forrest-act-2603
@@ -404,12 +407,12 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 84136	House	2023-08-03	Auction 26/08/2023	2023-08-26	Undisclosed	4	2	1	3.5	824.0	Ray White Canberra	66-mackellar-crescent-cook-act-2614
 84137	Apartment	2023-08-03	By Negotiation	2023-09-04	$572,500	2	2	1	6.0		MARQ Property	56-20-beissel-street-belconnen-act-2617
 84139	House	2023-08-03	$780,000 - $858,000	2023-08-22	$820,000	3	2	2		707.0	Smile Elite	30-greygums-road-cranebrook-nsw-2749
-84143	House	2023-08-03	$930,000+	2023-09-22	$955,000	4	2	2	2.00	765.00	LJ Hooker Tuggeranong	14-cracknell-street-monash-act-2904
+84143	House	2023-08-03	$930,000+	2023-09-22	$955,000	4	2	2	2.0	765.0	LJ Hooker Tuggeranong	14-cracknell-street-monash-act-2904
 84144	House	2023-08-03	$880,000-$920,000	2023-08-18	Undisclosed	4	3	2			My Agent Team	22-yarrabee-drive-catalina-nsw-2536
 84153	House	2023-08-03	$745,000	2023-08-28	$745,000	3	1	1	4.5		home.by holly	32-tregellas-crescent-banks-act-2906
 84155	Apartment	2023-08-03	Offers Above $339,000	2023-09-19	$340,000	1	1	0	3.0		Cream Residential	62-27-coxen-street-hughes-act-2605
 84157	House	2023-08-03	Auction	2023-08-16	$1,456,000	4	2	2	3.5	872.0	LJ Hooker Kippax	28-selwyn-street-hackett-act-2602
-84158	House	2023-08-03	$779,000+	2023-09-25	$750,000	4	1	4	3.5	777.0	Ray White Canberra	31-deamer-crescent-richardson-act-2905
+84158	House	2023-08-03	$779,000+	2023-09-25	$750,000	4	1	4	3.50	777.00	Ray White Canberra	31-deamer-crescent-richardson-act-2905
 84161	House	2023-08-03	Auction	2023-08-30	$1,120,000	4	2	1	2.0	760.0	LJ Hooker Kaleen	11-wakool-circuit-kaleen-act-2617
 84163	House	2023-08-03	Auction	2023-09-06	Undisclosed	4	2	2	3.0	690.0	Luton Tuggeranong	6-currey-street-gowrie-act-2904
 84164	Unit	2023-08-03	$500,000+	2023-09-08	$490,000	1	1	1	6.0		LJ Hooker Dickson	3-25-forbes-street-turner-act-2612
@@ -454,7 +457,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 84388	Townhouse	2023-08-09	$630,000+	2023-09-13	$625,000	3	2	1	2.0		McIntyre Property	9-40-sid-barnes-crescent-gordon-act-2906
 84391	House	2023-08-09	$675,000	2023-09-04	$675,000	1	1	1		1882.0	Belle Property Braidwood	45-cowper-street-braidwood-nsw-2622
 84394	Apartment	2023-08-09	$577,000	2023-08-08	$577,000	2	2	1			Smile Elite	426-45-manchester-drive-schofields-nsw-2762
-84401	House	2023-08-09	$695,000+	2023-09-27	$720,000	3	1	1	1.5	936.0	LJ Hooker Tuggeranong	19-chippindall-circuit-theodore-act-2905
+84401	House	2023-08-09	$695,000+	2023-09-27	$720,000	3	1	1	1.50	936.00	LJ Hooker Tuggeranong	19-chippindall-circuit-theodore-act-2905
 84402	House	2023-08-09	$469,000	2023-09-14	Undisclosed	3	1	0		1012.0	Ray White Wagga Wagga	108-mirrool-street-coolamon-nsw-2701
 84403	House	2023-08-09	$1,520,000 - $1,590,000	2023-09-18	$1,505,000	5	2	4		8175.0	Ray White Bungendore	20-john-dwyer-crescent-bungendore-nsw-2621
 84413	House	2023-08-09	$730,000	2023-09-25	$708,000	5	2	2		686.00	PRD Wagga Wagga	18-fay-avenue-kooringal-nsw-2650
@@ -517,7 +520,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 84704	AcreageSemi-rural	2023-08-15	$700,000	2023-09-12	$720,000	1	1	4		4.02	Burchell Higgins Property Sales	13-raktari-place-kalaru-nsw-2550
 84705	House	2023-08-15	$739,000	2023-08-30	$720,000	3	1	1		712.0	McGrath Batemans Bay & Moruya	98-maloneys-drive-maloneys-beach-nsw-2536
 84708	House	2023-08-15	Auction	2023-09-09	Undisclosed	4	2	2	3.5	963.0	Timothy Road	9-somerville-street-spence-act-2615
-84717	Land	2023-08-15	$650,000	2023-09-27	Undisclosed	2	1	24		110.00	Flemings Property Services	2359-rugby-road-rugby-nsw-2583
+84717	Land	2023-08-15	$650,000	2023-09-27	Undisclosed	2	1	24		110.0	Flemings Property Services	2359-rugby-road-rugby-nsw-2583
 84718	House	2023-08-15	AUCTION	2023-09-09	$720,000	3	1	1	0.5	851.0	McIntyre Property	39-ragless-circuit-kambah-act-2902
 84735	House	2023-08-15	$700,000 GUIDE - AUCTION SUN 10TH SEP 11AM	2023-09-08	$750,000	3	1	4		1024.0	Ray White Rural Canberra | Yass	18a-ford-street-yass-nsw-2582
 84740	Townhouse	2023-08-15	$699,000	2023-09-26	$680,000	3	2	2	5.00		Ray White Queanbeyan | Jerrabomberra	69-15-john-cleland-crescent-florey-act-2615
@@ -533,10 +536,10 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 84778	Apartment	2023-08-16	$538,000+	2023-09-18	$555,000	2	1	1	6.0		MARQ Property	54-217-northbourne-avenue-turner-act-2612
 84780	House	2023-08-16	$882,000	2023-08-30	$882,000	3	2	2	5.5		home.by holly	1-yoornie-way-strathnairn-act-2615
 84782	Apartment	2023-08-16	$689,000+	2023-09-13	Undisclosed	2	2	2	6.0		LJ Hooker Canberra City	24-18-bradfield-street-downer-act-2602
-84785	House	2023-08-16	$929,000 - $969,000	2023-09-26	$925,000	4	2	2		457.00	Ian McNamee & Partners - Queanbeyan	63-bluestone-gardens-jerrabomberra-nsw-2619
+84785	House	2023-08-16	$929,000 - $969,000	2023-09-26	$925,000	4	2	2		457.0	Ian McNamee & Partners - Queanbeyan	63-bluestone-gardens-jerrabomberra-nsw-2619
 84794	House	2023-08-16	Contact Agent	2023-08-14	$980,000	3	2	4		1816.0	Smile Elite	82-spencer-street-moruya-nsw-2537
 84795	House	2023-08-16	Auction 09/09/2023	2023-09-09	Undisclosed	3	2	3	4.0		Ray White Canberra	19-templestowe-avenue-conder-act-2906
-84818	House	2023-08-16	$820,000	2023-09-26	Undisclosed	4	2	3	4.00	650.00	Luton Gungahlin	65-bargang-crescent-ngunnawal-act-2913
+84818	House	2023-08-16	$820,000	2023-09-26	Undisclosed	4	2	3	4.0	650.0	Luton Gungahlin	65-bargang-crescent-ngunnawal-act-2913
 84822	House	2023-08-16	Price by Negotiation	2023-09-20	$1,205,000	5	3	3		747.0	Raine & Horne Mollymook Milton	3-bonnie-troon-close-dolphin-point-nsw-2539
 84826	House	2023-08-16	Contact Agent	2023-08-24	$775,000	3	1	2		779.0	Ray White Bowral	19-arborea-place-bowral-nsw-2576
 84830	Unit	2023-08-17	Offers above $469,000	2023-09-06	$485,000	2	1	1	6.0		Michael Potter Real Estate	15-10-wilkins-street-the-crest-mawson-act-2607
@@ -580,7 +583,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85028	Apartment	2023-08-21	Auction	2023-09-16	Undisclosed	3	3	5	6.0		LJ Hooker Canberra City	253-44-constitution-avenue-campbell-act-2612
 85035	Apartment	2023-08-21	$390,000 Plus	2023-09-06	$390,000	1	1	1	6.0		Maloney's Property	88-311-anketell-street-greenway-act-2900
 85042	House	2023-08-21	$1,450,000	2023-09-01	$1,435,000	4	3	2		894.0	Dwyer Properties Sapphire Coast	1-currawong-close-mirador-nsw-2548
-85046	House	2023-08-21	$1,580,000	2023-09-23	$1,580,000	4	2	3	5.0	610.0	MARQ Property	11-buscombe-street-forde-act-2914
+85046	House	2023-08-21	$1,580,000	2023-09-23	$1,580,000	4	2	3	5.00	610.00	MARQ Property	11-buscombe-street-forde-act-2914
 85053	House	2023-08-22	$269,000	2023-09-08	Undisclosed	2	1	1		607.03	Ray White Wagga Wagga	24-phillip-avenue-mount-austin-nsw-2650
 85067	House	2023-08-22	Auction onsite	2023-09-11	Undisclosed	5	3	6	4.0	802.0	MARQ Property	3-kendall-place-nicholls-act-2913
 85075	House	2023-08-22	Auction	2023-09-07	Undisclosed	3	1	1	1.0	561.0	Luton Tuggeranong	30-dixson-circuit-conder-act-2906
@@ -593,14 +596,15 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85125	House	2023-08-23	$1,320,000-$1,380,000	2023-09-13	Undisclosed	4	2	4		1.73	Elders Murrumbateman	4-hereford-place-murrumbateman-nsw-2582
 85129	Apartment	2023-08-23	$520,000+	2023-09-14	$535,000	2	2	2	6.0	21573.3	Ray White Canberra	191-140-thynne-street-bruce-act-2617
 85130	House	2023-08-23	Auction	2023-09-16	Undisclosed	4	2	2	2.0	551.0	Luton Manuka	87-buxton-street-deakin-act-2600
-85137	Unit	2023-08-23	$299,950	2023-09-22	$320,000	2	1	1	0.5		LJ Hooker Belconnen	8-7-keith-street-scullin-act-2614
+85137	Unit	2023-08-23	$299,950	2023-09-22	$320,000	2	1	1	0.50		LJ Hooker Belconnen	8-7-keith-street-scullin-act-2614
 85139	House	2023-08-23	$600,000 - $630,000	2023-09-08	$600,000	3	1	0	0.0	797.0	My Agent Team	26-northcove-road-long-beach-nsw-2536
 85157	House	2023-08-23	Auction	2023-09-16	Undisclosed	4	2	2	5.0	526.0	Altair Property	1-winchester-street-casey-act-2913
 85163	Townhouse	2023-08-23	$650,000+	2023-09-19	$680,000	3	1	1	6.0	211.0	LJ Hooker Tuggeranong	12-16-blackett-crescent-greenway-act-2900
+85178	Unit	2023-08-23	$399,000	2023-09-28	$389,000	2	1	1			LJ Hooker Batemans Bay	3-15-eric-fenning-drive-surf-beach-nsw-2536
 85186	House	2023-08-23	$1,460,000	2023-08-23	$1,460,000	4	2	2			Smile Elite	8-booroola-road-gables-nsw-2765
 85188	House	2023-08-24	$679,000	2023-09-08	$665,000	3	1	1		695.0	My Agent Team	12a-ainslie-parade-tomakin-nsw-2537
 85189	House	2023-08-24	$971,000	2023-09-16	$971,000	3	1	2	1.5	1499.0	home.by holly	8-weipa-place-fisher-act-2611
-85190	House	2023-08-24	$825,000	2023-09-26	$825,000	3	2	1	4.50	286.00	home.by holly	39-leslie-dwyer-street-forde-act-2914
+85190	House	2023-08-24	$825,000	2023-09-26	$825,000	3	2	1	4.5	286.0	home.by holly	39-leslie-dwyer-street-forde-act-2914
 85194	House	2023-08-24	By Negotiation	2023-09-11	$920,000	2	1	0		816.0	Bella Coastal Property	126-malibu-drive-bawley-point-nsw-2539
 85195	House	2023-08-24	Auction 13/09/2023	2023-09-13	$1,205,000	5	3	4	4.0	853.5	Ray White Canberra	3-emanuel-place-conder-act-2906
 85196	Townhouse	2023-08-24	$640,000 +	2023-09-14	$667,000	3	1	1	1.0		Ray White Canberra	7-16-blackett-crescent-greenway-act-2900
@@ -614,13 +618,13 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85215	Apartment	2023-08-24	$389,000+	2023-09-20	$352,500	1	1	1	5.5		LJ Hooker Woden/Weston	47-9-dover-court-phillip-act-2606
 85237	House	2023-08-24	Auction	2023-09-14	Undisclosed	4	2	3	2.0	887.0	Luton Kippax	3-kinchela-crescent-latham-act-2615
 85248	House	2023-08-24	Auction	2023-09-13	Undisclosed	4	2	1	2.0	737.0	LJ Hooker Kaleen	29-skinner-street-cook-act-2614
-85254	AcreageSemi-rural	2023-08-24	Onsite auction Sunday 24 September at 12pm	2023-09-22	Undisclosed	3	1	10		16.00	Ray White Canberra	2444-federal-highway-bywong-nsw-2621
+85254	AcreageSemi-rural	2023-08-24	Onsite auction Sunday 24 September at 12pm	2023-09-22	Undisclosed	3	1	10		16.0	Ray White Canberra	2444-federal-highway-bywong-nsw-2621
 85259	Land	2023-08-24	$145,000	2023-08-24	$120,000	0	0	0		8094.0	Raine & Horne Young	sand-hill-manning-street-wombat-nsw-2587
 85267	House	2023-08-24	SOLD	2023-09-27	Undisclosed	3	1	1		759.00	Flemings Property Services	6-wall-avenue-cootamundra-nsw-2590
 85272	House	2023-08-24	Price Guide $1,200,000	2023-09-18	$1,345,500	5	3	2			Smile Elite	20-pecan-crescent-grantham-farm-riverstone-nsw-2765
 85308	House	2023-08-25	Contact agent	2023-09-18	$1,478,000	5	2	2		355.0	Smile Elite	11-queensbury-street-schofields-nsw-2762
 85311	House	2023-08-25	Auction 16/09/2023 3:30pm	2023-09-16	$750,000	3	2	3	1.5	697.0	Ray White Canberra	1-long-place-scullin-act-2614
-85348	Townhouse	2023-08-28	$740,000	2023-09-25	$750,000	3	2	2	4.00		The Real Estate Shop	17-86-mawson-drive-mawson-act-2607
+85348	Townhouse	2023-08-28	$740,000	2023-09-25	$750,000	3	2	2	4.0		The Real Estate Shop	17-86-mawson-drive-mawson-act-2607
 85350	Townhouse	2023-08-28	Auction	2023-09-20	$787,000	3	2	2	6.0		LJ Hooker Woden/Weston	18-edgeworth-parade-coombs-act-2611
 85351	House	2023-08-28	AUCTION, MOTIVATED VENDOR!	2023-09-26	$555,000	3	2	2		711.00	Ray White Goulburn	13-deccan-street-goulburn-nsw-2580
 85357	Apartment	2023-08-28	AUCTION	2023-09-23	$700,000	2	2	1			Smile Elite	208c-27-29-george-street-north-strathfield-nsw-2137
@@ -628,7 +632,8 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85376	House	2023-08-28	Contact Agent	2023-09-13	Undisclosed	4	2	2		563.0	Elders Real Estate Batemans Bay	19-mulgowrie-street-malua-bay-nsw-2536
 85378	House	2023-08-28	$420,000	2023-09-13	Undisclosed	4	1	2		31.0	Flemings Property Services	17-blue-mantle-road-wyangala-nsw-2808
 85387	House	2023-08-28	For Sale $1,400,000 - $1,480,000	2023-08-28	$1,482,000	4	3	2			Smile Elite	17-tomman-way-schofields-nsw-2762
-85397	House	2023-08-28	$420,000	2023-09-22	$403,000	2	1	2		760.00	Henley Property - Cooma	16-bradley-street-cooma-nsw-2630
+85397	House	2023-08-28	$420,000	2023-09-22	$403,000	2	1	2		760.0	Henley Property - Cooma	16-bradley-street-cooma-nsw-2630
+85402	House	2023-08-28	$719,000	2023-09-25	$719,000	3	2	1		588.00	Jo Jones Property Specialists	9-powell-avenue-ulladulla-nsw-2539
 85406	House	2023-08-29	$550,000	2023-09-27	Undisclosed	3	1	4			Flemings Property Services	54-riverpark-road-cowra-nsw-2794
 85413	House	2023-08-29	Auction 21/09/23	2023-09-21	$880,000	3	2	1	2.5	805.0	Ray White Canberra	1-roseby-street-page-act-2614
 85427	Townhouse	2023-08-29	$579,000 - $599,000	2023-09-27	$603,000	3	1	2	2.00		McIntyre Property	12-26-chave-street-holt-act-2615
@@ -637,41 +642,43 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85454	Land	2023-08-29	$849,000 - Nicholas Lyell	2023-09-15	Undisclosed	0	0	0		1648.0	McGoldrick Estate Agents	11a-discovery-place-shoalhaven-heads-nsw-2535
 85461	House	2023-08-29	Sold $720,000	2023-09-26	$720,000	3	1	1	4.0	380.0	MARQ Property	29-yarrawonga-street-ngunnawal-act-2913
 85468	House	2023-08-30	AUCTION	2023-09-26	$1,193,000	4	2	10		40.00	Henley Property - Berridale	60-wolfram-road-berridale-nsw-2628
-85469	Apartment	2023-08-30	Auction 23/09/2023	2023-09-22	$1,275,000	3	3	2	5.00		LJ Hooker Dickson	1614-240-bunda-street-canberra-act-2601
+85469	Apartment	2023-08-30	Auction 23/09/2023	2023-09-22	$1,275,000	3	3	2	5.0		LJ Hooker Dickson	1614-240-bunda-street-canberra-act-2601
 85471	House	2023-08-30	Auction	2023-09-23	$836,000	3	2	2	4.50	475.00	LJ Hooker Belconnen	1-grove-place-dunlop-act-2615
 85472	House	2023-08-30	Auction	2023-09-16	$700,000	3	1	3	2.0	843.0	LJ Hooker Belconnen	6-amadio-place-melba-act-2615
 85473	House	2023-08-30	Auction	2023-09-16	$851,000	4	2	2	1.0	699.0	LJ Hooker Belconnen	28-petterd-street-page-act-2614
 85479	House	2023-08-30	Auction Saturday 16 September 2023, 10am On Site	2023-09-16	$975,000	3	2	2	5.5	350.0	Morrissey Property	47-hesba-brinsmead-street-franklin-act-2913
 85480	House	2023-08-30	AUCTION	2023-09-16	$795,000	3	1	4	1.0	819.0	McIntyre Property	31-hibiscus-crescent-rivett-act-2611
 85482	Land	2023-08-30	Auction	2023-09-21	Undisclosed	0	0	0		651.0	LJ Hooker Belconnen	1-rag-holmes-street-macgregor-act-2615
-85483	House	2023-08-30	$827,000	2023-09-23	$827,000	4	2	2	1.0	1039.0	MARQ Property	9-simon-place-kambah-act-2902
+85483	House	2023-08-30	$827,000	2023-09-23	$827,000	4	2	2	1.00	1039.00	MARQ Property	9-simon-place-kambah-act-2902
 85484	House	2023-08-30	Auction	2023-09-16	$400,000	1	1	1	6.0		LJ Hooker Belconnen	132-8-baudinette-circuit-bruce-act-2617
 85495	House	2023-08-30	$540,000	2023-09-22	$555,000	3	1	2		516.0	PRD Wagga Wagga	58-mima-street-glenfield-park-nsw-2650
 85528	Townhouse	2023-08-30	$425,000	2023-09-20	Undisclosed	2	1	1			Ben Bate Real Estate	4-217-princes-highway-narooma-nsw-2546
+85533	House	2023-08-30	$690,000+	2023-09-27	$700,000	3	1	1	4.00	366.00	LJ Hooker Kippax	48-britten-jones-drive-holt-act-2615
 85534	Apartment	2023-08-30	$540,000	2023-09-22	$540,000	1	1	1	5.50		home.by holly	25-26-macquarie-street-barton-act-2600
 85537	House	2023-08-30	$891,000	2023-09-16	$891,000	3	1	2	1.5	853.0	home.by holly	5-jindabyne-street-duffy-act-2611
 85538	Townhouse	2023-08-30	Auction	2023-09-14	$800,000	3	2	2	6.0		LJ Hooker Kaleen	31-2-bulletin-street-lawson-act-2617
 85541	House	2023-08-30	$410,000 to $440,000	2023-09-13	$412,500	4	3	2		411.0	Smile Elite	127-ballina-road-east-lismore-nsw-2480
 85545	Land	2023-08-30	$140,000	2023-09-08	Undisclosed	0	0	0		1.92	Flemings Property Services	2605-olympic-highway-bendick-murrell-nsw-2803
 85547	House	2023-08-30	$640,000	2023-09-23	$640,000	3	1	1	3.0		Luton Tuggeranong	2-ern-florence-crescent-theodore-act-2905
-85552	House	2023-08-31	Auction	2023-09-23	Undisclosed	5	2	4	3.5	1329.0	Luton Weston Creek & Molonglo Valley	67-kambalda-crescent-fisher-act-2611
+85552	House	2023-08-31	Auction	2023-09-23	Undisclosed	5	2	4	3.50	1329.00	Luton Weston Creek & Molonglo Valley	67-kambalda-crescent-fisher-act-2611
 85553	House	2023-08-31	Auction	2023-09-23	Undisclosed	4	2	4	5.0	789.0	Luton Weston Creek & Molonglo Valley	104-atherton-street-downer-act-2602
-85556	House	2023-08-31	$500,000 - $540,000	2023-09-26	$525,000	3	1	1		727.00	My Agent Team	6-marina-avenue-surfside-nsw-2536
+85556	House	2023-08-31	$500,000 - $540,000	2023-09-26	$525,000	3	1	1		727.0	My Agent Team	6-marina-avenue-surfside-nsw-2536
 85561	House	2023-08-31	Auction	2023-09-23	Undisclosed	4	2	2	0.5	891.0	Luton Gungahlin	42-pridham-street-farrer-act-2607
 85562	House	2023-08-31	$695,000 - $715,000	2023-09-07	$715,000	4	2	2		560.0	Smile Elite	6-yellow-box-place-gormans-hill-nsw-2795
 85564	Apartment	2023-08-31	$255,000+	2023-09-14	$265,000	1	1	1	6.0		LJ Hooker Manuka	5-46-mcmillan-crescent-narrabundah-act-2604
-85568	House	2023-08-31	contact agent	2023-09-25	Undisclosed	3	2	2	1.50		home.by holly	29-moruya-circuit-kaleen-act-2617
+85568	House	2023-08-31	contact agent	2023-09-25	Undisclosed	3	2	2	1.5		home.by holly	29-moruya-circuit-kaleen-act-2617
 85572	House	2023-08-31	Auction 23/09/23	2023-09-23	Undisclosed	5	3	3	2.5	940.0	Ray White Canberra	3-abernethy-street-weetangera-act-2614
-85573	House	2023-08-31	Auction 23/09/2023	2023-09-25	$1,302,000	4	2	2	4.00	510.00	Ray White Canberra	5-hohnen-street-bruce-act-2617
+85573	House	2023-08-31	Auction 23/09/2023	2023-09-25	$1,302,000	4	2	2	4.0	510.0	Ray White Canberra	5-hohnen-street-bruce-act-2617
 85574	House	2023-08-31	Auction 22/09/2023	2023-09-22	$1,070,000	3	2	2	6.00	895.00	Ray White Canberra	67-dixon-drive-duffy-act-2611
 85577	House	2023-08-31	$880,000+	2023-09-15	Undisclosed	3	2	2	6.0	342.0	Ray White Canberra	23-fullston-way-holt-act-2615
 85578	House	2023-08-31	$1,430,000	2023-09-16	$1,430,000	4	3	2	2.5	747.0	home.by holly	22-goulburn-street-macquarie-act-2614
-85587	House	2023-08-31	Auction 23/09/2023	2023-09-23	$815,000	3	1	1	3.0	406.0	Ray White Canberra	18-rubicon-street-kaleen-act-2617
+85585	Townhouse	2023-08-31	Auction 27/09/2023	2023-09-27	$687,500	3	2	2	6.00		LJ Hooker Dickson	22-224-flemington-road-harrison-act-2914
+85587	House	2023-08-31	Auction 23/09/2023	2023-09-23	$815,000	3	1	1	3.00	406.00	Ray White Canberra	18-rubicon-street-kaleen-act-2617
 85588	House	2023-08-31	Auction 21/09/2023	2023-09-21	Undisclosed	2	2	1	6.0	2205.0	Ray White Canberra	6-80-gozzard-street-gungahlin-act-2912
-85590	House	2023-08-31	Auction 23/09/2023	2023-09-23	$1,085,000	4	2	2	4.50	732.00	Ray White Canberra	32-burnett-street-kaleen-act-2617
+85590	House	2023-08-31	Auction 23/09/2023	2023-09-23	$1,085,000	4	2	2	4.5	732.0	Ray White Canberra	32-burnett-street-kaleen-act-2617
 85606	House	2023-08-31	$625,000+	2023-09-11	$670,000	3	1	2	1.0	532.0	Ray White Canberra	5-best-place-charnwood-act-2615
 85615	House	2023-08-31	Auction 21/09/2023	2023-09-21	$870,000	4	2	2	2.0	726.4	Ray White Canberra	64-william-webb-drive-evatt-act-2617
-85619	House	2023-08-31	Auction 23/09/2023	2023-09-23	$950,000	3	1	2	3.00		Ray White Canberra	4-stevenson-street-torrens-act-2607
+85619	House	2023-08-31	Auction 23/09/2023	2023-09-23	$950,000	3	1	2	3.0		Ray White Canberra	4-stevenson-street-torrens-act-2607
 85621	House	2023-08-31	$300,000	2023-08-31	$300,000	3	1	1		638.6	PRD Wagga Wagga	2-smithies-place-ashmont-nsw-2650
 85624	House	2023-08-31	$1,125,000	2023-09-22	$1,050,000	3	3	2		701.00	Dwyer Properties Sapphire Coast	10-caldy-place-tura-beach-nsw-2548
 85625	House	2023-08-31	Auction	2023-09-14	Undisclosed	4	2	2	6.0	405.0	Luton Gungahlin	33-charlotte-barton-street-franklin-act-2913
@@ -679,6 +686,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85627	House	2023-08-31	Auction 23/09/2023	2023-09-23	$1,262,000	4	2	2	5.0	816.0	Ray White Canberra	18-fowles-street-weston-act-2611
 85642	House	2023-08-31	$699,000	2023-09-11	$705,000	3	2	3		572.0	Ray White Goulburn	154-nicholson-street-goulburn-nsw-2580
 85653	House	2023-09-01	Auction	2023-09-23	Undisclosed	3	1	1	3.50	883.00	Luton Weston Creek & Molonglo Valley	4-curtis-place-kambah-act-2902
+85660	House	2023-09-01	$1,908,000	2023-09-27	Undisclosed	4	3	2	5.50	601.00	Hugo. Canberra	27-junee-street-crace-act-2911
 85662	Land	2023-09-01	$200,000	2023-09-22	$220,000	0	0	0		2025.00	Henley Property - Berridale	8-campbell-street-dalgety-nsw-2628
 85678	House	2023-09-01	$790,000 to $840,000	2023-09-15	Undisclosed	4	2	4		974.0	Harcourts Greater Port Macquarie & The Rocks	53-mitchell-street-south-west-rocks-nsw-2431
 85682	Land	2023-09-01	$785,000	2023-09-14	$785,000	0	0	0		1000.0	LJ Hooker Queanbeyan – Jerrabomberra – Googong	10-chimney-rise-googong-nsw-2620
@@ -689,38 +697,45 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85724	House	2023-09-01	Price Guide $1,100,000	2023-09-06	$1,251,000	4	3	1		320.0	Smile Elite	5-ruth-street-schofields-nsw-2762
 85747	House	2023-09-04	contact agent	2023-09-19	Undisclosed	3	1	3	1.0	949.0	home.by holly	10-fleming-street-watson-act-2602
 85784	House	2023-09-04	Auction - 23/09/2023	2023-09-23	$820,000	2	1	1	4.5	446.0	Ray White Canberra	3-tipper-place-cook-act-2614
-85811	Townhouse	2023-09-04	Offers Over $540,000	2023-09-26	$540,000	2	1	1	1.5		Sadil Quinlan	5-roughley-place-florey-act-2615
+85811	Townhouse	2023-09-04	Offers Over $540,000	2023-09-26	$540,000	2	1	1	1.50		Sadil Quinlan	5-roughley-place-florey-act-2615
 85849	Unit	2023-09-05	$208,000	2023-09-04	$208,000	1	1	1			LJ Hooker Queanbeyan – Jerrabomberra – Googong	22-2-donald-road-queanbeyan-nsw-2620
 85861	House	2023-09-05	$900,000	2023-09-25	$875,000	4	2	2		747.00	Professionals Nowra	19-bowerbird-street-south-nowra-nsw-2541
 85864	BlockOfUnits	2023-09-05	$875,000	2023-09-05	$875,000	8	4	7			Professionals Wagga Wagga	554-kooringal-road-kooringal-nsw-2650
 85869	House	2023-09-05	$2,415,000	2023-09-01	$2,415,000	4	2	1	4.0	975.0	home.by holly	60-paterson-street-ainslie-act-2602
 85904	Townhouse	2023-09-06	$565,000	2023-09-24	$543,000	3	2	1	1.00	209.00	LJ Hooker Belconnen	7-28-mcelhone-court-belconnen-act-2617
 85911	Unit	2023-09-06	$599,000	2023-09-27	$595,000	2	1	1			Ray White Batemans Bay	1-2-4-newth-place-surf-beach-nsw-2536
-85915	House	2023-09-06	$839,000	2023-09-22	$800,000	2	1	1		835.0	McGrath Batemans Bay & Moruya	13-clarke-street-broulee-nsw-2537
+85915	House	2023-09-06	$839,000	2023-09-22	$800,000	2	1	1		835.00	McGrath Batemans Bay & Moruya	13-clarke-street-broulee-nsw-2537
+85922	Apartment	2023-09-06	Price Guide $645,000+	2023-09-27	$675,000	2	2	2	6.00		LJ Hooker Canberra City	52-20-greenwood-street-denman-prospect-act-2611
 85923	House	2023-09-06	$839,000	2023-09-18	$820,000	2	2	2			LJ Hooker Tuross Head	166-hector-mcwilliam-drive-tuross-head-nsw-2537
 85924	House	2023-09-06	Auction 30/09/2023	2023-09-14	$885,000	4	2	2	1.5	949.0	Ray White Canberra	18-newland-street-flynn-act-2615
-85961	House	2023-09-06	$359,000	2023-09-27	$359,000	3	1	1		1027.00	Flemings Property Services	15-yass-street-young-nsw-2594
+85950	Townhouse	2023-09-06	$625,000	2023-09-27	$625,000	2	1	2			home.by holly	16-17-brudenell-drive-jerrabomberra-nsw-2619
+85961	House	2023-09-06	$359,000	2023-09-27	$359,000	3	1	1		1027.0	Flemings Property Services	15-yass-street-young-nsw-2594
 85966	House	2023-09-07	$529,000	2023-09-21	Undisclosed	3	2	3		1062.0	Flemings Property Services	1-whiteman-avenue-young-nsw-2594
+85968	House	2023-09-07	Auction	2023-09-27	Undisclosed	3	3	2	1.50	1503.00	Luton Manuka	3-phillip-avenue-watson-act-2602
 85978	House	2023-09-07	$1,550,000	2023-09-21	$1,550,000	4	2	10		5.0	LJ Hooker Narooma	29-albert-park-lane-narooma-nsw-2546
 86003	House	2023-09-07	$860,000	2023-09-07	$840,000	2	1	4		686.0	Mallacoota Real Estate Pty Ltd	4-scenic-court-mallacoota-vic-3892
-86021	House	2023-09-07	Contact agent	2023-09-26	$840,000	3	2	3		7.00	Smile Elite	37-cherry-gardens-lane-parkes-nsw-2870
+86021	House	2023-09-07	Contact agent	2023-09-26	$840,000	3	2	3		7.0	Smile Elite	37-cherry-gardens-lane-parkes-nsw-2870
+86028	House	2023-09-07	Auction	2023-09-28	Undisclosed	4	1	0	1.00	955.00	Luton Weston Creek & Molonglo Valley	51-horrocks-street-torrens-act-2607
 86040	House	2023-09-07	Price Guide $1,090,000-$1,180,000	2023-09-26	$1,150,000	4	2	1			Smile Elite	9-carbine-street-box-hill-nsw-2765
-86052	House	2023-09-08	$850,000 - $900,000	2023-09-22	$892,000	3	1	2		565.00	Smile Elite	13-tabourie-close-flinders-nsw-2529
-86078	Townhouse	2023-09-08	Price Guide: $600,000	2023-09-23	Undisclosed	3	2	2	5.5	160.0	LJ Hooker Belconnen	12-23-renouf-street-casey-act-2913
-86083	House	2023-09-08	$2,785,000	2023-09-22	$2,750,000	5	3	2		930.00	Whale Coast Realty	7-hillcrest-avenue-north-narooma-nsw-2546
+86052	House	2023-09-08	$850,000 - $900,000	2023-09-22	$892,000	3	1	2		565.0	Smile Elite	13-tabourie-close-flinders-nsw-2529
+86078	Townhouse	2023-09-08	Price Guide: $600,000	2023-09-23	Undisclosed	3	2	2	5.50	160.00	LJ Hooker Belconnen	12-23-renouf-street-casey-act-2913
+86083	House	2023-09-08	$2,785,000	2023-09-22	$2,750,000	5	3	2		930.0	Whale Coast Realty	7-hillcrest-avenue-north-narooma-nsw-2546
 86119	House	2023-09-08	$690,000 - $720,000	2023-09-21	$710,000	3	2	2		958.0	Smile Elite	2-branxton-street-nulkaba-nsw-2325
+86248	House	2023-09-12	$630,000-$660,000	2023-09-28	$625,000	3	1	1		715.00	My Agent Team	47-timbara-crescent-surfside-nsw-2536
 86255	House	2023-09-13	Contact Agent	2023-09-12	$690,000	3	2	1			Ray White Goulburn	3-14-mundy-street-goulburn-nsw-2580
 86261	House	2023-09-13	$1,350,000	2023-09-08	$1,320,000	4	2	3		17210.0	PRD Wagga Wagga	31-peppermint-drive-springvale-nsw-2650
 86280	Land	2023-09-13	$790,000 - $840,000	2023-09-19	$820,000	0	0	0		940.0	My Agent Team	35-oceanview-way-tomakin-nsw-2537
 86285	House	2023-09-13	$1,259,000	2023-09-19	Undisclosed	5	3	3	4.5	600.0	LJ Hooker Belconnen	2-farmer-place-gungahlin-act-2912
+86294	Unit	2023-09-13	$375,000 - $390,000	2023-09-26	$383,000	1	1	1	6.00		LJ Hooker Kippax	6-64-hardwick-crescent-holt-act-2615
 86295	Villa	2023-09-13	$495,000	2023-09-26	$495,000	2	1	3			Whale Coast Realty	4-33-noble-parade-dalmeny-nsw-2546
-86322	House	2023-09-14	Auction	2023-09-27	Undisclosed	4	2	2	0.00	1073.00	Luton Weston Creek & Molonglo Valley	56-blackwood-terrace-holder-act-2611
+86322	House	2023-09-14	Auction	2023-09-27	Undisclosed	4	2	2	0.0	1073.0	Luton Weston Creek & Molonglo Valley	56-blackwood-terrace-holder-act-2611
 86345	Townhouse	2023-09-14	$975,000 - $1,025,000 Price Guide	2023-09-14	$975,000	3	2	2		755.66	Sails Real Estate	2-202-mirador-drive-merimbula-nsw-2548
 86359	Unit	2023-09-14	Offers above $320,000	2023-09-21	$320,000	1	1	0	3.5		Cream Residential	78-27-coxen-street-hughes-act-2605
 86385	House	2023-09-14	$680,000	2023-09-14	$680,000	3	1	2		713.0	Blackshaw Real Estate Coastal	27-melaleuca-crescent-catalina-nsw-2536
-86412	House	2023-09-14	Auction	2023-09-25	Undisclosed	3	2	2	6.0	409.0	Luton Gungahlin	129-kavangal-circuit-ngunnawal-act-2913
+86412	House	2023-09-14	Auction	2023-09-25	Undisclosed	3	2	2	6.00	409.00	Luton Gungahlin	129-kavangal-circuit-ngunnawal-act-2913
 86421	House	2023-09-14	Auction	2023-09-21	$720,000	3	1	1	3.0	371.0	LJ Hooker Kaleen	13-mundang-crescent-ngunnawal-act-2913
-86438	Apartment	2023-09-14	Auction	2023-09-22	$1,600,000	3	3	2	6.0		Luton Dickson	512-21-marcus-clarke-street-city-act-2601
+86438	Apartment	2023-09-14	Auction	2023-09-22	$1,600,000	3	3	2	6.00		Luton Dickson	512-21-marcus-clarke-street-city-act-2601
+86442	House	2023-09-14	Auction 27/09/2023	2023-09-27	$736,000	3	1	1	5.00	708.20	Ray White Canberra	5-magennis-place-latham-act-2615
 86448	House	2023-09-15	Auction	2023-09-27	Undisclosed	4	2	2	6.0	2250.0	Luton Weston Creek & Molonglo Valley	45-jim-bradley-crescent-uriarra-village-act-2611
 86471	House	2023-09-15	For Sale $830,000 - $870,000	2023-09-25	$880,000	4	2	1		196.00	Smile Elite	5-banyan-glade-schofields-nsw-2762
 86518	AcreageSemi-rural	2023-09-16	$1,475,000	2023-09-16	$1,405,000	4	3	5		3.3	Whale Coast Realty	60-lilyvale-place-narooma-nsw-2546
@@ -730,9 +745,11 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 86599	Townhouse	2023-09-19	$649,000+	2023-09-26	Undisclosed	3	1	2	3.5		Canberry Properties	1-24-hugh-mckay-crescent-dunlop-act-2615
 86604	Townhouse	2023-09-19	$559,000+	2023-09-26	Undisclosed	2	2	2	6.0		Canberry Properties	58-40-kings-canyon-street-harrison-act-2914
 86607	House	2023-09-19	Auction, Sat 30th Sep at 10:30am | On site	2023-09-21	Undisclosed	3	2	2	0.5	842.0	Canberry Properties	8-ankaa-place-giralang-act-2617
-86617	Apartment	2023-09-19	$429,900	2023-09-26	Undisclosed	2	1	1	6.0		Canberry Properties	12-2-hinder-street-gungahlin-act-2912
+86617	Apartment	2023-09-19	$429,900	2023-09-26	Undisclosed	2	1	1	6.00		Canberry Properties	12-2-hinder-street-gungahlin-act-2912
 86746	Apartment	2023-09-20	By Negotiation	2023-09-14	$660,000	1	1	1	6.0		Canberry Properties	1216-25-edinburgh-avenue-acton-act-2601
 86839	House	2023-09-20	$450,000	2023-09-21	$440,000	3	1	1		767.0	Fitzpatricks	11-adjin-street-mount-austin-nsw-2650
 86840	House	2023-09-20	$519,990	2023-09-20	Undisclosed	4	1	1		588.1	Fitzpatricks	63-white-avenue-kooringal-nsw-2650
 86864	Lifestyle	2023-09-21	Guide $2,850,000 - $3,000,000	2023-09-21	$2,220,000	0	0	0		5.0	Ray White Bowral	209-clearys-lane-wildes-meadow-nsw-2577
 87058	Townhouse	2023-09-21	Contact Agent	2023-09-21	$874,000	4	2	1			Smile Elite	schofields-2762-nsw
+87393	Unit	2023-09-28	$360,000 - $370,000	2023-09-27	$360,000	2	1	1			Fitzpatricks	1-243-kincaid-street-wagga-wagga-nsw-2650
+87423	House	2023-09-28	$529,900	2023-09-27	$529,000	3	1	2		760.00	Kitson Property	113-dalman-parkway-glenfield-park-nsw-2650
