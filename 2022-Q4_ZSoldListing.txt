@@ -130,7 +130,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 67870	Apartment	2022-10-10	$349,999+	2023-01-31	$352,000	1	1	1	6.0		One Agency Gungahlin	215-38-gozzard-street-gungahlin-act-2912
 67874	House	2022-10-11	$649,000	2022-12-09	$630,000	3	1	4		856.0	Raine & Horne Goulburn	5-valley-walk-goulburn-nsw-2580
 67875	House	2022-10-11	$619,000	2022-11-10	$580,000	3	1	1		672.0	Raine & Horne Goulburn	42-murray-street-goulburn-nsw-2580
-67876	House	2022-10-11	$925,000	2023-09-27	$890,000	4	2	1		759.00	Ray White Batemans Bay	37-long-beach-road-long-beach-nsw-2536
+67876	House	2022-10-11	$925,000	2023-09-27	$890,000	4	2	1		759.0	Ray White Batemans Bay	37-long-beach-road-long-beach-nsw-2536
 67878	Lifestyle	2022-10-11	$1,475,000	2023-04-05	$1,400,000	3	1	5		102.74	Belle Property Braidwood	3785-cooma-road-braidwood-nsw-2622
 67879	House	2022-10-11	BY NEGOTIATION	2022-11-09	$750,000	3	1	1		765.1	Ward Estate Agents	18-waterloo-st-queanbeyan-nsw-2620
 67882	House	2022-10-11	Auction 29/10/2022	2022-10-29	$730,000	3	1	2	2.5	875.0	Ray White Canberra	18-mcmahon-court-kambah-act-2902
@@ -295,7 +295,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 68637	Livestock	2022-10-19	$3,150,000	2023-01-09	Undisclosed	3	0	0		343.0	LAWD	1597-black-range-road-bowning-nsw-2582
 68641	House	2022-10-19	Auction	2022-11-05	$810,000	3	1	2	2.5	799.0	LJ Hooker Belconnen	3-bennett-place-flynn-act-2615
 68642	Townhouse	2022-10-19	$1,110,000	2022-11-05	$1,110,000	3	2	2	5.5		home.by holly	3-74-torrens-street-braddon-act-2612
-68644	AcreageSemi-rural	2022-10-19	$1,375,000	2023-09-25	Undisclosed	4	2	2		4.90	Whale Coast Realty	241-ridge-road-central-tilba-nsw-2546
+68644	AcreageSemi-rural	2022-10-19	$1,375,000	2023-09-25	Undisclosed	4	2	2		4.9	Whale Coast Realty	241-ridge-road-central-tilba-nsw-2546
 68646	AcreageSemi-rural	2022-10-19	Guide $1,850,000 to $1,950,000	2022-11-16	$1,950,000	5	2	5		2.0	Henley Property - Jindabyne	241-bushy-park-road-east-jindabyne-nsw-2627
 68649	House	2022-10-20	Auction	2022-11-12	Undisclosed	4	2	3	3.5	1255.0	Luton Weston Creek & Molonglo Valley	107-ivo-whitton-circuit-kambah-act-2902
 68650	House	2022-10-20	Auction	2022-11-12	Undisclosed	4	2	2	2.5	1079.0	Luton Weston Creek & Molonglo Valley	37-mt-vernon-drive-kambah-act-2902
@@ -602,6 +602,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 69734	House	2022-11-08	$999,000	2023-02-03	$955,000	4	2	2		628.0	Ray White Queanbeyan | Jerrabomberra	12-alder-close-jerrabomberra-nsw-2619
 69747	Lifestyle	2022-11-08	$820,000	2022-11-08	$720,000	4	1	1		40.2	Raine & Horne Young	280-elliotts-road-crowther-nsw-2803
 69750	Townhouse	2022-11-08	$749,000+	2023-03-14	$715,000	3	2	1	3.0		Confidence Real Estate	20-28-ringrose-crescent-isaacs-act-2607
+69754	Land	2022-11-08	$235,000	2023-10-03	Undisclosed	0	0	0		654.00	Macarthur Real Estate Agency	lot-124-flintwood-street-forest-hill-nsw-2651
 69758	Land	2022-11-08	$249,000	2023-06-28	Undisclosed	0	0	0		661.0	Macarthur Real Estate Agency	lot-150-cnr-lacebark-drive-marri-place-forest-hill-nsw-2651
 69762	Land	2022-11-08	$249,000	2023-06-30	Undisclosed	0	0	0		661.0	Macarthur Real Estate Agency	lot-149-cnr-lacebark-drive-marri-place-forest-hill-nsw-2651
 69770	Unit	2022-11-08	$735,000	2022-12-05	Undisclosed	2	1	1			Whale Coast Realty	2-4-warbler-crescent-north-narooma-nsw-2546
@@ -864,7 +865,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 71471	Townhouse	2022-11-29	$595,000+	2023-03-02	$595,000	2	1	2	5.0	275.0	LJ Hooker Gungahlin	9-2-lander-crescent-amaroo-act-2914
 71473	Apartment	2022-11-29	$480,000	2023-01-26	$475,000	1	1	1	6.0	0.0	LJ Hooker Gungahlin	25-54-moore-street-turner-act-2612
 71492	House	2022-11-29	$1,300,000	2023-01-12	Undisclosed	4	2	2		10000.0	Professionals Nowra	21-kalatta-grove-worrigee-nsw-2540
-71493	House	2022-11-29	$700,000 - $740,000	2023-09-29	$730,000	3	1	1		582.0	Ray White Queanbeyan | Jerrabomberra	70-cameron-road-karabar-nsw-2620
+71493	House	2022-11-29	$700,000 - $740,000	2023-09-29	$730,000	3	1	1		582.00	Ray White Queanbeyan | Jerrabomberra	70-cameron-road-karabar-nsw-2620
 71495	Townhouse	2022-11-29	$750,000	2023-05-18	$740,000	3	2	2	4.0		Maloney's Property	6-3-adventure-street-harrison-act-2914
 71504	House	2022-11-29	$410,000	2022-11-29	$410,000	2	1	1		474.2	Ray White Goulburn	84-faithfull-street-goulburn-nsw-2580
 71505	House	2022-11-29	$869,000	2023-03-06	$845,000	4	2	2		618.0	Ray White Batemans Bay	108-carramar-drive-malua-bay-nsw-2536
