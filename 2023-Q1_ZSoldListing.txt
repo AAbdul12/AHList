@@ -600,7 +600,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 74749	House	2023-02-08	Sold at Auction	2023-03-14	$845,000	4	2	2		861.0	The Property Collective	24-kinsella-street-queanbeyan-nsw-2620
 74751	House	2023-02-08	Auction	2023-02-25	$680,000	3	1	1	4.0	316.0	LJ Hooker Belconnen	2-bural-court-ngunnawal-act-2913
 74758	House	2023-02-08	$765,000	2023-03-01	$747,500	3	1	1		701.0	Dwyer Properties Sapphire Coast	76-tura-beach-drive-tura-beach-nsw-2548
-74765	Land	2023-02-08	$499,000	2023-10-17	$499,000	0	0	0		700.00	Merimbula Realty	23-the-peninsula-tura-beach-nsw-2548
+74765	Land	2023-02-08	$499,000	2023-10-17	$499,000	0	0	0		700.0	Merimbula Realty	23-the-peninsula-tura-beach-nsw-2548
 74767	Townhouse	2023-02-08	Auction	2023-02-25	$585,000	2	2	1	6.0		LJ Hooker Belconnen	16-25-burnum-burnum-close-bonner-act-2914
 74768	House	2023-02-08	AUCTION	2023-02-22	$950,000	4	2	1	1.5	1052.0	McIntyre Property	34-carr-crescent-wanniassa-act-2903
 74771	House	2023-02-08	$495,000	2023-05-01	$500,000	2	2	1	6.0		LJ Hooker Belconnen	503-120-eastern-valley-way-belconnen-act-2617
@@ -864,6 +864,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 75573	House	2023-02-21	$650,000 To $670,000	2023-04-04	$660,000	3	2	2		1012.0	Ray White Goulburn	83-queen-street-goulburn-nsw-2580
 75577	House	2023-02-21	Sold at Auction	2023-03-25	$860,000	3	2	1		758.0	The Property Collective	6-ohanlon-road-queanbeyan-nsw-2620
 75579	House	2023-02-21	Auction	2023-03-26	$1,140,000	5	3	2		10.05	Ray White Rural Canberra | Yass	428-yass-river-road-yass-nsw-2582
+75581	Lifestyle	2023-02-21	Just Listed	2023-10-24	$300,000	0	0	0		16.32	Ray White Braidwood	814-back-creek-road-braidwood-nsw-2622
 75585	Apartment	2023-02-21	$380,000+	2023-06-19	Undisclosed	1	1	1	5.0		Luton Tuggeranong	926-335-anketell-street-greenway-act-2900
 75594	House	2023-02-21	NEW PRICE $749,000	2023-05-05	$735,000	4	1	4		1138.0	Ray White Batemans Bay	28-keightley-street-moruya-nsw-2537
 75603	House	2023-02-21	$899,000	2023-03-09	$865,000	4	2	2		1029.0	Sails Real Estate	25-yarrawood-avenue-merimbula-nsw-2548
@@ -1348,6 +1349,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 77149	House	2023-03-20	$750,000 - $825,000	2023-08-10	Undisclosed	5	2	3		967.1	Macarthur Real Estate Agency	1-tubbo-place-bourkelands-nsw-2650
 77151	House	2023-03-20	AUCTION - Guide $550,000	2023-07-27	$587,500	5	1	6		372.0	Ray White Goulburn	5-bradley-street-goulburn-nsw-2580
 77154	House	2023-03-20	$470,000	2023-10-05	$470,000	3	1	6		632.0	Henley Property - Cooma	5-sellar-street-cooma-nsw-2630
+77155	House	2023-03-20	$600,000 to $620,000 Buyer Guide	2023-10-24	$600,000	3	2	2		518.00	Smile Elite	12a-barr-street-windradyne-nsw-2795
 77157	Apartment	2023-03-20	$460,000+	2023-06-08	$465,000	2	2	1	6.0		LJ Hooker Gungahlin	313-1-anthony-rolfe-avenue-gungahlin-act-2912
 77159	Apartment	2023-03-20	Under Offer	2023-05-22	$555,000	2	2	1			Smile Elite	119-121a-jerralong-drive-schofields-nsw-2762
 77161	House	2023-03-20	SOLD PRIOR AUCTION $1,080,000	2023-04-14	$1,080,000	3	2	2		254.0	Smile Elite	44-ward-street-schofields-nsw-2762
@@ -1443,8 +1445,9 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 77461	House	2023-03-24	Auction, Sat 15th Apr at 1:45 pm	2023-04-06	Undisclosed	4	3	2	4.0	555.0	LJ Hooker Gungahlin	67-maclaurin-crescent-chifley-act-2606
 77466	Townhouse	2023-03-24	AUCTION 15/4/2023	2023-04-15	$675,000	3	2	2	6.0	2692.3	Ray White Canberra	6-30-coane-street-holder-act-2611
 77467	Apartment	2023-03-24	$629,950	2023-05-05	$635,000	2	2	2	6.0		Badenoch Real Estate	50-15-bowman-street-macquarie-act-2614
+77468	House	2023-03-24	$864,000	2023-10-23	$840,000	3	2	2		882.00	Marshall and Tacheci Real Estate	3-hart-street-bermagui-nsw-2546
 77476	Apartment	2023-03-24	$350,000+	2023-04-26	$392,000	1	1	1	6.0	2128.0	LJ Hooker Gungahlin	213-48-gungahlin-place-gungahlin-act-2912
-77479	House	2023-03-24	$1,200,000 - $1,250,000	2023-10-23	$1,230,000	5	2	2		698.00	Smile Elite	4-lang-street-oak-flats-nsw-2529
+77479	House	2023-03-24	$1,200,000 - $1,250,000	2023-10-23	$1,215,000	5	2	2		698.00	Smile Elite	4-lang-street-oak-flats-nsw-2529
 77480	House	2023-03-24	$449,000	2023-05-25	Undisclosed	3	1	1		811.4	Raine & Horne Young	48-currawong-street-young-nsw-2594
 77483	Land	2023-03-24	$385,000	2023-03-24	$385,000	0	0	0		553.0	Sails Real Estate	11b-kowara-crescent-merimbula-nsw-2548
 77488	House	2023-03-24	Price By Negotiation	2023-05-11	$680,000	2	1	1		556.0	Raine & Horne Mollymook Milton	36-kurrajong-crescent-conjola-park-nsw-2539
