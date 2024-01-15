@@ -7,7 +7,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 82454	House	2023-07-03	$910,000 - $930,000	2023-08-11	$902,500	4	2	2		1079.0	Smile Elite	83-freeman-circuit-llanarth-nsw-2795
 82457	Apartment	2023-07-03	By Negotiation	2023-07-21	$475,000	2	1	1	6.0		Impact Properties	44-43-hibberson-street-gungahlin-act-2912
 82462	House	2023-07-03	$539,000	2023-07-25	$515,000	3	1	2		689.0	Ray White Goulburn	34-garfield-avenue-goulburn-nsw-2580
-82467	Land	2023-07-03	$389,000	2024-01-09	Undisclosed	0	0	0		3466.00	Beaches & Bush Properties	north-batemans-bay-2536-nsw
+82467	Land	2023-07-03	$389,000	2024-01-09	Undisclosed	0	0	0		3466.0	Beaches & Bush Properties	north-batemans-bay-2536-nsw
 82469	Land	2023-07-03	$449,000	2024-01-09	Undisclosed	0	0	0		8916.0	Beaches & Bush Properties	north-batemans-bay-2536-nsw
 82471	House	2023-07-03	$535,000	2023-08-04	Undisclosed	3	1	2		773.0	Ray White Wagga Wagga	66-balleroo-crescent-glenfield-park-nsw-2650
 82474	House	2023-07-03	$639,000+	2023-08-02	$671,000	3	1	1	0.5	413.0	MARQ Property	108-mainwaring-rich-circuit-palmerston-act-2913
@@ -406,7 +406,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 83782	Townhouse	2023-07-27	$580,000+	2023-10-06	$590,000	2	2	2	5.5		Impact Properties	25-89-gungahlin-place-gungahlin-act-2912
 83786	Retirement	2023-07-27	$349,000	2023-10-10	Undisclosed	2	1	1			LJ Hooker Sussex Inlet	96-157-the-springs-road-sussex-inlet-nsw-2540
 83791	House	2023-07-27	$959,000	2023-09-20	Undisclosed	4	2	4		3035.0	McCann Properties	2-wombat-street-gunning-nsw-2581
-83792	House	2023-07-27	$649,000	2024-01-11	$620,000	3	3	2		816.00	LJ Hooker Batemans Bay	29-country-club-drive-catalina-nsw-2536
+83792	House	2023-07-27	$649,000	2024-01-11	$620,000	3	3	2		816.0	LJ Hooker Batemans Bay	29-country-club-drive-catalina-nsw-2536
 83793	Land	2023-07-27	$650,000	2023-10-16	Undisclosed	0	0	0		5.0	Ray White Goulburn	52-greendale-crescent-run-o-waters-nsw-2580
 83797	House	2023-07-27	Guide $590,000	2023-11-13	$555,000	3	1	2		727.0	Ray White Goulburn	155-kinghorne-street-goulburn-nsw-2580
 83799	House	2023-07-27	Price by Negotiation	2023-12-08	Undisclosed	4	2	2		687.0	Raine & Horne Mollymook Milton	10-amaroo-drive-narrawallee-nsw-2539
@@ -1206,6 +1206,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 86370	Apartment	2023-09-14	$765,000	2023-10-06	$765,000	2	2	2	6.0		home.by holly	27-2-archibald-street-lyneham-act-2602
 86373	Unit	2023-09-14	$425,000	2023-09-29	$422,000	2	1	2			Blackshaw Real Estate Coastal	7-724-726-beach-road-surf-beach-nsw-2536
 86375	House	2023-09-14	$775,000 - $795,000	2023-10-06	$770,000	3	2	2		559.0	Blackshaw Real Estate Coastal	4a-peninsula-drive-north-batemans-bay-nsw-2536
+86380	Villa	2023-09-14	$520,000	2024-01-10	$520,000	2	1	1			Blackshaw Real Estate Coastal	14-61-69-sunpatch-parade-tomakin-nsw-2537
 86382	DuplexSemi-detached	2023-09-14	Contact Agent	2023-10-13	Undisclosed	3	2	3		322.0	Blackshaw Real Estate Coastal	2b-forest-parade-tomakin-nsw-2537
 86384	House	2023-09-14	$795,000 to $835,000	2023-10-05	$825,000	4	3	2		708.0	Blackshaw Real Estate Coastal	6-miller-street-batemans-bay-nsw-2536
 86385	House	2023-09-14	$680,000	2023-09-14	$680,000	3	1	2		713.0	Blackshaw Real Estate Coastal	27-melaleuca-crescent-catalina-nsw-2536
@@ -1394,7 +1395,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 87066	Lifestyle	2023-09-22	Contact Agent	2023-10-12	Undisclosed	4	3	6		41.26	McGoldrick Estate Agents	tomerong-2540-nsw
 87067	House	2023-09-22	$849,000+	2023-11-08	$865,000	4	2	2	1.5	849.0	Ray White Canberra	6-turriff-street-chisholm-act-2905
 87068	House	2023-09-22	$630,000 - $660,000	2023-12-13	$637,000	4	2	2		621.7	Macarthur Real Estate Agency	16-bindari-avenue-glenfield-park-nsw-2650
-87072	Apartment	2023-09-22	$650,000	2024-01-12	Undisclosed	2	2	1	6.00		Luton Manuka	903-2-marcus-clarke-street-city-act-2601
+87072	Apartment	2023-09-22	$650,000	2024-01-12	Undisclosed	2	2	1	6.0		Luton Manuka	903-2-marcus-clarke-street-city-act-2601
 87077	Apartment	2023-09-22	$745,000	2023-10-11	Undisclosed	2	2	2			Henley Property - Jindabyne	111-10-kosciuszko-road-jindabyne-nsw-2627
 87090	Apartment	2023-09-22	$820,000	2023-11-03	$820,000	2	2	2	6.0		Luton Manuka	107-59-constitution-avenue-campbell-act-2612
 87093	DuplexSemi-detached	2023-09-22	$690,000 - $730,000	2023-10-27	Undisclosed	3	2	2			Belle Property Batemans Bay	19a-johnson-place-surf-beach-nsw-2536
