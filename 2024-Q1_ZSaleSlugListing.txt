@@ -14,7 +14,7 @@ ListingId	DateTime	URL
 93274	2024-01-09T10:16:31.572495+11:00	8-beard-street-karabar-nsw-2620
 93275	2024-01-09T10:36:41.393521+11:00	4-santa-gertrudis-place-murrumbateman-nsw-2582
 93320	2024-01-10T10:06:19.919347+11:00	4-stillwell-place-mawson-act-2607
-93321	2024-01-10T10:31:42.654987+11:00	31-ashkanasy-crescent-evatt-act-2617
+93321	2024-01-10T10:23:14.524402+11:00	31-ashkanasy-crescent-evatt-act-2617
 93325	2024-01-10T10:50:27.763204+11:00	8-les-edwards-street-forde-act-2914
 93328	2024-01-10T11:23:05.386350+11:00	5-solus-place-palmerston-act-2913
 93334	2024-01-10T12:01:43.540212+11:00	29-11-trevillian-quay-kingston-act-2604
@@ -27,7 +27,7 @@ ListingId	DateTime	URL
 93379	2024-01-10T16:08:03.190899+11:00	83-100-henry-kendall-street-franklin-act-2913
 93398	2024-01-11T08:26:15.931293+11:00	606-2-marcus-clarke-street-city-act-2601
 93399	2024-01-11T08:24:09.555466+11:00	513-6-grazier-lane-belconnen-act-2617
-93402	2024-01-11T08:46:33.058442+11:00	1-trumper-street-holt-act-2615
+93402	2024-01-11T08:42:17.818233+11:00	1-trumper-street-holt-act-2615
 93403	2024-01-11T08:38:13.014887+11:00	1-58-wentworth-avenue-kingston-act-2604
 93404	2024-01-11T09:01:32.516642+11:00	10-78-hodgson-crescent-pearce-act-2607
 93405	2024-01-11T08:57:15.837176+11:00	5-18-thurlow-place-belconnen-act-2617
@@ -38,9 +38,9 @@ ListingId	DateTime	URL
 93417	2024-01-11T09:23:31.381108+11:00	22-5-skuta-place-denman-prospect-act-2611
 93418	2024-01-11T09:32:20.299426+11:00	39-summerland-circuit-kambah-act-2902
 93420	2024-01-11T09:34:18.889180+11:00	3-24-de-burgh-street-lyneham-act-2602
-93421	2024-01-11T09:47:05.501486+11:00	8-henry-street-cook-act-2614
+93421	2024-01-11T09:42:15.445532+11:00	8-henry-street-cook-act-2614
 93422	2024-01-11T09:46:14.175214+11:00	1-tilden-place-cook-act-2614
-93424	2024-01-11T10:01:53.779913+11:00	6-wallace-place-melba-act-2615
+93424	2024-01-11T09:51:13.191791+11:00	6-wallace-place-melba-act-2615
 93425	2024-01-11T10:16:37.011053+11:00	4-10-helpmann-street-bonython-act-2905
 93426	2024-01-11T10:11:50.819570+11:00	24-9-mcclintock-street-lyneham-act-2602
 93428	2024-01-11T10:10:12.109780+11:00	150-8-limburg-way-greenway-act-2900
@@ -49,7 +49,7 @@ ListingId	DateTime	URL
 93431	2024-01-11T10:29:35.766655+11:00	13-44-tishler-street-wright-act-2611
 93434	2024-01-11T10:31:08.075374+11:00	58-57-benjamin-way-belconnen-act-2617
 93435	2024-01-11T10:46:18.827115+11:00	h2-2-currie-crescent-griffith-act-2603
-93438	2024-01-11T11:16:33.192358+11:00	202-2-batman-street-braddon-act-2612
+93438	2024-01-11T11:02:39.880397+11:00	202-2-batman-street-braddon-act-2612
 93441	2024-01-11T11:07:12.015816+11:00	6-alanvale-street-harrison-act-2914
 93442	2024-01-11T11:23:57.870042+11:00	21-stockman-avenue-lawson-act-2617
 93443	2024-01-11T11:46:35.634704+11:00	30-15-stockman-avenue-lawson-act-2617
@@ -86,8 +86,8 @@ ListingId	DateTime	URL
 93527	2024-01-12T09:31:54.838144+11:00	231-92-northbourne-avenue-braddon-act-2612
 93528	2024-01-12T09:25:14.836769+11:00	21-41-halford-crescent-page-act-2614
 93529	2024-01-12T09:32:09.167210+11:00	5-phillipa-weeks-street-watson-act-2602
-93530	2024-01-12T09:32:10.911970+11:00	48-redfern-street-cook-act-2614
-93531	2024-01-12T09:32:13.022401+11:00	22-1-yidaki-way-moncrieff-act-2914
+93530	2024-01-12T09:25:15.834024+11:00	48-redfern-street-cook-act-2614
+93531	2024-01-12T09:28:17.979913+11:00	22-1-yidaki-way-moncrieff-act-2914
 93532	2024-01-12T09:32:25.122594+11:00	5-1-pipeclay-street-lawson-act-2617
 93537	2024-01-12T09:59:12.913227+11:00	54-atherton-street-downer-act-2602
 93538	2024-01-12T09:58:52.039636+11:00	21-pollock-street-chifley-act-2606
@@ -96,9 +96,12 @@ ListingId	DateTime	URL
 93546	2024-01-12T10:32:12.738063+11:00	9-128-easty-street-phillip-act-2606
 93548	2024-01-12T10:55:31.969769+11:00	221-41-chandler-street-belconnen-act-2617
 93559	2024-01-12T12:41:09.383725+11:00	1111-4-grazier-lane-belconnen-act-2617
-93563	2024-01-12T13:46:32.294644+11:00	1-233-flemington-road-franklin-act-2913
+93563	2024-01-12T13:32:57.582049+11:00	1-233-flemington-road-franklin-act-2913
 93576	2024-01-12T15:47:13.714866+11:00	59-bluestone-gardens-jerrabomberra-nsw-2619
 93578	2024-01-12T16:15:32.440613+11:00	48-2-rouseabout-street-lawson-act-2617
 93579	2024-01-12T16:18:56.705420+11:00	50-burrumarra-avenue-ngunnawal-act-2913
 93583	2024-01-12T16:46:32.730331+11:00	96-260-city-walk-city-act-2601
 93589	2024-01-12T17:06:39.539583+11:00	4-13-15-mowatt-street-queanbeyan-nsw-2620
+93610	2024-01-15T10:00:19.951154+11:00	lot-82-nerriga-road-tomboye-braidwood-nsw-2622
+93613	2024-01-15T10:55:46.071087+11:00	42-40-philip-hodgins-street-wright-act-2611
+93617	2024-01-15T12:33:11.658247+11:00	7-nomchong-street-braidwood-nsw-2622
