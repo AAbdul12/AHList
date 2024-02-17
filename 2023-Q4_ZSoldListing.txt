@@ -464,7 +464,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 89529	House	2023-11-01	$1,035,000+	2023-12-15	Undisclosed	4	2	2	1.0	1116.0	Bastion Property Group	17-purbrick-street-chisholm-act-2905
 89542	Unit	2023-11-01	$279,000	2023-11-01	$279,000	2	1	1			LJ Hooker Queanbeyan – Jerrabomberra – Googong	30-5-crest-road-crestwood-nsw-2620
 89546	House	2023-11-01	AUCTION Saturday 2nd December at 12pm onsite	2023-12-01	$550,000	2	1	0		575.0	LJ Hooker Batemans Bay	49-bavarde-avenue-batemans-bay-nsw-2536
-89548	House	2023-11-01	$1,100,000+	2024-02-15	$1,150,000	5	2	2	2.50	754.0	McIntyre Property	22-kneebone-street-bonython-act-2905
+89548	House	2023-11-01	$1,100,000+	2024-02-15	$1,150,000	5	2	2	2.5	754.0	McIntyre Property	22-kneebone-street-bonython-act-2905
 89570	House	2023-11-01	$910,000	2024-01-22	Undisclosed	4	2	2	6.0	317.0	Luton Tuggeranong	6-holford-street-taylor-act-2913
 89577	House	2023-11-01	$510,000	2024-01-17	$520,000	3	1	1		518.5	Macarthur Real Estate Agency	31-blamey-street-turvey-park-nsw-2650
 89578	Townhouse	2023-11-01	$480,000	2023-12-11	$480,000	2	1	1	6.0		LJ Hooker Belconnen	35-14-grace-munro-crescent-strathnairn-act-2615
@@ -694,7 +694,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 90700	House	2023-11-16	$775,000	2024-02-13	$750,000	4	1	1		855.0	LJ Hooker Batemans Bay	3-sandpiper-place-catalina-nsw-2536
 90707	Townhouse	2023-11-16	Auction	2023-12-02	$740,000	3	2	2	3.5	318.0	LJ Hooker Belconnen	3-48-siroset-close-dunlop-act-2615
 90711	DuplexSemi-detached	2023-11-16	$780,000	2024-02-06	$765,000	4	2	2		700.2	Fitzpatricks	45-47-gasnier-loop-boorooma-nsw-2650
-90713	House	2023-11-16	$765,000	2024-02-12	$760,000	3	2	2	1.0	422.0	LJ Hooker Gungahlin	35-ferguson-circuit-ngunnawal-act-2913
+90713	House	2023-11-16	$765,000	2024-02-12	$760,000	3	2	2	1.00	422.0	LJ Hooker Gungahlin	35-ferguson-circuit-ngunnawal-act-2913
 90716	Lifestyle	2023-11-16	$1,050,000	2023-12-09	$1,050,000	4	2	3		17.0	LJ Hooker Queanbeyan – Jerrabomberra – Googong	71-bowen-street-carwoola-nsw-2620
 90723	House	2023-11-16	Auction	2023-12-02	$793,000	3	1	2	2.5	835.0	LJ Hooker Belconnen	11-sloane-place-florey-act-2615
 90724	House	2023-11-16	$945,000	2024-01-23	Undisclosed	4	2	2	3.5	729.0	Luton Tuggeranong	5-tuross-close-amaroo-act-2914
@@ -824,7 +824,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 91626	Apartment	2023-11-30	$520,000	2024-01-12	$520,000	1	1	1	5.5		home.by holly	8-54-macleay-street-turner-act-2612
 91642	House	2023-11-30	$630,000	2023-12-15	$630,000	3	2	2		461.6	PRD Wagga Wagga	1-48-ross-parkway-gobbagombalin-nsw-2650
 91647	House	2023-11-30	$599,900	2024-01-23	$593,000	3	1	4		747.0	John Mooney Real Estate	76-yentoo-drive-glenfield-park-nsw-2650
-91654	Townhouse	2023-11-30	Contact Agent	2024-02-16	Undisclosed	2	1	1	5.00	204.0	home.by holly	63-maclachlan-street-holder-act-2611
+91654	Townhouse	2023-11-30	Contact Agent	2024-02-16	Undisclosed	2	1	1	5.0	204.0	home.by holly	63-maclachlan-street-holder-act-2611
 91679	Townhouse	2023-11-30	$568,000+	2023-12-20	Undisclosed	2	1	1	2.0		MARQ Property	13-25-totterdell-street-belconnen-act-2617
 91684	House	2023-11-30	$530,000	2024-02-06	Undisclosed	3	1	2		569.1	Ray White Wagga Wagga	45-urana-street-turvey-park-nsw-2650
 91692	House	2023-11-30	$349,000	2024-02-05	$349,000	3	2	2		1518.0	Kitson Property	33-ford-street-ganmain-nsw-2702
@@ -899,6 +899,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 92271	House	2023-12-12	Auction	2024-01-31	$828,000	3	2	2	1.5	659.0	LJ Hooker Kaleen	35-harry-hopman-circuit-gordon-act-2906
 92286	House	2023-12-12	$555,000	2023-12-16	$550,000	2	1	2		556.0	Whale Coast Realty	28-dorothy-drive-narooma-nsw-2546
 92292	Apartment	2023-12-12	$399,000+	2024-01-29	$410,000	1	1	1	6.0		Luton Belconnen	38-4-thadoona-street-crace-act-2911
+92299	Apartment	2023-12-12	$525,000+	2024-02-16	$536,000	2	2	1	6.00		Impact Properties	9-70-nullarbor-avenue-harrison-act-2914
 92310	Apartment	2023-12-13	Sold	2024-01-15	Undisclosed	3	2	2	6.0		MARQ Property	134-2-windjana-street-harrison-act-2914
 92336	House	2023-12-13	$995,000 to $1,094,500	2023-12-19	$1,050,000	5	2	1		2015.0	Ray White Bowral	51-parkes-road-moss-vale-nsw-2577
 92347	House	2023-12-13	By Negotiation	2024-01-19	$685,000	3	2	2	2.5	419.0	Impact Properties	28-mundang-crescent-ngunnawal-act-2913
@@ -934,10 +935,10 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 92559	AcreageSemi-rural	2023-12-18	Auction - On-site Saturday 27th January at 11am	2024-01-27	Undisclosed	3	1	0		2.04	Harcourts Greater Port Macquarie & The Rocks	25-billabong-drive-sancrox-nsw-2446
 92570	House	2023-12-18	$889,000	2024-01-25	$874,500	3	2	1		689.0	PRD Wagga Wagga	15-lindsay-street-turvey-park-nsw-2650
 92589	House	2023-12-19	$630,000	2024-02-14	$625,000	3	2	2		420.6	Macarthur Real Estate Agency	8-morris-crescent-gobbagombalin-nsw-2650
-92603	Unit	2023-12-19	$445,000+	2024-02-14	$450,000	2	1	2	6.0		Luton Gungahlin	30-16-david-miller-crescent-casey-act-2913
+92603	Unit	2023-12-19	$445,000+	2024-02-14	$450,000	2	1	2	6.00		Luton Gungahlin	30-16-david-miller-crescent-casey-act-2913
 92605	Land	2023-12-19	$315,000	2024-01-29	$310,000	0	0	0		1137.0	PRD Wagga Wagga	4-stretton-way-lloyd-nsw-2650
 92619	Unit	2023-12-19	$580,000	2024-01-23	$580,000	3	2	1		162.0	Belle Property Batemans Bay	9-3-drinnan-close-surf-beach-nsw-2536
-92624	Townhouse	2023-12-19	$579,000+	2024-02-16	Undisclosed	2	2	1	6.00		MARQ Property	6-1-bateman-street-kambah-act-2902
+92624	Townhouse	2023-12-19	$579,000+	2024-02-16	Undisclosed	2	2	1	6.0		MARQ Property	6-1-bateman-street-kambah-act-2902
 92628	House	2023-12-19	Sold for a Premium Price by Irving	2024-01-29	$1,290,000	3	2	2		372.0	Smile Elite	23-mazari-grove-stanhope-gardens-nsw-2768
 92632	Unit	2023-12-19	$700,000	2023-12-19	$700,000	3	2	2	6.0		LJ Hooker Queanbeyan – Jerrabomberra – Googong	17-15-cynthea-teague-crescent-greenway-act-2900
 92660	House	2023-12-20	Auction	2024-01-18	Undisclosed	3	1	4	2.0	815.0	Luton Weston Creek & Molonglo Valley	50-must-circuit-calwell-act-2905
