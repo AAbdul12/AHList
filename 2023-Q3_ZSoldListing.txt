@@ -829,6 +829,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85038	House	2023-08-21	Guide $925,000	2023-11-03	Undisclosed	4	2	1		987.0	Ray White Bowral	27-arthur-street-mittagong-nsw-2575
 85042	House	2023-08-21	$1,450,000	2023-09-01	$1,435,000	4	3	2		894.0	Dwyer Properties Sapphire Coast	1-currawong-close-mirador-nsw-2548
 85046	House	2023-08-21	$1,580,000	2023-09-23	$1,580,000	4	2	3	5.0	610.0	MARQ Property	11-buscombe-street-forde-act-2914
+85047	Apartment	2023-08-22	$680,000	2024-02-20	$660,000	2	2	1	5.50		Maloney's Property	100-61-giles-street-kingston-act-2604
 85053	House	2023-08-22	$269,000	2023-09-08	Undisclosed	2	1	1		607.03	Ray White Wagga Wagga	24-phillip-avenue-mount-austin-nsw-2650
 85056	Lifestyle	2023-08-22	$320,000	2023-12-11	Undisclosed	0	0	0		43.0	Ray White Braidwood	lot-22-neringla-road-braidwood-nsw-2622
 85058	House	2023-08-22	$755,000	2023-10-03	$762,000	3	1	2		769.0	Ray White Queanbeyan | Jerrabomberra	48-barracks-flat-drive-karabar-nsw-2620
@@ -1024,6 +1025,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85590	House	2023-08-31	Auction 23/09/2023	2023-09-23	$1,085,000	4	2	2	4.5	732.0	Ray White Canberra	32-burnett-street-kaleen-act-2617
 85596	Apartment	2023-08-31	$339,000+	2023-12-15	$347,000	1	1	1	6.0		Ray White Canberra	278-325-anketell-street-greenway-act-2900
 85599	House	2023-08-31	$1,299,000 +	2023-10-10	$1,320,000	4	2	0	1.0	790.0	LJ Hooker Woden/Weston	16-sabine-close-garran-act-2605
+85601	Apartment	2023-08-31	$455,000	2024-02-22	$435,000	1	1	1	6.00		LJ Hooker Woden/Weston	9-2-mcmichael-terrace-denman-prospect-act-2611
 85605	House	2023-08-31	$1,200,000+	2023-10-27	$1,200,000	4	2	4	5.0	602.0	LJ Hooker Gungahlin	39-henry-williams-street-bonner-act-2914
 85606	House	2023-08-31	$625,000+	2023-09-11	$670,000	3	1	2	1.0	532.0	Ray White Canberra	5-best-place-charnwood-act-2615
 85609	Townhouse	2023-08-31	$700,000 +	2024-02-13	Undisclosed	3	1	1	0.5	213.0	LJ Hooker Kippax	1-connelly-place-belconnen-act-2617
@@ -1107,7 +1109,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 85873	House	2023-09-05	$420,000	2023-10-26	Undisclosed	4	1	4		1518.0	Flemings Property Services	41-scott-street-harden-nsw-2587
 85874	House	2023-09-05	Auction, Sat 7th Oct at 12:30 pm	2023-10-07	$1,435,000	5	3	2	4.5	530.0	LJ Hooker Gungahlin	21-rachel-makinson-street-strathnairn-act-2615
 85875	House	2023-09-05	$900,000	2024-02-20	$900,000	4	2	2		481.0	LJ Hooker Queanbeyan – Jerrabomberra – Googong	4-carver-street-googong-nsw-2620
-85877	Apartment	2023-09-05	$529,000+	2024-02-21	$550,000	2	2	2	6.00		LJ Hooker Gungahlin	1305-6-gribble-street-gungahlin-act-2912
+85877	Apartment	2023-09-05	$529,000+	2024-02-21	$550,000	2	2	2	6.0		LJ Hooker Gungahlin	1305-6-gribble-street-gungahlin-act-2912
 85881	DuplexSemi-detached	2023-09-05	$750,000	2023-10-20	$690,000	4	2	2			Merimbula Realty	2-46-collins-street-merimbula-nsw-2548
 85883	House	2023-09-05	$1,290,000 - $1,360,000	2023-10-16	$1,275,000	4	2	2		7.0	Ray White Bungendore	lot-1-119-creekborough-road-bywong-nsw-2621
 85884	House	2023-09-05	New Price $620,000-$650,000	2023-10-24	$610,000	4	2	2		752.0	Smile Elite	59-page-street-parkes-nsw-2870
@@ -1363,7 +1365,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 86634	House	2023-09-19	$935,000	2023-10-25	$930,000	4	2	2	5.0	392.0	Canberry Properties	38-jorgensen-street-moncrieff-act-2914
 86635	House	2023-09-19	$965,000	2023-11-01	$940,000	3	2	2	6.0	325.0	Canberry Properties	9-bromham-street-forde-act-2914
 86636	House	2023-09-19	Offers Above $749,000	2023-11-30	$750,000	3	1	1	6.0		Canberry Properties	24-fairydale-street-harrison-act-2914
-86637	House	2023-09-19	Offers Over $765,000	2024-02-15	$770,000	3	1	2	2.00	968.0	Canberry Properties	74-longmore-crescent-wanniassa-act-2903
+86637	House	2023-09-19	Offers Over $765,000	2024-02-15	$770,000	3	1	2	2.0	968.0	Canberry Properties	74-longmore-crescent-wanniassa-act-2903
 86638	House	2023-09-19	Auction	2023-10-07	Undisclosed	4	2	2	4.0		Canberry Properties	29-abena-avenue-crace-act-2911
 86639	House	2023-09-19	$870,000	2023-10-27	$870,000	4	2	2	5.0	250.0	Canberry Properties	19-cricket-street-throsby-act-2914
 86646	Apartment	2023-09-19	$555,000	2024-02-16	$525,000	2	2	1	6.0		Canberry Properties	605-90-swain-street-gungahlin-act-2912
