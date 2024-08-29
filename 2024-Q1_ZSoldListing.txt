@@ -20,6 +20,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 93095	House	2024-01-03	Auction (unless sold prior)	2024-02-14	Undisclosed	3	1	3		651.3	Ray White Goulburn	49-belmore-street-goulburn-nsw-2580
 93104	House	2024-01-04	$1,100,000	2024-03-20	$1,000,000	4	3	5		1012.0	PRD Wagga Wagga	26-oconnor-street-uranquinty-nsw-2652
 93107	Apartment	2024-01-04	$500,000+	2024-01-19	$520,000	2	1	1	4.0		McIntyre Property	1-nimbera-street-harrison-act-2914
+93119	House	2024-01-04	$315,000	2024-08-29	$315,000	2	1	1			LJ Hooker Batemans Bay	site-72-49-old-princes-highway-batemans-bay-nsw-2536
 93122	House	2024-01-04	$489,000	2024-03-08	$490,000	3	2	1		695.0	Macarthur Real Estate Agency	30-macarthur-street-ashmont-nsw-2650
 93124	House	2024-01-04	$949,000 +	2024-02-09	$953,000	4	2	2	4.5	840.0	LJ Hooker Canberra City	40-freda-bennett-circuit-nicholls-act-2913
 93157	House	2024-01-05	$649,000	2024-04-23	$635,000	2	1	0		626.0	LJ Hooker Tuross Head	4-gould-street-tuross-head-nsw-2537
@@ -1247,6 +1248,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 97321	House	2024-03-12	$435,000	2024-04-24	$412,000	3	1	2		639.0	Henley Property - Cooma	25-wooran-street-cooma-nsw-2630
 97322	House	2024-03-12	$1,800,000	2024-04-16	$1,700,000	5	3	5		6.55	LJ Hooker Moruya	wywurk-34a-brown-close-moruya-heads-nsw-2537
 97335	Townhouse	2024-03-12	AUCTION	2024-04-02	$716,000	3	2	2	6.0		McIntyre Property	33-1-bon-scott-crescent-moncrieff-act-2914
+97338	House	2024-03-12	Contact Agent	2024-08-28	Undisclosed	3	1	2		670.0	MUM Real Estate	3-hilltop-crescent-mollymook-beach-nsw-2539
 97341	House	2024-03-12	Auction 10/04/24	2024-04-10	$950,000	4	2	2	0.0	836.0	Ward Estate Agents	11-hawker-street-torrens-act-2607
 97342	Retirement	2024-03-12	Price Guide $390,000 - $420,000	2024-07-30	Undisclosed	2	1	2			dwell Realty	105-262-princes-highway-bomaderry-nsw-2541
 97347	House	2024-03-12	$320,000 - $335,000	2024-05-29	Undisclosed	3	1	1		1473.0	Flemings Property Services	45-koorawatha-road-koorawatha-nsw-2807
@@ -1381,6 +1383,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 97874	House	2024-03-19	$770,000+	2024-04-29	Undisclosed	3	1	2	1.5	433.0	My Morris	8-morrison-street-kambah-act-2902
 97875	House	2024-03-19	Auction	2024-04-13	Undisclosed	5	3	2	3.0	911.0	Luton Manuka	2-falkiner-place-macarthur-act-2904
 97878	Unit	2024-03-19	$295,000 - $315,000	2024-04-24	Undisclosed	1	1	1		2900.0	Raine & Horne Queanbeyan | Jerrabomberra	31-20-trinculo-place-queanbeyan-east-nsw-2620
+97881	House	2024-03-19	$879,000	2024-08-27	$866,000	4	2	3		700.6	Kitson Property	5-mugga-street-gobbagombalin-nsw-2650
 97886	Townhouse	2024-03-19	$1,135,000+	2024-05-21	Undisclosed	4	2	2	4.5		MARQ Property	19-35-edie-payne-close-nicholls-act-2913
 97888	House	2024-03-19	$1,150,000	2024-04-24	Undisclosed	3	2	2		518.0	PRD Wagga Wagga	64-trail-street-wagga-wagga-nsw-2650
 97889	Apartment	2024-03-19	SOLD OFF MARKET	2024-03-18	$345,000	1	1	0	0.0		Cream Residential	60-27-coxen-street-hughes-act-2605
@@ -1487,7 +1490,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 98231	Unit	2024-03-25	$365,000 - $375,000	2024-04-24	$367,500	2	1	1			Ray White Queanbeyan | Jerrabomberra	1-5-young-street-queanbeyan-nsw-2620
 98232	AcreageSemi-rural	2024-03-25	$990,000	2024-05-27	Undisclosed	3	2	7		10.62	Harcourts Greater Port Macquarie & The Rocks	75-crottys-lane-yarravel-nsw-2440
 98240	Townhouse	2024-03-25	Auction 24/04/2024	2024-04-24	$695,000	3	2	2	4.5	399.0	Ray White Canberra	5-11-hansel-place-gordon-act-2906
-98256	Apartment	2024-03-25	$170,000 (Investor or student purchase only)	2024-08-26	$170,000	1	1	0	6.0		Ray White Canberra	11-101-hennessy-street-belconnen-act-2617
+98256	Apartment	2024-03-25	$170,000 (Investor or student purchase only)	2024-08-26	$170,000	1	1	0	6.00		Ray White Canberra	11-101-hennessy-street-belconnen-act-2617
 98259	House	2024-03-25	$549,000 - $569,000	2024-05-09	$555,000	3	1	2		848.0	PRD Wagga Wagga	31-melkin-avenue-glenfield-park-nsw-2650
 98261	House	2024-03-25	$660,000	2024-05-07	Undisclosed	5	3	0		770.0	Professionals Nowra	25-glenair-avenue-west-nowra-nsw-2541
 98262	House	2024-03-25	Auction	2024-04-19	$3,200,000	4	3	2		556.0	Smile Elite	53-johnson-street-kiama-downs-nsw-2533
