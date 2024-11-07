@@ -254,7 +254,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 99523	DuplexSemi-detached	2024-04-17	$600,000+	2024-08-06	$610,750	3	1	2	4.0	339.0	McCann Properties	1-32-smeaton-circuit-banks-act-2906
 99524	House	2024-04-17	$1,495,000 - $1,595,000	2024-05-30	$1,585,000	6	3	1		626.0	McGrath Batemans Bay & Moruya	21-train-street-broulee-nsw-2537
 99535	House	2024-04-17	$420,000 - $450,000	2024-05-17	$455,000	2	1	1		450.0	Fitzpatricks	40-mirrul-street-glenfield-park-nsw-2650
-99544	Apartment	2024-04-17	$415,000	2024-11-01	$415,000	2	2	2	6.0		home.by holly	8620-federal-highway-watson-act-2602
+99544	Apartment	2024-04-17	$415,000	2024-11-01	$415,000	2	2	2	6.00		home.by holly	8620-federal-highway-watson-act-2602
 99555	Apartment	2024-04-17	$370,000+	2024-05-28	$380,000	1	1	1	6.0		LJ Hooker Tuggeranong	630-335-anketell-street-greenway-act-2900
 99556	Apartment	2024-04-17	$390,000+	2024-05-31	Undisclosed	1	1	1	6.0		LJ Hooker Canberra City	23-132-thynne-street-bruce-act-2617
 99564	House	2024-04-17	By Negotiation	2024-05-15	Undisclosed	4	2	2	1.5	1066.0	Luton Weston Creek & Molonglo Valley	7-lochee-place-stirling-act-2611
@@ -455,6 +455,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 100416	House	2024-05-03	$990,000 - $1,050,000	2024-05-23	Undisclosed	3	2	2		888.0	My Agent Team	1-bowerbird-place-malua-bay-nsw-2536
 100420	House	2024-05-03	$1,000,000	2024-06-04	$1,000,000	4	2	2	5.5		MARQ Property	13-ningaloo-street-harrison-act-2914
 100422	Unit	2024-05-03	$365,000-$390,000	2024-06-06	$360,000	2	1	2			Ray White Queanbeyan | Jerrabomberra	22-70-uriarra-road-queanbeyan-nsw-2620
+100423	House	2024-05-03	$820,000	2024-11-07	Undisclosed	3	2	2			Harcourts Greater Port Macquarie & The Rocks	5-augusta-crescent-south-west-rocks-nsw-2431
 100427	House	2024-05-03	contact agent	2024-05-23	Undisclosed	4	2	2	3.0	706.0	home.by holly	16-burnside-street-watson-act-2602
 100431	House	2024-05-03	$1,190,000	2024-08-26	$1,190,000	4	2	2	4.0	457.0	Stone Gungahlin	36-mary-kitson-street-watson-act-2602
 100437	House	2024-05-03	$1,360,000	2024-05-30	$1,360,000	3	1	2	6.0		home.by holly	76-irvine-street-watson-act-2602
@@ -994,13 +995,16 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 103421	House	2024-06-26	$899,000	2024-08-07	$925,000	4	2	2	4.0	540.0	LJ Hooker Belconnen	5-splayd-close-dunlop-act-2615
 103440	House	2024-06-26	$680,000+	2024-07-15	$710,000	3	2	1	3.5	540.0	McIntyre Property	23-hammill-close-calwell-act-2905
 103441	House	2024-06-26	Auction - Price Guide $830,000	2024-07-20	Undisclosed	3	2	1	6.0	293.0	Luton Gungahlin	65-francis-forde-boulevard-forde-act-2914
+103444	Land	2024-06-26	$110,000	2024-11-07	Undisclosed	0	0	2		1021.0	Ray White Rural Tumbarumba	tumbarumba-2653-nsw-103444
 103446	Townhouse	2024-06-26	$685,000	2024-08-07	$680,000	3	1	1	2.5	294.0	Ray White Canberra	124-murranji-street-hawker-act-2614
 103447	Apartment	2024-06-26	$344,500+	2024-08-19	Undisclosed	1	1	1	6.0		Impact Properties	307-34-oakden-street-greenway-act-2900
 103449	House	2024-06-26	$689,000	2024-09-12	$669,000	3	1	1		652.0	LJ Hooker Batemans Bay	6-crane-court-catalina-nsw-2536
+103451	Lifestyle	2024-06-26	$649,000	2024-11-05	$620,000	4	1	4		42.39	Ray White Goulburn	206-mclaughlin-road-goulburn-nsw-2580-103451
 103455	House	2024-06-26	Auction	2024-07-18	Undisclosed	7	3	2	3.5	954.0	Luton Manuka	7-towner-place-gowrie-act-2904
 103457	Townhouse	2024-06-26	$620,000 to $650,000	2024-09-17	$635,000	2	2	2	6.0		Impact Properties	12-3-trist-street-franklin-act-2913
 103460	AcreageSemi-rural	2024-06-26	$1,050,000	2024-08-16	$1,035,000	4	2	4		16.0	Ray White Bungendore	475-mulloon-road-mulloon-nsw-2622
 103468	Apartment	2024-06-26	$515,000 +	2024-08-12	$522,500	1	1	1	6.0	13879.0	Ray White Canberra	68-9-irving-street-phillip-act-2606
+103469	Land	2024-06-26	$110,000	2024-11-07	Undisclosed	0	0	2		1021.0	Ray White Rural Tumbarumba	tumbarumba-2653-nsw-103469
 103470	House	2024-06-26	Auction	2024-07-15	Undisclosed	3	2	1	5.5	330.0	Luton Gungahlin	98-rob-riley-circuit-bonner-act-2914
 103471	House	2024-06-26	Auction	2024-07-20	Undisclosed	6	3	2	1.0		Luton Gungahlin	5-pettifer-place-fraser-act-2615
 103474	House	2024-06-26	$815,000	2024-09-26	Undisclosed	3	2	2	5.5	414.0	Luton Gungahlin	3-4-dines-place-bruce-act-2617
