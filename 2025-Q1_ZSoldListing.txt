@@ -278,7 +278,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 115768	House	2025-01-23	Auction	2025-02-13	Undisclosed	3	1	1	0.5	841.0	Luton Dickson	6-munro-street-curtin-act-2605
 115774	House	2025-01-23	$680,000 - $720,000	2025-03-19	$695,000	3	2	2		652.4	Fitzpatricks	14-goonawarra-street-gobbagombalin-nsw-2650
 115775	Unit	2025-01-23	$340,000	2025-03-17	$335,000	2	1	1			Professionals Nowra	6-morton-parade-nowra-nsw-2541
-115776	Land	2025-01-23	$850,000 - $895,000	2025-05-20	$890,000	0	0	0	0.0	11500.0	McIntyre Property	3-elrington-close-murrumbateman-nsw-2582
+115776	Land	2025-01-23	$850,000 - $895,000	2025-05-20	$890,000	0	0	0	0.00	11500.0	McIntyre Property	3-elrington-close-murrumbateman-nsw-2582
 115777	Villa	2025-01-23	$725,000	2025-02-07	Undisclosed	2	1	2			Raine & Horne Southern Highlands	102-4-carrington-street-bowral-nsw-2576
 115779	House	2025-01-23	$1,600,000	2025-02-04	$1,600,000	4	2	2		699.0	Blackshaw Real Estate Coastal	50-tranquil-bay-place-rosedale-nsw-2536
 115780	House	2025-01-23	Price by Negotiation	2025-02-14	$1,370,000	3	1	1		757.0	Raine & Horne Mollymook Milton	40-jones-avenue-mollymook-beach-nsw-2539-115780
@@ -411,7 +411,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 116247	Villa	2025-01-31	$775,000	2025-02-20	$765,000	2	1	1			Raine & Horne Mollymook Milton	6-42-nurrawallee-street-ulladulla-nsw-2539
 116250	House	2025-01-31	$539,000	2025-02-18	Undisclosed	3	2	2		1127.0	PRD Wagga Wagga	8-rockliff-court-lockhart-nsw-2656
 116251	Townhouse	2025-01-31	$595,000 to $645,000	2025-03-05	$595,000	2	1	1			Ray White Bowral	58-arthur-street-moss-vale-nsw-2577
-116254	House	2025-01-31	Price range $495,000 - $525,000	2025-05-19	Undisclosed	3	2	1			Smile Elite	32-lorking-parkes-nsw-2870-116254
+116254	House	2025-01-31	Price range $495,000 - $525,000	2025-05-19	$487,670	3	2	1			Smile Elite	32-lorking-parkes-nsw-2870-116254
 116259	House	2025-01-31	AUCTION	2025-02-26	$612,000	4	3	1		1014.0	Smile Elite	47-park-road-nowra-nsw-2541
 116267	House	2025-02-02	$929,000	2025-05-06	$920,000	4	2	2		778.0	One Agency Wagga Wagga	25-nolan-street-lloyd-nsw-2650
 116268	House	2025-02-02	$990,000	2025-04-07	$990,000	3	2	1		689.2	One Agency Gatty Coastal	55-allenby-road-tuross-head-nsw-2537
@@ -894,7 +894,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 118295	House	2025-03-08	$829,000	2025-05-07	Undisclosed	4	3	2		848.0	Ray White Batemans Bay	36-eric-fenning-drive-surf-beach-nsw-2536-1
 118306	House	2025-03-10	$1,050,000 - $1,090,000	2025-04-03	$985,000	4	2	3		631.0	My Agent Team	117-blairs-road-long-beach-nsw-2536
 118311	AcreageSemi-rural	2025-03-10	Buyer's Guide $790,000 - $810,000	2025-04-10	$800,000	3	1	2		7809.0	Smile Elite	1199-limekilns-road-clear-creek-nsw-2795
-118313	House	2025-03-10	$775,000	2025-05-21	$775,000	3	1	2	1.0	877.0	The Real Estate Shop	83-mckillop-circuit-kambah-act-2902
+118313	House	2025-03-10	$775,000	2025-05-21	$775,000	3	1	2	1.00	877.0	The Real Estate Shop	83-mckillop-circuit-kambah-act-2902
 118315	House	2025-03-10	$375,000	2025-03-26	Undisclosed	3	1	2		1014.0	Flemings Property Services	25-lee-street-cowra-nsw-2794
 118322	House	2025-03-10	$850,000 - $900,000	2025-05-01	$850,000	4	2	5		922.0	My Agent Team	25-calton-road-batehaven-nsw-2536
 118324	House	2025-03-10	$880,000	2025-04-02	$855,000	4	2	2		997.0	LJ Hooker Moruya	7-cheddar-street-moruya-nsw-2537
@@ -961,7 +961,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 118674	Apartment	2025-03-14	$795,000	2025-05-02	Undisclosed	2	2	1			Belle Property Snowy Mountains	1-5-penders-court-jindabyne-nsw-2627
 118676	House	2025-03-14	$900,000 - $950,000	2025-03-14	Undisclosed	2	2	1			My Agent Team	11-murramarang-crescent-south-durras-nsw-2536
 118691	Unit	2025-03-14	$899,000	2025-03-14	$840,000	4	2	2			Sails Real Estate	323-ocean-drive-merimbula-nsw-2548-118691
-118704	House	2025-03-15	$699,000	2025-05-21	$690,000	4	2	1	0.0	720.0	Hallmark Real Estate Advisors	263-hector-mcwilliam-drive-tuross-head-nsw-2537
+118704	House	2025-03-15	$699,000	2025-05-21	$690,000	4	2	1	0.00	720.0	Hallmark Real Estate Advisors	263-hector-mcwilliam-drive-tuross-head-nsw-2537
 118722	House	2025-03-17	$589,000	2025-03-26	$580,000	3	1	1		337.0	Raine & Horne Goulburn	4-spadacini-place-goulburn-nsw-2580
 118723	House	2025-03-17	Auction Unless Sold Prior!	2025-04-11	$670,000	3	1	1		669.0	Ray White Goulburn	83-albert-street-goulburn-nsw-2580
 118724	Apartment	2025-03-17	$1,400,000 Price Guide	2025-04-16	Undisclosed	3	2	2			Sails Real Estate	1-2-carolynne-street-merimbula-nsw-2548
@@ -983,7 +983,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 118845	House	2025-03-19	$360,000+	2025-05-14	$340,000	2	1	1	0.0	9.29	Ray White Canberra	36-horizon-avenue-symonston-act-2609
 118848	House	2025-03-19	$1,325,000	2025-04-07	$1,325,000	4	2	2		696.0	Blackshaw Real Estate Coastal	6-tollgate-place-long-beach-nsw-2536
 118854	Unit	2025-03-19	$400,000+	2025-04-16	Undisclosed	1	1	1	6.0	1.65	Ray White Canberra	103121-easty-street-phillip-act-2606
-118859	Unit	2025-03-19	Auction 21/05/25	2025-05-21	$735,000	3	2	1	2.5		LJ Hooker Dickson	52a-forbes-street-turner-act-2612
+118859	Unit	2025-03-19	Auction 21/05/25	2025-05-21	$735,000	3	2	1	2.50		LJ Hooker Dickson	52a-forbes-street-turner-act-2612
 118863	House	2025-03-19	Auction	2025-04-12	$855,000	3	1	2	1.5	693.0	LJ Hooker Belconnen	44-broadbent-street-scullin-act-2614
 118866	House	2025-03-19	$549,000	2025-04-11	$530,000	3	1	1		810.0	Raine & Horne Goulburn	108-lansdowne-street-goulburn-nsw-2580
 118869	Apartment	2025-03-19	$499,000+	2025-05-07	Undisclosed	1	1	1	6.0		LJ Hooker Canberra City	228-2-anzac-park-campbell-act-2612
