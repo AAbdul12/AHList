@@ -338,7 +338,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 110589	House	2024-10-23	$1,550,000	2024-11-01	$1,500,000	4	2	4	5.5	623.0	Above Property Group	50-durong-street-crace-act-2911
 110598	House	2024-10-23	$985,000	2025-01-22	$965,000	5	2	4		768.0	My Agent Team	6-blairs-road-long-beach-nsw-2536
 110599	Lifestyle	2024-10-23	$1,425,000	2025-08-04	$1,400,000	4	2	4		1645.37	Ray White Goulburn	3551-junction-point-road-crooked-corner-nsw-2583-110599
-110612	Townhouse	2024-10-23	$999,000 +	2025-08-12	Undisclosed	3	2	2	5.5	450.0	LJ Hooker Woden/Weston	3113-mortimer-lewis-drive-greenway-act-2900
+110612	Townhouse	2024-10-23	$999,000 +	2025-08-12	Undisclosed	3	2	2	5.50	450.0	LJ Hooker Woden/Weston	3113-mortimer-lewis-drive-greenway-act-2900
 110617	House	2024-10-23	$840,000 - $860,000	2025-02-24	$830,000	4	2	2		708.0	Ray White Batemans Bay	52-freycinet-drive-sunshine-bay-nsw-2536
 110620	Apartment	2024-10-24	$575,000	2025-02-28	Undisclosed	2	2	2	6.0		Luton Weston Creek, Woden & Molonglo Valley	36-15-hoolihan-street-denman-prospect-act-2611
 110623	House	2024-10-24	$1,649,000	2025-01-13	Undisclosed	5	3	2	2.0	1332.0	Luton Weston Creek, Woden & Molonglo Valley	49-doyle-terrace-chapman-act-2611-110623
@@ -409,7 +409,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 111026	House	2024-10-30	$1,625,000+	2024-11-01	Undisclosed	4	3	2	6.0	567.0	Ray White Canberra	13-mcdonagh-crescent-whitlam-act-2611
 111027	House	2024-10-30	$1,225,000+	2025-06-27	Undisclosed	4	2	2	2.0	1118.0	Ray White Canberra	15-laseron-place-mawson-act-2607
 111030	House	2024-10-30	AUCTION	2024-11-09	$1,550,000	4	3	4	2.5	1249.0	Ray White Canberra	4-hodgeman-street-mawson-act-2607
-111032	Unit	2024-10-30	$715,000+	2025-08-11	Undisclosed	3	2	1	6.00		Ray White Canberra	702-258-northbourne-avenue-dickson-act-2602
+111032	Unit	2024-10-30	$715,000+	2025-08-11	Undisclosed	3	2	1	6.0		Ray White Canberra	702-258-northbourne-avenue-dickson-act-2602
 111041	Apartment	2024-10-30	$460,000	2025-03-21	$460,000	1	1	1	6.0		LJ Hooker Tuggeranong	345-kerridge-street-kingston-act-2604
 111049	Unit	2024-10-30	$89,000	2025-06-27	$80,000	1	1	1			LJ Hooker Batemans Bay	481939-george-bass-drive-tomakin-nsw-2537
 111058	Townhouse	2024-10-30	$875,000 to $925,000	2025-03-10	$835,000	3	2	1			Ray White Bowral	412-mack-street-moss-vale-nsw-2577
@@ -580,7 +580,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 112105	House	2024-11-14	$720,000	2025-05-26	Undisclosed	4	2	4		2088.0	Flemings Property Services	18-dry-street-boorowa-nsw-2586
 112106	House	2024-11-14	$850,000	2025-01-29	$850,000	3	2	2		419.0	home.by holly	62-rosewood-glen-jerrabomberra-nsw-2619
 112107	Unit	2024-11-14	$465,000	2024-12-05	$445,000	2	1	1	6.0		Luton Manuka	4153-mcmillan-crescent-griffith-act-2603
-112109	Apartment	2024-11-14	$320,000+	2025-08-11	Undisclosed	1	1	1	6.00		LJ Hooker Gungahlin	89329-flemington-road-franklin-act-2913
+112109	Apartment	2024-11-14	$320,000+	2025-08-11	Undisclosed	1	1	1	6.0		LJ Hooker Gungahlin	89329-flemington-road-franklin-act-2913
 112110	House	2024-11-14	Auction 07/12/2024	2024-12-07	$930,000	4	2	2	4.0	938.0	Ray White Canberra	6-prisk-place-bonython-act-2905
 112113	House	2024-11-14	Auction: 07/12/2024	2024-12-07	$870,000	4	1	2	1.5	961.0	Ray White Canberra	16-crichton-crescent-kambah-act-2902
 112115	Townhouse	2024-11-14	contact agent	2024-12-04	Undisclosed	3	2	2	6.0		home.by holly	75-macleay-street-turner-act-2612
@@ -617,6 +617,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 112296	House	2024-11-16	$842,000	2025-04-30	$825,000	4	2	2		626.0	One Agency Wagga Wagga	1-andrews-avenue-kooringal-nsw-2650
 112299	House	2024-11-16	$720,000	2025-01-16	$684,000	3	1	2		608.0	Dwyer Properties Sapphire Coast	26-narregol-street-pambula-nsw-2549-112299
 112304	Lifestyle	2024-11-16	$1,940,000	2025-08-08	$1,890,000	4	2	2		15.18	Marshall and Tacheci Real Estate	3410-tathra-bermagui-road-barragga-bay-nsw-2546
+112308	Land	2024-11-18	$225,000	2025-08-14	$225,000	0	0	0		677.7	Macarthur Real Estate Agency	11-flintwood-street-forest-hill-nsw-2651
 112315	House	2024-11-18	$800,000+	2025-02-17	Undisclosed	4	2	2	0.0	791.0	McIntyre Property	7-vale-place-wanniassa-act-2903
 112326	House	2024-11-18	$790,000 - $840,000	2025-02-10	$815,000	4	2	2		710.8	My Agent Team	56-ocean-avenue-surf-beach-nsw-2536
 112358	House	2024-11-18	$559,000	2025-01-17	$540,000	3	2	2		779.2	PRD Wagga Wagga	15-buchhorn-street-tolland-nsw-2650-112358
