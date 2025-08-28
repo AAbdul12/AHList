@@ -367,7 +367,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 116043	House	2025-01-30	$839,000	2025-08-05	$815,000	4	2	2		758.0	One Agency Wagga Wagga	70-best-street-wagga-wagga-nsw-2650
 116045	House	2025-01-30	$1,250,000	2025-03-10	$1,235,000	4	2	2		872.0	One Agency Wagga Wagga	13-lansdowne-avenue-lake-albert-nsw-2650
 116048	House	2025-01-30	Sold at Auction - $1,700,000	2025-02-22	$1,700,000	5	2	6	5.5	893.0	MARQ Property	2-bimberi-crescent-palmerston-act-2913
-116049	Apartment	2025-01-30	$810,000+	2025-08-26	$810,000	2	2	2	6.00		MARQ Property	40359-constitution-avenue-campbell-act-2612
+116049	Apartment	2025-01-30	$810,000+	2025-08-26	$810,000	2	2	2	6.0		MARQ Property	40359-constitution-avenue-campbell-act-2612
 116050	House	2025-01-30	$1,110,000	2025-02-19	$1,110,000	4	2	2	4.0	612.0	MARQ Property	19-wallaman-street-harrison-act-2914
 116051	House	2025-01-30	$880,000	2025-02-20	$880,000	3	2	2	3.5	390.0	MARQ Property	8-coomera-street-harrison-act-2914
 116053	House	2025-01-30	Auction 20/02/2025	2025-02-15	Undisclosed	2	2	1	6.0	357.0	Ray White Canberra	21-john-holt-street-macgregor-act-2615
@@ -829,7 +829,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 117554	Land	2025-02-24	Price Guide $600,000 - $650,000	2025-06-05	Undisclosed	0	0	0		500.0	Harcourts Greater Port Macquarie & The Rocks	12-waterside-way-lake-cathie-nsw-2445
 117565	Villa	2025-02-25	$490,000	2025-05-08	$490,000	2	1	1		354.0	Macarthur Real Estate Agency	20-birri-place-glenfield-park-nsw-2650-117565
 117566	House	2025-02-25	$765,000	2025-08-22	$750,000	4	4	2		953.0	PRD Wagga Wagga	6-mccoullough-drive-tolland-nsw-2650
-117577	Unit	2025-02-25	$355,000	2025-08-21	Undisclosed	1	1	1	6.00		Luton Gungahlin	406-2-terry-connolly-street-coombs-act-2611-117577
+117577	Unit	2025-02-25	$355,000	2025-08-21	Undisclosed	1	1	1	6.0		Luton Gungahlin	406-2-terry-connolly-street-coombs-act-2611-117577
 117584	House	2025-02-25	$720,000	2025-05-16	Undisclosed	4	2	2		1223.0	Ray White Wagga Wagga	26-bellevue-parade-kooringal-nsw-2650
 117586	DuplexSemi-detached	2025-02-25	$695,000	2025-04-30	$675,000	3	1	1		473.0	McGrath Batemans Bay & Moruya	5a-bottlebrush-place-maloneys-beach-nsw-2536
 117588	House	2025-02-25	$524,000	2025-04-30	Undisclosed	2	1	4		1033.0	Marshall and Tacheci Real Estate	3-gordon-street-quaama-nsw-2550
@@ -864,6 +864,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 117694	Apartment	2025-02-26	Price Guide $500,000+	2025-03-26	Undisclosed	1	1	1	6.0		LJ Hooker Canberra City	905-45-ainslie-avenue-braddon-act-2612
 117695	House	2025-02-26	$1,220,000	2025-03-20	$1,150,000	3	2	2		1.01	LJ Hooker Moruya	35-yarimup-place-moruya-nsw-2537
 117697	House	2025-02-26	UNDER OFFER	2025-03-14	$900,000	4	1	1		557.0	Property One Realty	25-verge-rd-callala-beach-nsw-2540-117697
+117701	House	2025-02-26	OFFERS INVITED	2025-08-28	Undisclosed	4	1	1		1105.0	Property One Realty	67-stott-cres-callala-bay-nsw-2540-117701
 117704	House	2025-02-26	$659,000	2025-03-24	$659,000	4	2	2		720.0	Kitson Property	4-paperbark-drive-forest-hill-nsw-2651
 117705	House	2025-02-26	Price by Negotiation	2025-03-24	Undisclosed	2	1	2		613.0	Raine & Horne Mollymook Milton	67-lake-view-drive-burrill-lake-nsw-2539
 117708	House	2025-02-26	Auction	2025-03-22	$985,000	3	1	2	4.5	720.0	LJ Hooker Dickson	127-antill-street-downer-act-2602
@@ -874,7 +875,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 117715	Apartment	2025-02-26	$489,000	2025-03-24	$489,000	2	1	1	6.0	5898.0	Ray White Canberra	80317-dooring-street-braddon-act-2612
 117717	DuplexSemi-detached	2025-02-26	$875,000	2025-04-23	$875,000	4	2	2	3.5	830.0	McIntyre Property	69-barr-smith-avenue-bonython-act-2905
 117721	Townhouse	2025-02-26	$900,000	2025-04-14	$900,000	2	2	1	6.0		LJ Hooker Belconnen	10-bluebell-street-oconnor-act-2602
-117725	Apartment	2025-02-26	$335,000	2025-08-25	Undisclosed	1	1	1	5.50		Impact Properties	216-38-oakden-street-greenway-act-2900
+117725	Apartment	2025-02-26	$335,000	2025-08-25	Undisclosed	1	1	1	5.5		Impact Properties	216-38-oakden-street-greenway-act-2900
 117727	House	2025-02-26	$1,015,000	2025-04-14	$1,015,000	4	2	4		956.0	Ray White Bungendore	9-mckay-drive-bungendore-nsw-2621
 117728	House	2025-02-26	Sold By Sam $1,220,000	2025-03-21	$1,220,000	4	2	3	5.0	457.0	MARQ Property	112-ormiston-circuit-harrison-act-2914
 117730	Apartment	2025-02-26	$580,000 - $610,000	2025-05-20	$590,000	2	2	2	6.0		LJ Hooker Gungahlin	39-14-hoolihan-street-denman-prospect-act-2611
