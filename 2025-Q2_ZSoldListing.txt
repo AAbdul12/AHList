@@ -105,7 +105,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 119947	Land	2025-04-08	$269,000	2025-06-10	$269,000	0	0	0		1928.0	McCann Properties	110-biala-street-gunning-nsw-2581
 119948	Townhouse	2025-04-08	$695,000+	2025-05-19	Undisclosed	3	2	2	6.0		Luton Weston Creek, Woden & Molonglo Valley	4820-fairhall-street-coombs-act-2611
 119950	House	2025-04-08	$799,000+	2025-04-07	$800,000	3	2	1	5.0	329.0	LJ Hooker Gungahlin	56-irinyili-street-bonner-act-2914-119950
-119952	Apartment	2025-04-08	$470,000	2025-09-04	$443,000	2	2	1	6.00	3506.0	Ray White Canberra	652-hinder-street-gungahlin-act-2912
+119952	Apartment	2025-04-08	$470,000	2025-09-04	$443,000	2	2	1	6.0	3506.0	Ray White Canberra	652-hinder-street-gungahlin-act-2912
 119959	House	2025-04-08	Contact Agent	2025-08-25	$650,000	2	1	1		485.8	Kitson Property	33-collins-street-turvey-park-nsw-2650
 119961	House	2025-04-08	$895,000 - $925,000	2025-08-06	$890,000	3	2	1		680.7	Bella Coastal Property	49-glasford-crescent-kioloa-nsw-2539
 119962	Villa	2025-04-08	$630,000 - $650,000	2025-06-02	$637,750	2	1	1			Ray White Bowral	761-kirkham-street-moss-vale-nsw-2577
@@ -361,7 +361,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 120917	Townhouse	2025-04-29	$770,000	2025-05-08	$770,000	2	1	1			Ray White Batemans Bay	1033-clyde-street-batemans-bay-nsw-2536-120917
 120918	House	2025-04-29	Auction 17/05/2025	2025-05-17	$910,000	3	2	4	5.0	430.0	Impact Properties	47-bronhill-street-moncrieff-act-2914
 120919	House	2025-04-29	$665,000- $679,000	2025-08-12	Undisclosed	3	1	3		662.0	Yass First National	62-lead-street-yass-nsw-2582
-120923	House	2025-04-29	Sold By Sam $760,000	2025-09-04	$760,000	3	1	1	6.00	250.0	MARQ Property	46-adventure-street-harrison-act-2914
+120923	House	2025-04-29	Sold By Sam $760,000	2025-09-04	$760,000	3	1	1	6.0	250.0	MARQ Property	46-adventure-street-harrison-act-2914
 120927	House	2025-04-29	$840,000	2025-06-30	$820,000	4	2	2		400.0	Raine & Horne Goulburn	18-craig-street-goulburn-nsw-2580
 120930	Unit	2025-04-30	Auction	2025-05-17	Undisclosed	2	2	2	6.0		LJ Hooker Belconnen	40919-marcus-clarke-street-city-act-2601
 120931	Apartment	2025-04-30	$560,000	2025-06-20	$560,000	3	2	2	6.0		LJ Hooker Belconnen	3513-chandler-street-belconnen-act-2617
@@ -460,7 +460,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 121253	House	2025-05-06	AUCTION	2025-05-24	$1,101,000	3	2	4		518.5	Fitzpatricks	90-peter-street-wagga-wagga-nsw-2650
 121257	House	2025-05-06	$549,000	2025-05-23	$549,000	2	1	1		452.0	PRD Wagga Wagga	2-wilton-street-bourkelands-nsw-2650
 121260	House	2025-05-06	$529,000	2025-06-17	$525,000	2	2	1		86.0	PRD Wagga Wagga	2469-gurwood-street-wagga-wagga-nsw-2650
-121265	Apartment	2025-05-06	$335,000+	2025-09-03	Undisclosed	1	1	1	6.00		LJ Hooker Canberra City	88329-flemington-road-franklin-act-2913
+121265	Apartment	2025-05-06	$335,000+	2025-09-03	Undisclosed	1	1	1	6.0		LJ Hooker Canberra City	88329-flemington-road-franklin-act-2913
 121267	House	2025-05-06	Price Guide $1,550,000- $1,650,000	2025-09-02	Undisclosed	4	2	2		4219.0	Raine & Horne Southern Highlands	7-old-oak-place-moss-vale-nsw-2577
 121275	Townhouse	2025-05-06	$599,000+	2025-06-20	$600,000	2	2	2	6.0		Impact Properties	8141-mapleton-avenue-harrison-act-2914
 121276	Townhouse	2025-05-06	By Negotiation	2025-06-12	$675,000	3	1	2		415.7	LJ Hooker Woden/Weston	1-20-morton-avenue-yass-nsw-2582
@@ -893,7 +893,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 123498	House	2025-06-19	Auction 03/07/2025	2025-06-26	$982,350	4	2	2	4.0	649.0	Ray White Canberra	10-fairlight-street-dunlop-act-2615
 123502	Unit	2025-06-19	$519,000	2025-08-01	$515,000	2	2	1	6.0		LJ Hooker Belconnen	9g-21-beissel-street-belconnen-act-2617-123502
 123506	House	2025-06-19	$699,000+	2025-09-03	Undisclosed	3	1	1	3.5	410.0	Luton Tuggeranong	3-zincke-close-calwell-act-2905
-123507	Flat	2025-06-19	Offers Over $380,000	2025-09-05	$380,000	2	1	1	5.50		LJ Hooker Dickson	8115-knox-street-watson-act-2602
+123507	Flat	2025-06-19	Offers Over $380,000	2025-09-05	$380,000	2	1	1	5.5		LJ Hooker Dickson	8115-knox-street-watson-act-2602
 123509	House	2025-06-19	$825,000+	2025-06-30	$835,000	4	2	2	1.0	800.0	LJ Hooker Gungahlin	8-macintyre-place-charnwood-act-2615
 123517	House	2025-06-19	Auction - $915,000	2025-07-16	$915,000	4	3	3	2.5	923.0	Ray White Canberra	48-falkiner-place-macarthur-act-2904
 123540	House	2025-06-19	$1,280,000+	2025-07-01	Undisclosed	5	4	3	2.0	925.0	Ray White Canberra	4-crofts-crescent-spence-act-2615
