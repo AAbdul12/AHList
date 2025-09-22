@@ -27,7 +27,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 119641	Apartment	2025-04-02	$380,000+	2025-05-16	Undisclosed	1	1	1	4.0		LJ Hooker Canberra City	7270-kings-canyon-street-harrison-act-2914
 119644	Land	2025-04-02	$580,000	2025-04-30	$530,000	0	0	0		771.0	Raine & Horne Mollymook Milton	1-myrtle-forest-drive-milton-nsw-2538
 119648	House	2025-04-02	$995,000	2025-05-13	$975,000	4	3	3		626.0	Fitzpatricks	6-beauty-point-avenue-turvey-park-nsw-2650
-119649	Townhouse	2025-04-02	$720,000 +	2025-09-15	$735,000	3	2	2	2.00		Cream Residential	14-port-jackson-circuit-phillip-act-2606
+119649	Townhouse	2025-04-02	$720,000 +	2025-09-15	$735,000	3	2	2	2.0		Cream Residential	14-port-jackson-circuit-phillip-act-2606
 119653	House	2025-04-02	$995,000	2025-06-20	$995,000	4	2	2		689.0	Blackshaw Real Estate Coastal	4-gosse-place-sunshine-bay-nsw-2536
 119663	House	2025-04-02	AUCTION	2025-04-14	Undisclosed	4	3	2	4.5	636.0	McIntyre Property	67-paperbark-street-banks-act-2906
 119664	Apartment	2025-04-02	$470,000	2025-05-30	$466,000	2	1	1	6.0		McIntyre Property	83116-easty-street-phillip-act-2606
@@ -174,6 +174,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 120158	House	2025-04-10	Auction	2025-05-10	Undisclosed	3	1	2	1.0	780.0	Luton Dickson	89-atherton-street-downer-act-2602
 120159	House	2025-04-10	Auction	2025-04-29	Undisclosed	4	1	1	0.5	926.0	LJ Hooker Woden/Weston	17-morant-circuit-kambah-act-2902
 120164	House	2025-04-10	AUCTION - Guide $1,300,000	2025-06-07	$1,475,000	3	3	4		797.0	Smile Elite	113-waldegrave-crescent-vincentia-nsw-2540
+120167	House	2025-04-10	Price By Negotiation	2025-09-19	$4,150,000	4	2	2		696.0	Raine & Horne Mollymook Milton	78-mitchell-parade-mollymook-beach-nsw-2539
 120175	House	2025-04-11	$695,000	2025-06-26	$680,000	2	1	1		2046.0	Kate Murphy Property	11-rosebery-street-tarago-nsw-2580
 120176	House	2025-04-11	contact agent	2025-07-14	Undisclosed	3	1	1	6.0		home.by holly	65-ian-nicol-street-watson-act-2602
 120180	House	2025-04-11	$1,250,000 - $1,300,000	2025-05-22	$1,265,000	4	2	2		344.0	Smile Elite	21-galleon-avenue-shell-cove-nsw-2529
@@ -602,7 +603,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 121793	House	2025-05-14	Auction 04/06/2025	2025-05-23	$1,000,000	3	1	1	1.0	780.0	Ray White Canberra	6-castlereagh-crescent-macquarie-act-2614
 121796	Unit	2025-05-14	$360,000	2025-06-26	Undisclosed	2	1	2			Raine & Horne Young	4f-yass-street-young-nsw-2594
 121812	Apartment	2025-05-15	$455,000+	2025-07-30	$455,000	1	1	1	6.0		MARQ Property	2064-masson-street-turner-act-2612
-121813	House	2025-05-15	$1,300,000+	2025-09-17	$1,300,000	4	2	2	4.5	700.0	MARQ Property	66-bilin-bilin-street-bonner-act-2914
+121813	House	2025-05-15	$1,300,000+	2025-09-17	$1,300,000	4	2	2	4.50	700.0	MARQ Property	66-bilin-bilin-street-bonner-act-2914
 121815	House	2025-05-15	Auction	2025-05-28	Undisclosed	4	2	2	4.5	1113.0	Luton Tuggeranong	7-louis-loder-street-theodore-act-2905
 121818	House	2025-05-15	Auction 07/06/2025	2025-06-07	$925,000	4	2	2	5.0	465.0	Ray White Canberra	37-liz-oneill-street-casey-act-2913
 121822	House	2025-05-15	Auction 07/06/2025	2025-06-07	Undisclosed	4	2	2	2.5	1010.0	LJ Hooker Dickson	104-limestone-avenue-ainslie-act-2602
@@ -786,6 +787,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 122691	Unit	2025-06-02	$289,000	2025-08-04	$275,000	2	1	1			Raine & Horne Goulburn	82-albion-street-goulburn-nsw-2580
 122694	House	2025-06-02	$725,000	2025-08-22	$720,000	3	1	2		2.02	Kitson Property	3120-coolamon-road-coolamon-nsw-2701
 122699	Land	2025-06-02	$422,900	2025-06-02	$421,000	0	0	0		1506.0	Macarthur Real Estate Agency	lot-201-orangebark-loop-lake-albert-nsw-2650-122699
+122705	Apartment	2025-06-02	$580,000 - $600,000	2025-09-19	Undisclosed	3	2	2			Smile Elite	298-10-lachlan-street-liverpool-nsw-2170
 122715	House	2025-06-03	$620,000 - $630,000	2025-08-01	$637,500	3	2	2		842.0	Macarthur Real Estate Agency	3-karoom-drive-glenfield-park-nsw-2650
 122722	House	2025-06-03	Buyers Guide $500,000 - $530,000	2025-07-01	$540,000	3	2	3		1037.0	Smile Elite	22-annesley-street-west-bathurst-nsw-2795
 122723	Townhouse	2025-06-03	$739,000+	2025-08-11	Undisclosed	3	2	2	6.0		LJ Hooker Gungahlin	94-60-kingsland-parade-casey-act-2913
@@ -941,6 +943,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 123604	House	2025-06-20	$599,000	2025-07-30	Undisclosed	3	1	1		992.0	Ray White Bowral	16-ball-street-moss-vale-nsw-2577
 123608	House	2025-06-20	$840,000 - $870,000	2025-06-27	$850,000	3	3	2		584.0	My Agent Team	25-grantham-road-batehaven-nsw-2536
 123611	House	2025-06-20	$969,000	2025-08-21	Undisclosed	3	2	3	8.0	612.0	Harcourts Greater Port Macquarie & The Rocks	3-cook-drive-south-west-rocks-nsw-2431
+123617	House	2025-06-20	$305,000	2025-09-19	$305,000	3	1	3		632.7	Ray White Wagga Wagga	41-mumford-street-ashmont-nsw-2650
 123618	House	2025-06-20	$559,000	2025-07-14	Undisclosed	3	1	1		659.6	Ray White Wagga Wagga	4-berembee-road-bourkelands-nsw-2650
 123620	Land	2025-06-20	$553,500	2025-09-05	$553,500	0	0	0	0.0	476.0	Ginninderry	59-sherrard-crescent-macnamara-act-2615
 123624	House	2025-06-20	$550,000 - $570,000	2025-07-18	Undisclosed	3	2	1		734.2	Ray White Wagga Wagga	109-macleay-street-turvey-park-nsw-2650
@@ -989,6 +992,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 123878	Land	2025-06-26	$423,900	2025-06-25	$423,900	0	0	0		1500.0	Macarthur Real Estate Agency	lot-207-orangebark-loop-lake-albert-nsw-2650-123878
 123880	Townhouse	2025-06-26	Auction	2025-07-18	Undisclosed	3	3	2	6.0		Luton Gungahlin	4617-eldridge-crescent-garran-act-2605
 123886	Townhouse	2025-06-26	$590,000+	2025-08-01	$606,000	2	1	1	5.5	2230.0	Ray White Canberra	92-belconnen-way-page-act-2614
+123893	House	2025-06-26	$715,000	2025-09-19	$680,000	2	2	2		1138.0	Clearwater Real Estate Narooma	8-maunsell-street-moruya-nsw-2537
 123896	House	2025-06-26	Auction 16/07/2025	2025-07-16	$925,000	4	2	2	5.0	793.0	Ray White Canberra	16-alice-jackson-crescent-gilmore-act-2905
 123898	House	2025-06-26	740000	2025-09-04	$740,000	4	2	2		778.0	Blackshaw Real Estate Coastal	37-calga-crescent-catalina-nsw-2536
 123899	House	2025-06-26	Auction	2025-07-19	$955,000	3	1	2	4.0	716.0	LJ Hooker Woden/Weston	17-glenorchy-street-lyons-act-2606
