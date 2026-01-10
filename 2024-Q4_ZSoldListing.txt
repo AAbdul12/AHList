@@ -655,7 +655,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 112433	Lifestyle	2024-11-19	$390,000	2025-03-06	$360,000	0	0	0		242800.0	Belle Property Snowy Mountains	110-callemondah-road-cooma-nsw-2630-112433
 112442	House	2024-11-19	$389,000	2024-12-03	$395,000	2	1	1		226.0	PRD Wagga Wagga	425-darri-street-glenfield-park-nsw-2650
 112443	House	2024-11-19	$2,500,000	2025-05-29	$2,350,000	3	1	2		70.0	Raine & Horne Berry	973-wattamolla-road-wattamolla-nsw-2535
-112455	House	2024-11-19	$845,000+	2025-11-25	Undisclosed	4	2	2	7.00		LJ Hooker Gungahlin	12-gadd-street-jacka-act-2914
+112455	House	2024-11-19	$845,000+	2025-11-25	Undisclosed	4	2	2	7.0		LJ Hooker Gungahlin	12-gadd-street-jacka-act-2914
 112472	Unit	2024-11-20	$760,000	2025-04-04	$760,000	2	2	2	6.0	1.2	Ray White Canberra	8356-printers-way-kingston-act-2604
 112474	House	2024-11-20	For Sale-$1,079,000	2025-05-16	$1,040,000	6	3	3		635.7	Ray White Bowral	7-endeavour-circuit-moss-vale-nsw-2577
 112476	House	2024-11-20	$649,000	2025-01-29	$645,000	3	1	1	6.0	299.0	LJ Hooker Belconnen	41-bryan-hudson-street-macgregor-act-2615
@@ -771,6 +771,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 113097	House	2024-11-28	$749,000+	2025-02-06	Undisclosed	3	1	0	2.5	732.0	LJ Hooker Gungahlin	18-fiaschi-street-macgregor-act-2615
 113103	House	2024-11-28	$770,000+	2025-01-28	Undisclosed	4	1	2	0.5	619.0	LJ Hooker Kippax	83-ashburner-street-higgins-act-2615
 113105	Townhouse	2024-11-28	Offers Over $610,000	2025-06-26	$640,000	3	2	2	6.0		LJ Hooker Gungahlin	3-26-feilman-street-taylor-act-2913
+113106	House	2024-11-28	$620,000	2026-01-08	Undisclosed	3	2	1		529.0	Mallacoota Real Estate Pty Ltd	5-hunter-street-mallacoota-vic-3892-113106
 113112	House	2024-11-28	$649,000	2025-03-10	$655,000	3	2	2		933.0	Macarthur Real Estate Agency	58-main-street-lake-albert-nsw-2650
 113116	Apartment	2024-11-28	$780,000	2025-02-06	$780,000	3	2	2	6.0		home.by holly	74114-thynne-street-bruce-act-2617
 113122	House	2024-11-28	$349,000	2025-05-01	$345,000	3	2	3		2061.0	Ray White Wagga Wagga	37-39-bourke-street-matong-nsw-2652-113122
@@ -898,7 +899,7 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 113807	House	2024-12-10	Contact Agent	2025-01-31	Undisclosed	4	3	4		1049.0	Blackshaw Real Estate Coastal	19-jarrah-way-malua-bay-nsw-2536
 113809	House	2024-12-10	Price Guide $1,125,000+	2025-02-03	$1,200,000	4	2	2	2.5	871.0	LJ Hooker Gungahlin	24-noble-close-ngunnawal-act-2913
 113816	House	2024-12-10	$980,000 - $1,040,000	2025-03-14	$985,000	4	2	2		3058.0	Macarthur Real Estate Agency	1a-silverwood-road-lake-albert-nsw-2650
-113820	Unit	2024-12-10	$450,000+	2025-11-25	Undisclosed	1	1	1	6.00		Ray White Canberra	207-25-challis-street-dickson-act-2602
+113820	Unit	2024-12-10	$450,000+	2025-11-25	Undisclosed	1	1	1	6.0		Ray White Canberra	207-25-challis-street-dickson-act-2602
 113821	House	2024-12-10	Auction 18/01/2025	2025-01-18	$990,000	4	3	1	2.0	768.0	Ray White Canberra	7-cracknell-street-monash-act-2904
 113826	Land	2024-12-10	$975,000	2025-10-16	$975,000	0	0	0			Berkely Residential	161-poppett-road-wamboin-nsw-2620-113826
 113832	House	2024-12-10	$895,000 - $925,000	2025-01-23	$910,000	3	2	1		649.0	Raine & Horne Mollymook Milton	7-north-street-ulladulla-nsw-2539
@@ -1116,5 +1117,5 @@ id	type	ListingDate	PriceLabel	SoldDate	SoldPrice	Beds	Baths	Cars	EER	PlotSize	A
 121281	House	2024-11-11	$635,000	2025-05-13	$595,000	3	1	2		684.0	PRD Wagga Wagga	19-forrest-street-lake-albert-nsw-2650
 122018	House	2024-10-02	$540,000	2025-06-27	$520,000	3	1	1		1140.0	Ray White Bungendore	24-beverly-hills-road-captains-flat-nsw-2623
 123241	House	2024-10-29	$145,000	2025-06-13	$135,000	2	1	1			LJ Hooker Malua Bay	107-51-beach-road-batehaven-nsw-2536-123241
-124291	Unit	2024-10-16	$349,000+	2025-11-25	$365,000	1	1	1	6.00	8026.0	Ray White Canberra	68-baudinette-circuit-bruce-act-2617
+124291	Unit	2024-10-16	$349,000+	2025-11-25	$365,000	1	1	1	6.0	8026.0	Ray White Canberra	68-baudinette-circuit-bruce-act-2617
 125636	Unit	2024-10-05	$745,000	2025-11-12	$745,000	2	2	3			Blackshaw Real Estate Coastal	10216-beach-road-batehaven-nsw-2536
